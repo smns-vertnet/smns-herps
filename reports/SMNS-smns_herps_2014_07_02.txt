@@ -1,0 +1,157 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 323
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Slovakia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 112
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 5
+	Date: 2014-06-02 ; Times: 7
+	Date: 2014-06-03 ; Times: 1
+	Date: 2014-06-04 ; Times: 3
+	Date: 2014-06-05 ; Times: 1
+	Date: 2014-06-06 ; Times: 9
+	Date: 2014-06-07 ; Times: 6
+	Date: 2014-06-08 ; Times: 11
+	Date: 2014-06-09 ; Times: 24
+	Date: 2014-06-10 ; Times: 6
+	Date: 2014-06-11 ; Times: 2
+	Date: 2014-06-12 ; Times: 1
+	Date: 2014-06-13 ; Times: 2
+	Date: 2014-06-15 ; Times: 1
+	Date: 2014-06-17 ; Times: 1
+	Date: 2014-06-18 ; Times: 3
+	Date: 2014-06-19 ; Times: 9
+	Date: 2014-06-20 ; Times: 9
+	Date: 2014-06-21 ; Times: 3
+	Date: 2014-06-22 ; Times: 7
+	Date: 2014-06-23 ; Times: 7
+	Date: 2014-06-24 ; Times: 1
+	Date: 2014-06-25 ; Times: 2
+	Date: 2014-06-27 ; Times: 17
+	Date: 2014-06-28 ; Times: 1
+	Date: 2014-06-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Brazil" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "country:"Peru" genus:Lachesis" ; Times: 2
+	Query: "specificepithet:bipunctatus genus:Coniophanes" ; Times: 2
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Python regius" ; Times: 3
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:Leptodeira" ; Times: 1
+	Query: "bombina" ; Times: 1
+	Query: "Bungarus" ; Times: 5
+	Query: "genus:Stenorrhina" ; Times: 1
+	Query: "stateprovince:"Manabi" country:"Ecuador" class:Reptilia" ; Times: 3
+	Query: "country:"Ecuador" specificepithet:albirostris genus:Liotyphlops" ; Times: 1
+	Query: "genus:elseya" ; Times: 2
+	Query: "1834" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 4
+	Query: "country:"Costa Rica" genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Zulia" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "country:"Brazil" genus:Leptodeira" ; Times: 2
+	Query: "stateprovince:"Lima" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "stateprovince:"La Libertad" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 4
+	Query: "country:"Suriname" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 7
+	Query: "kinosternon scorpioides" ; Times: 17
+	Query: "country:"Guatemala" specificepithet:bipunctatus genus:Coniophanes" ; Times: 1
+	Query: "specificepithet:albirostris genus:Liotyphlops" ; Times: 2
+	Query: "carettochelys insculpta" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 5
+	Query: "genus:carettochelys" ; Times: 1
+	Query: "specificepithet:frenata genus:mabuya mappable:1" ; Times: 1
+	Query: "genus:Atractus" ; Times: 1
+	Query: "stateprovince:"Zulia" country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 3
+	Query: "genus:Pseustes" ; Times: 4
+	Query: "Hoplobatrachus occipitalis" ; Times: 1
+	Query: "country:"Peru" genus:Corallus" ; Times: 1
+	Query: "country:"Peru" genus:Sibynomorphus" ; Times: 2
+	Query: "boa constrictor" ; Times: 1
+	Query: "stateprovince:"San Martin" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 14
+	Query: "country:"Suriname" genus:Pseustes" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "pristidactylus" ; Times: 1
+	Query: "specificepithet:cenchria genus:Epicrates" ; Times: 2
+	Query: "country:"Brazil" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Egernia kingii" ; Times: 1
+	Query: "stateprovince:"Esmeraldas" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "country:"Peru" genus:Imantodes" ; Times: 1
+	Query: "country:"Peru" genus:Bothrops" ; Times: 1
+	Query: "country:"Peru" genus:Oxyrhopus" ; Times: 1
+	Query: "stateprovince:"Huanuco" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "country:"Peru" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "crocodylus porosus country:"Indonesia"" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Germany" class:Reptilia" ; Times: 1
+	Query: ""Cercosaura ocellata" mappable:1" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" class:Amphibia" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 16
+	Query: "proteus anguinus" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 278 download events in this period)
+Total number of records downloaded: 36 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 36
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 1
+	Date: 2014-06-02 ; Times: 1
+	Date: 2014-06-03 ; Times: 1
+	Date: 2014-06-17 ; Times: 1
+	Date: 2014-06-24 ; Times: 1
+	Date: 2014-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus porosus country:"Indonesia"" ; Times: 1
+	Query: "Dendrobates histrionicus" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "stateprovince:"Arizona" class:Reptilia year >= 1801 year <= 2014" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 295
+Total number of records retrieved from searches: 948
+Number of download events that retrieved data from the resource: 88
+Total number of records downloaded: 901
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 295
+Total number of records retrieved from searches: 948
+Number of download events that retrieved data from the resource: 126
+Total number of records downloaded: 1840
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
