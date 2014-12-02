@@ -1,0 +1,147 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 2778
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 71
+	Country: Malaysia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-04 ; Times: 4
+	Date: 2014-11-06 ; Times: 1
+	Date: 2014-11-07 ; Times: 3
+	Date: 2014-11-08 ; Times: 14
+	Date: 2014-11-09 ; Times: 2
+	Date: 2014-11-10 ; Times: 1
+	Date: 2014-11-11 ; Times: 4
+	Date: 2014-11-13 ; Times: 2
+	Date: 2014-11-14 ; Times: 4
+	Date: 2014-11-18 ; Times: 1
+	Date: 2014-11-19 ; Times: 11
+	Date: 2014-11-21 ; Times: 11
+	Date: 2014-11-24 ; Times: 25
+	Date: 2014-11-25 ; Times: 2
+	Date: 2014-11-26 ; Times: 3
+	Date: 2014-11-27 ; Times: 30
+	Date: 2014-11-28 ; Times: 21
+	Date: 2014-11-29 ; Times: 2
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: "country:"Thailand" institutioncode:Smns" ; Times: 4
+	Query: "Eunectes" ; Times: 3
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Eretmochelys" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 12
+	Query: "country:"Thailand" genus:Oligodon" ; Times: 3
+	Query: "rafetus euphraticus" ; Times: 8
+	Query: "tarsius" ; Times: 2
+	Query: "country:"Viet Nam" institutioncode:SMNS" ; Times: 1
+	Query: "Fruhstorfer institutioncode:SMNS" ; Times: 3
+	Query: "country:"Cambodia" institutioncode:Smns" ; Times: 1
+	Query: "institutioncode:Smns" ; Times: 1
+	Query: "Corallus" ; Times: 2
+	Query: "country:"Lao" institutioncode:SMNS" ; Times: 2
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "moloch" ; Times: 1
+	Query: "country:"Thailand" institutioncode:SMNS" ; Times: 7
+	Query: "Bleeker institutioncode:SMNS" ; Times: 2
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Tropidophis" ; Times: 1
+	Query: "TACHYMENIS" ; Times: 1
+	Query: ""Chamaeleo chamaeleon" (Egypt)" ; Times: 1
+	Query: "python" ; Times: 4
+	Query: "Boa constrictor" ; Times: 2
+	Query: "gastrophryne usta" ; Times: 1
+	Query: "phyllodactylus reissii" ; Times: 2
+	Query: "genus:Lipinia institutioncode:SMNS" ; Times: 2
+	Query: "genus:Calotes institutioncode:SMNS" ; Times: 2
+	Query: "stateprovince:"Sulawesi" institutioncode:SMNS" ; Times: 1
+	Query: "SMNS Chamaeleo chamaeleon (Israel)" ; Times: 2
+	Query: "American Museum of Natural History Chamaeleo chamaeleon (Israel)" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: ""Chamaeleo chamaeleon"" ; Times: 1
+	Query: "country:"Cambodia" institutioncode:SMNS" ; Times: 3
+	Query: "ogmodon vitianus" ; Times: 1
+	Query: "Leiopython" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 2
+	Query: "institutioncode:SMNS" ; Times: 5
+	Query: "Chamaeleo chamaeleon (Israel)" ; Times: 2
+	Query: "Fruhstorfer" ; Times: 2
+	Query: "galapagos tortoise" ; Times: 2
+	Query: "kinosternon acutum institutioncode:SMNS" ; Times: 1
+	Query: "Cerrophidion" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "country:"Peru" institutioncode:SMNS" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 9
+	Query: "Epicrates" ; Times: 2
+	Query: ""crotalus adamanteus" type:specimen mappable:1" ; Times: 1
+	Query: "malacochersus" ; Times: 1
+	Query: "country:"Morocco" institutioncode:SMNS" ; Times: 1
+	Query: "country:"New Zealand" institutioncode:SMNS" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lemniscatus genus:Cnemidophorus" ; Times: 1
+	Query: "Porthidium" ; Times: 1
+	Query: "genus:Oligodon institutioncode:SMNS" ; Times: 1
+	Query: "hyla arborea" ; Times: 1
+	Query: "country:"Burma" institutioncode:SMNS" ; Times: 1
+	Query: "genus:Lygosoma institutioncode:SMNS" ; Times: 4
+	Query: "genus:Porthidium year >= 1800 year <= 2014" ; Times: 1
+	Query: "claudius angustatus" ; Times: 2
+	Query: "country:"Viet Nam" institutioncode:Smns" ; Times: 1
+	Query: "country:"Malaysia" institutioncode:SMNS" ; Times: 2
+	Query: "candoia bibroni" ; Times: 2
+	Query: "varanus griseus" ; Times: 1
+	Query: "class:Reptilia catalognumber:4127" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 736
+Total number of records retrieved from searches: 5169
+Number of download events that retrieved data from the resource: 156
+Total number of records downloaded: 10920
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 736
+Total number of records retrieved from searches: 5169
+Number of download events that retrieved data from the resource: 194
+Total number of records downloaded: 11859
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
