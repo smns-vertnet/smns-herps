@@ -1,0 +1,209 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 920
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 11
+	Country: France ; Times: 3
+	Country: Germany ; Times: 19
+	Country: Greece ; Times: 2
+	Country: Honduras ; Times: 5
+	Country: Hong Kong ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Namibia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Spain ; Times: 3
+	Country: Sweden ; Times: 6
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 43
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-06 ; Times: 3
+	Date: 2015-01-07 ; Times: 4
+	Date: 2015-01-08 ; Times: 10
+	Date: 2015-01-09 ; Times: 12
+	Date: 2015-01-12 ; Times: 5
+	Date: 2015-01-13 ; Times: 3
+	Date: 2015-01-14 ; Times: 6
+	Date: 2015-01-15 ; Times: 6
+	Date: 2015-01-16 ; Times: 6
+	Date: 2015-01-19 ; Times: 9
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-21 ; Times: 8
+	Date: 2015-01-22 ; Times: 13
+	Date: 2015-01-23 ; Times: 6
+	Date: 2015-01-24 ; Times: 9
+	Date: 2015-01-25 ; Times: 2
+	Date: 2015-01-26 ; Times: 2
+	Date: 2015-01-28 ; Times: 3
+	Date: 2015-01-29 ; Times: 7
+	Date: 2015-01-30 ; Times: 1
+	Date: 2015-01-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothrops itapetiningae" ; Times: 1
+	Query: "Caudiverbera caudiverbera" ; Times: 2
+	Query: "crocodylus acutus" ; Times: 5
+	Query: "Salamandra" ; Times: 4
+	Query: "Crotalus Adamanteus stateprovince:"Florida"" ; Times: 1
+	Query: "Nigeria type:specimen (squamata)" ; Times: 1
+	Query: "heosemys spinosa AND (NOT california) year >= 1970 year <= 2014" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 2
+	Query: "Spilotes pullatus" ; Times: 5
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "Bombina bombina" ; Times: 2
+	Query: "Rhinoderma darwinii" ; Times: 5
+	Query: "Zootoca" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "Dendrophryniscus minutus" ; Times: 1
+	Query: "squamata nigeria" ; Times: 1
+	Query: "SMNS typus" ; Times: 1
+	Query: "rhabdophis subminiatus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 2
+	Query: "genus:Maticora" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Hyla sarda" ; Times: 2
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "Echis carinatus" ; Times: 4
+	Query: "Liolaemus cyanogaster" ; Times: 1
+	Query: "Vipera l" ; Times: 1
+	Query: "Bougainville type:specimen (reptiles) year >= 1915 year <= 2015" ; Times: 1
+	Query: "bombina bombina" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "Bougainville reptiles type:specimen year >= 1915 year <= 2015" ; Times: 1
+	Query: "SMNS Java" ; Times: 2
+	Query: "salamandra country:"germany"" ; Times: 1
+	Query: "psammobates" ; Times: 1
+	Query: "SMNS 288" ; Times: 1
+	Query: "sitana" ; Times: 2
+	Query: "amphibians country:"solomon islands"" ; Times: 1
+	Query: "lycodonomorphus" ; Times: 1
+	Query: "Bleeker" ; Times: 1
+	Query: "morelia viridis" ; Times: 1
+	Query: "opisthotropis" ; Times: 3
+	Query: "SMNS Dendrelaphis" ; Times: 2
+	Query: "cenchria" ; Times: 1
+	Query: "phrynosoma cornutum AND (NOT Texas NOT Mexico)" ; Times: 3
+	Query: "Eirenis" ; Times: 1
+	Query: "aru island" ; Times: 1
+	Query: "Hyla arborea" ; Times: 2
+	Query: "sceloporus formosus" ; Times: 2
+	Query: "zootoca vivipara" ; Times: 2
+	Query: "galapagos tortoise" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "enhydrina schistosa" ; Times: 1
+	Query: "Batrachyla leptopus" ; Times: 1
+	Query: "Solomon Islands type:specimen class:Reptilia (reptiles) year >= 1915 year <= 2015" ; Times: 1
+	Query: "Anolis concolor" ; Times: 3
+	Query: "Polemon neuwiedi" ; Times: 1
+	Query: "ABRONIA DEPPII" ; Times: 1
+	Query: "SMNS Calamaria" ; Times: 1
+	Query: "SMNS" ; Times: 1
+	Query: "hemisus" ; Times: 1
+	Query: "Philothamnus hoplogaster" ; Times: 1
+	Query: "chitra indica" ; Times: 4
+	Query: "amphibia country:"germany"" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "country:"brazil" genus:mabuya" ; Times: 1
+	Query: "cylindrophis" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 1
+	Query: "SMNS Borneo" ; Times: 2
+	Query: "Crotalus Adamanteus (Florida)" ; Times: 1
+	Query: "Pararhadinaea" ; Times: 1
+	Query: "strongylopus grayii" ; Times: 1
+	Query: "HEOSEMYS SPINOSA" ; Times: 1
+	Query: "SMNS Bleeker" ; Times: 1
+	Query: "atretium schistosum" ; Times: 1
+	Query: "Eunectes murinus Venezuela" ; Times: 1
+	Query: "Eunectes Venezuela" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 2
+	Query: "anolis equestris" ; Times: 2
+	Query: "SMNS Ceratophrys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 445 download events in this period)
+Total number of records downloaded: 391 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 380
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-07 ; Times: 2
+	Date: 2015-01-08 ; Times: 2
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-13 ; Times: 3
+	Date: 2015-01-15 ; Times: 2
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-20 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-24 ; Times: 3
+	Date: 2015-01-26 ; Times: 3
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-30 ; Times: 1
+	Date: 2015-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "adenomera andreae" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Phrynocephalus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Dendrophryniscus minutus" ; Times: 1
+	Query: "liolaemus" ; Times: 1
+	Query: "morelia viridis" ; Times: 2
+	Query: "Phrynosoma" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "aru island" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "genus:Hydromantes" ; Times: 1
+	Query: "Solomon Islands type:specimen class:Reptilia (reptiles) year >= 1915 year <= 2015" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "Discoglossus" ; Times: 1
+	Query: "tropidurus" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 819
+Total number of records retrieved from searches: 6324
+Number of download events that retrieved data from the resource: 24
+Total number of records downloaded: 391
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 939
+Total number of records retrieved from searches: 7244
+Number of download events that retrieved data from the resource: 271
+Total number of records downloaded: 13596
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
