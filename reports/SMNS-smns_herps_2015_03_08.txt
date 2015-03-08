@@ -1,0 +1,232 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 401
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 9
+	Country: Russia ; Times: 12
+	Country: Serbia ; Times: 1
+	Country: South Africa ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 9
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 49
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 5
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 5
+	Date: 2015-02-05 ; Times: 16
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-08 ; Times: 7
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-12 ; Times: 6
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-14 ; Times: 5
+	Date: 2015-02-15 ; Times: 5
+	Date: 2015-02-16 ; Times: 3
+	Date: 2015-02-18 ; Times: 3
+	Date: 2015-02-21 ; Times: 2
+	Date: 2015-02-23 ; Times: 12
+	Date: 2015-02-24 ; Times: 13
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-26 ; Times: 9
+	Date: 2015-02-27 ; Times: 4
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Triturus vulgaris" ; Times: 1
+	Query: "heterixalus madagascariensis" ; Times: 1
+	Query: "Mantella" ; Times: 2
+	Query: "Varanus salvadorii" ; Times: 2
+	Query: "Daboia mappable:1" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "specificepithet:moreletii genus:Agalychnis" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 3
+	Query: "Tupinambis" ; Times: 1
+	Query: "Morelia boeleni" ; Times: 7
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "country:"Ecuador" genus:Leptophis" ; Times: 1
+	Query: "Lytorhynchus maynardi" ; Times: 2
+	Query: "Hyla meridionalis" ; Times: 1
+	Query: "mabuya frenata" ; Times: 1
+	Query: "Leptodeira Mexico" ; Times: 2
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "sierra tigre" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 1
+	Query: "Bufo mauritanicus" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "stateprovince:"Zulia" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "testudo" ; Times: 1
+	Query: "Heterixalus" ; Times: 1
+	Query: "gerrhosaurus nigrolineatus" ; Times: 4
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 1
+	Query: "cercosaura ocellata" ; Times: 1
+	Query: "vipera kaznakovi" ; Times: 1
+	Query: "Ctenosaura acanthura country:"Mexico"" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Rhinoclemmys nasuta" ; Times: 1
+	Query: "bombina orientalis" ; Times: 1
+	Query: "gerrhosaurus" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "Chioglossa lusitanica" ; Times: 2
+	Query: "Vipera berus" ; Times: 4
+	Query: "lycodonomorphus" ; Times: 2
+	Query: "Malacochersus" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "causus" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 1
+	Query: "Oxyrhopus melanogenys" ; Times: 6
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "testudo graeca" ; Times: 8
+	Query: "texas tortoise" ; Times: 1
+	Query: "Vipera" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "Daboia" ; Times: 2
+	Query: "Leptodeira annulata Mexico" ; Times: 1
+	Query: "salamandra" ; Times: 3
+	Query: "danube river" ; Times: 1
+	Query: "country:"Ecuador" genus:Drymarchon" ; Times: 1
+	Query: "country:"Nicaragua" genus:Boa" ; Times: 1
+	Query: "Furcifer" ; Times: 1
+	Query: "Leptopelis flavomaculatus" ; Times: 1
+	Query: "country:"Ecuador" genus:Epicrates" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "HEOSEMYS SPINOSA" ; Times: 1
+	Query: "country:"Venezuela" genus:Clelia" ; Times: 1
+	Query: "heosemys spinosa mappable:1" ; Times: 1
+	Query: "zygaspis quadrifrons" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Tomopterna cryptotis" ; Times: 1
+	Query: "country:"Colombia" genus:Corallus" ; Times: 1
+	Query: "bolitoglossa platydactyla distance(location,geopoint(23.725011735951796,-102.568359375))<100000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 326 download events in this period)
+Total number of records downloaded: 3119 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1982
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Russia ; Times: 5
+	Country: South Africa ; Times: 3
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 3
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 7
+	Date: 2015-02-06 ; Times: 3
+	Date: 2015-02-07 ; Times: 3
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 9
+	Date: 2015-02-13 ; Times: 7
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 2
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 6
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-27 ; Times: 2
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Triturus vulgaris" ; Times: 1
+	Query: "country:"Mexico" specificepithet:spinosus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Pyxicephalus adspersus" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "Hyla meridionalis" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "bolitoglossa platydactyla distance(location,geopoint(23.885837699862016,-102.4365234375))<940248" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "gerrhosaurus nigrolineatus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Hyla japonica" ; Times: 1
+	Query: "type:specimen country:"cuba" class:amphibia" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:amphibia" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Ambystoma country:"mexico"" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 1
+	Query: "Daboia" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "Hyla savignyi" ; Times: 1
+	Query: "country:"Mexico" specificepithet:variabilis genus:Sceloporus" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Imantodes" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Tomopterna cryptotis" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 925
+Total number of records retrieved from searches: 6725
+Number of download events that retrieved data from the resource: 79
+Total number of records downloaded: 3510
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1045
+Total number of records retrieved from searches: 7645
+Number of download events that retrieved data from the resource: 326
+Total number of records downloaded: 16715
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
