@@ -1,0 +1,297 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 155
+Number of records retrieved in searches: 1084
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 2
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 9
+	Country: France ; Times: 3
+	Country: Germany ; Times: 18
+	Country: Indonesia ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: Panama ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 10
+	Country: Sweden ; Times: 3
+	Country: United States ; Times: 72
+	Country: Unknown ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 7
+	Date: 2015-07-03 ; Times: 4
+	Date: 2015-07-05 ; Times: 4
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-10 ; Times: 4
+	Date: 2015-07-13 ; Times: 8
+	Date: 2015-07-14 ; Times: 13
+	Date: 2015-07-15 ; Times: 3
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 6
+	Date: 2015-07-18 ; Times: 4
+	Date: 2015-07-20 ; Times: 4
+	Date: 2015-07-21 ; Times: 10
+	Date: 2015-07-22 ; Times: 8
+	Date: 2015-07-23 ; Times: 12
+	Date: 2015-07-24 ; Times: 9
+	Date: 2015-07-25 ; Times: 7
+	Date: 2015-07-26 ; Times: 5
+	Date: 2015-07-27 ; Times: 7
+	Date: 2015-07-28 ; Times: 2
+	Date: 2015-07-29 ; Times: 11
+	Date: 2015-07-30 ; Times: 10
+	Date: 2015-07-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:500" ; Times: 1
+	Query: "Sternotherus depressus" ; Times: 1
+	Query: "Melanochelys trijuga" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: ""Pygopus lepidopodus"" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "specificepithet:lineaticollis genus:Pituophis" ; Times: 1
+	Query: "vipera kaznakovi" ; Times: 9
+	Query: "hypsilurus" ; Times: 1
+	Query: "specificepithet:occiduus genus:Celestus" ; Times: 4
+	Query: "Tupinambis" ; Times: 1
+	Query: "Borneo institutioncode:SMNS" ; Times: 1
+	Query: "dendrelaphis formosus" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 6
+	Query: ""eirenis decemlineata"" ; Times: 1
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "BERUS" ; Times: 1
+	Query: "Trachemys decorata year >= 1900 year <= 2013" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 9
+	Query: "pelusios" ; Times: 1
+	Query: "ptyas fuscus" ; Times: 1
+	Query: "malayemys" ; Times: 2
+	Query: "zootoca vivipara" ; Times: 3
+	Query: "crotalus molossus stateprovince:"new mexico"" ; Times: 1
+	Query: "ctenosaura" ; Times: 1
+	Query: "Cyclemys" ; Times: 1
+	Query: "cuora" ; Times: 1
+	Query: "Elapoidis" ; Times: 1
+	Query: "Malayemys subtrijuga" ; Times: 2
+	Query: "Bocas del Toro" ; Times: 1
+	Query: "gerrhosaurus nigrolineatus" ; Times: 3
+	Query: "oligodon institutioncode:smns" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 3
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "recordedby:G. F. year <= 1900" ; Times: 2
+	Query: "Podarcis dugesii year >= 1800 year <= 2013" ; Times: 1
+	Query: "dendrelaphis caudolineatus" ; Times: 5
+	Query: "(Trimeresurus )" ; Times: 1
+	Query: "Crocodilurus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Borneo institutioncode:SMNS (Reptilia)" ; Times: 2
+	Query: "hypsilurus godeffroyi" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "Graptemys flavimaculata" ; Times: 1
+	Query: "Graptemys nigrinoda" ; Times: 1
+	Query: "smns" ; Times: 2
+	Query: "ogmodon vitianus" ; Times: 6
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia year >= 0 year <= 1999 mappable:1" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 2
+	Query: "gonyosoma oxycephalum" ; Times: 1
+	Query: "gerrhosaurus" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia mappable:1" ; Times: 4
+	Query: "Pareas institutioncode:smns" ; Times: 1
+	Query: "aneides hardii" ; Times: 2
+	Query: "dasypeltis" ; Times: 6
+	Query: "Podarcis melisellensis year >= 1800 year <= 2013" ; Times: 1
+	Query: "SMNS" ; Times: 1
+	Query: ""Microhyla pulchra"" ; Times: 2
+	Query: "Dracaena" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia year <= 1999 mappable:1" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "Porthidium" ; Times: 2
+	Query: "Mabuya Sri Lanka" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 2
+	Query: "country:"bolivia" class:Amphibia mappable:1" ; Times: 1
+	Query: "laevigatus" ; Times: 1
+	Query: "purpureomaculatus" ; Times: 1
+	Query: "(Pareas)" ; Times: 3
+	Query: "Mehelya" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "Cricosaura typica" ; Times: 3
+	Query: "varanus niloticus" ; Times: 3
+	Query: "russelii" ; Times: 1
+	Query: "Tantilla semicincta" ; Times: 3
+	Query: "Chironius quadricarinatus" ; Times: 4
+	Query: "Necturus type:specimen (mississippi)" ; Times: 1
+	Query: "country:"czech republic"" ; Times: 1
+	Query: "Bastimentos amphibia" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 1084 download events in this period)
+Total number of records downloaded: 1392 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1185
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 79
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 4
+	Date: 2015-07-03 ; Times: 4
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 4
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 8
+	Date: 2015-07-22 ; Times: 40
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 3
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 4
+	Date: 2015-07-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "vipera kaznakovi" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "Sternotherus odoratus mappable:1" ; Times: 1
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 1
+	Query: "dasypeltis" ; Times: 1
+	Query: "Porthidium" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "Tarentola mauritanica year >= 1900 year <= 2013" ; Times: 1
+	Query: "Podarcis hispanica year >= 1800 year <= 2013" ; Times: 1
+	Query: "chondrodactylus AND (NOT turneri)" ; Times: 2
+	Query: "chondrodactylus" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 2
+	Query: "Eublepharidae" ; Times: 1
+	Query: "Podarcis melisellensis year >= 1800 year <= 2013" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Trachemys decorata year >= 1900 year <= 2013" ; Times: 1
+	Query: "country:"South Africa" class:Amphibia year >= 1000 year <= 2016 mappable:1 distance(location,geopoint(-14.264383087562635,20.54443359375))<1178525.4307352847" ; Times: 1
+	Query: "Graptemys nigrinoda" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "genus:Kinosternon subrubrum mappable:1" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia mappable:1" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Apalone spinifera mappable:1" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Pseudemys concinna year >= 1950 year <= 2013" ; Times: 1
+	Query: "Graptemys pulchra" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "specificepithet:occiduus genus:Celestus" ; Times: 1
+	Query: "Apalone (mutica OR calvata)" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Malaclemys (terrapin OR centrata OR tequesta OR rhizophorarum OR macrospilota OR pileata OR litoralis )" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Graptemys ouachitensis" ; Times: 1
+	Query: "Graptemys (pseudogeographica OR sabinensis)" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "Kinosternon baurii" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "Graptemys versa" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "aneides hardii" ; Times: 1
+	Query: "Tarentola mauritanica country:"Tunisia"" ; Times: 2
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "Xenosauridae" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "genus:Kinosternon mappable:1" ; Times: 1
+	Query: "aneides aeneus" ; Times: 2
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "Cordylidae" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Sphaerodactylidae" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 1
+	Query: "Cricosaura typica" ; Times: 1
+	Query: "Pedioplanis" ; Times: 1
+	Query: "Sternotherus carinatus" ; Times: 1
+	Query: "Podarcis erhardii year >= 1800 year <= 2013" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1556
+Total number of records retrieved from searches: 10417
+Number of download events that retrieved data from the resource: 323
+Total number of records downloaded: 13254
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1676
+Total number of records retrieved from searches: 11337
+Number of download events that retrieved data from the resource: 570
+Total number of records downloaded: 26459
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
