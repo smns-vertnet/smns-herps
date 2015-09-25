@@ -1,0 +1,301 @@
+Report for Institution Code SMNS, Resource Herpetologie
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 282
+Number of records retrieved in searches: 829
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Chile ; Times: 4
+	Country: France ; Times: 18
+	Country: Germany ; Times: 18
+	Country: India ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Malaysia ; Times: 7
+	Country: Mexico ; Times: 42
+	Country: Morocco ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Serbia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 65
+	Country: United States ; Times: 106
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-02 ; Times: 9
+	Date: 2015-08-03 ; Times: 6
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-05 ; Times: 13
+	Date: 2015-08-06 ; Times: 13
+	Date: 2015-08-07 ; Times: 6
+	Date: 2015-08-08 ; Times: 2
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-12 ; Times: 2
+	Date: 2015-08-13 ; Times: 8
+	Date: 2015-08-14 ; Times: 64
+	Date: 2015-08-16 ; Times: 5
+	Date: 2015-08-17 ; Times: 3
+	Date: 2015-08-18 ; Times: 27
+	Date: 2015-08-19 ; Times: 10
+	Date: 2015-08-20 ; Times: 15
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-23 ; Times: 3
+	Date: 2015-08-24 ; Times: 5
+	Date: 2015-08-25 ; Times: 6
+	Date: 2015-08-26 ; Times: 15
+	Date: 2015-08-27 ; Times: 17
+	Date: 2015-08-28 ; Times: 36
+	Date: 2015-08-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "agama hispida" ; Times: 6
+	Query: "tomistoma" ; Times: 1
+	Query: "Cerastes cerastes country:"Morocco"" ; Times: 1
+	Query: "bufo japonicus" ; Times: 1
+	Query: "Anomalepididae" ; Times: 2
+	Query: "Crotalus adamanteus year >= 1888 year <= 2015" ; Times: 1
+	Query: "Leptotyphlops goudotii" ; Times: 2
+	Query: "ichthyophis glutinosus" ; Times: 4
+	Query: "eupsophus roseus" ; Times: 1
+	Query: "oplurus" ; Times: 1
+	Query: "Megophrys" ; Times: 1
+	Query: "Cerastes cerastes Morocco" ; Times: 3
+	Query: "Diplolaemus" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 2
+	Query: "Hoplobatrachus occipitalis" ; Times: 1
+	Query: "Philodryas country:"Ecuador"" ; Times: 1
+	Query: "Acrochordus" ; Times: 2
+	Query: "varanus gouldii" ; Times: 1
+	Query: "dasypeltis" ; Times: 1
+	Query: "rhinoclemmys rubida" ; Times: 1
+	Query: "naultinus elegans" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 2
+	Query: "year >= 1755 year <= 1823" ; Times: 1
+	Query: "year >= 1755 year <= 1824" ; Times: 2
+	Query: "year >= 1755 year <= 1825" ; Times: 2
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" class:Amphibia" ; Times: 1
+	Query: "institutioncode:smns" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "year:1820" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 1
+	Query: "plethodon shermani" ; Times: 1
+	Query: "year:1859" ; Times: 3
+	Query: "Chitra" ; Times: 1
+	Query: "Eunectes" ; Times: 1
+	Query: "acanthodactylus erythrurus" ; Times: 7
+	Query: "sistrurus miliarius miliarius" ; Times: 1
+	Query: "tupinambis merianae" ; Times: 2
+	Query: "country:"guatemala" genus:leptotyphlops" ; Times: 1
+	Query: "crocodylus cataphractus" ; Times: 64
+	Query: "aneides hardii year >= 1960 year <= 2015" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" class:Amphibia" ; Times: 1
+	Query: "crocodylus niloticus CM" ; Times: 1
+	Query: "Hemisus" ; Times: 1
+	Query: "micrurus dumerilii" ; Times: 1
+	Query: "smns ichthyophis" ; Times: 4
+	Query: "cynops pyrrhogaster o" ; Times: 2
+	Query: "uropeltis maculatus" ; Times: 1
+	Query: "echis carinatus" ; Times: 4
+	Query: "country:"India" year >= 1820 year <= 1840" ; Times: 1
+	Query: "country:"Thailand" class:Amphibia" ; Times: 1
+	Query: "Abronia deppii" ; Times: 1
+	Query: "smns" ; Times: 1
+	Query: "pseustes poecilonotus" ; Times: 1
+	Query: "hoplobatrachus country:"Nigeria"" ; Times: 1
+	Query: "year:1858" ; Times: 1
+	Query: "Agama hispida" ; Times: 2
+	Query: "country:"bolivia" class:Amphibia mappable:1" ; Times: 1
+	Query: "Tomistoma" ; Times: 1
+	Query: "Tantilla semicincta" ; Times: 1
+	Query: "uropeltis smithi" ; Times: 1
+	Query: "Atractus mappable:1" ; Times: 1
+	Query: "anolis punctatus" ; Times: 1
+	Query: "helicops carinicaudus" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 22
+	Query: "country:"Bolivia" genus:Bothrops" ; Times: 3
+	Query: "Agalychnis moreletii" ; Times: 26
+	Query: "Scincella reevesii" ; Times: 1
+	Query: "Abronia deppii*" ; Times: 1
+	Query: "varanus giganteus AND (NOT WAM)" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "eunectes" ; Times: 1
+	Query: "micrurus elegans" ; Times: 2
+	Query: "cynops pyrrhogaster" ; Times: 2
+	Query: "year <= 1830" ; Times: 1
+	Query: "cristatus class:amphibia" ; Times: 1
+	Query: "Rhinoclemmys rubida" ; Times: 4
+	Query: "Rio Flor class:Amphibia year >= 1400 year <= 2015" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "smns monopeltis" ; Times: 4
+	Query: "boa constrictor" ; Times: 1
+	Query: "sternotherus depressus" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 2
+	Query: "6213" ; Times: 1
+	Query: "rhinoderma" ; Times: 1
+	Query: "oligodon brevicauda" ; Times: 1
+	Query: "epicrates" ; Times: 1
+	Query: "kingsport" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+	Query: "Bombina orientalis" ; Times: 1
+	Query: "Urotheca" ; Times: 1
+	Query: "Telescopus obtusus mappable:1" ; Times: 1
+	Query: "varanus giganteus" ; Times: 3
+	Query: "Diplolaemus bibronii" ; Times: 1
+	Query: "podarcis muralis" ; Times: 1
+	Query: "Montevideo class:Amphibia year >= 1400 year <= 2015" ; Times: 1
+	Query: "graptemys nigrinoda nigrinoda" ; Times: 1
+	Query: "year:1836" ; Times: 1
+	Query: "leptotyphlops goudotii" ; Times: 1
+	Query: "uropeltis ocellatus" ; Times: 1
+	Query: "Xenopus muelleri year >= 1900 year <= 2013" ; Times: 1
+	Query: "Sibynophis geminatus" ; Times: 7
+	Query: "Philodryas country:"Ecuador" year >= 1970 year <= 2015" ; Times: 1
+	Query: "eirenis" ; Times: 3
+	Query: "Caudata stateprovince:"Alberta" year <= 2015" ; Times: 1
+	Query: "Atractus country:"Ecuador" year >= 1970 year <= 2015" ; Times: 1
+	Query: "year:1832" ; Times: 1
+	Query: "year:1835" ; Times: 2
+	Query: "Tupinambis teguixin" ; Times: 1
+	Query: "year:1839" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 2
+	Query: "boscai" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1138 download events in this period)
+Total number of records downloaded: 2091 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1135
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Malaysia ; Times: 5
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 7
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 3
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 7
+	Date: 2015-08-07 ; Times: 3
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-14 ; Times: 2
+	Date: 2015-08-16 ; Times: 3
+	Date: 2015-08-17 ; Times: 9
+	Date: 2015-08-18 ; Times: 3
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 4
+	Date: 2015-08-26 ; Times: 5
+	Date: 2015-08-27 ; Times: 8
+	Date: 2015-08-28 ; Times: 3
+	Date: 2015-08-29 ; Times: 4
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "Liolaemus pictus" ; Times: 2
+	Query: "pituophis melanoleucus year >= 1700 year <= 2015" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 1
+	Query: "Pristidactylus" ; Times: 1
+	Query: "Tarentola mauritanica country:"Tunisia"" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Mabuya" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "venezuela reptilia" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "year:1832" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Diplolaemus bibronii" ; Times: 1
+	Query: "stateprovince:"Ontario" class:Amphibia mappable:1" ; Times: 1
+	Query: "type:specimen country:"Mexico" genus:Crotalus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "oplurus" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "genus:Plethodon" ; Times: 2
+	Query: "Agama hispida" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "Diplolaemus" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "Melanophryniscus stelzneri" ; Times: 1
+	Query: "stateprovince:"New York" class:Amphibia mappable:1" ; Times: 1
+	Query: "cynops pyrrhogaster year >= 1950 year <= 2000" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Xenopus muelleri year >= 1900 year <= 2013" ; Times: 1
+	Query: "Sibynophis geminatus" ; Times: 5
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "Morelia class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "chalarodon" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Eugongylus" ; Times: 1
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "year:1862" ; Times: 2
+	Query: "country:"panama"" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "crocodylus cataphractus" ; Times: 1
+	Query: "year:1858" ; Times: 1
+	Query: "year:1859" ; Times: 6
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 282
+Total number of records retrieved from searches: 829
+Number of download events that retrieved data from the resource: 75
+Total number of records downloaded: 2091
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 282
+Total number of records retrieved from searches: 829
+Number of download events that retrieved data from the resource: 75
+Total number of records downloaded: 2091
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
