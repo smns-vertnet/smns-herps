@@ -1,0 +1,261 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 450
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 73
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-15 ; Times: 7
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 6
+	Date: 2015-10-10 ; Times: 9
+	Date: 2015-10-11 ; Times: 4
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 5
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 17
+	Date: 2015-10-22 ; Times: 3
+	Date: 2015-10-21 ; Times: 15
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 5
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-03 ; Times: 7
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pastaza&#34; country:&#34;Ecuador&#34; institutioncode:SMNS" ; Times: 1
+	Query: "smns 2576 samoa" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 6
+	Query: "Malayemys smns" ; Times: 1
+	Query: "Dendrelaphis caudolineatus" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Acanthodactylus schreiberi" ; Times: 1
+	Query: "uropeltidae" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "python timoriensis" ; Times: 2
+	Query: "malayemys smns" ; Times: 4
+	Query: "morelia viridis" ; Times: 5
+	Query: "timor python" ; Times: 1
+	Query: "Corallus Cookii" ; Times: 1
+	Query: "Liolaemus archeforus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 2
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "varanus indicus" ; Times: 1
+	Query: "Pseudaspis cana" ; Times: 1
+	Query: "Malayemys" ; Times: 2
+	Query: "platysternon" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "Pelusios" ; Times: 1
+	Query: "genus:Corallus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "andrias davidianus" ; Times: 1
+	Query: "dispholidus typus" ; Times: 1
+	Query: "sundewalli" ; Times: 1
+	Query: "cuora galbinifrons" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 2
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "specificepithet:albirostris genus:Liotyphlops" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "specificepithet:nebulatus genus:Sibon" ; Times: 1
+	Query: "corytophanes cristatus" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Napo&#34; country:&#34;Ecuador&#34; AND (NOT KU NOT USNM NOT LACM NOT MCZ NOT UMMZ)" ; Times: 2
+	Query: "gekko smithii" ; Times: 1
+	Query: "Bufonidae distance(location,geopoint(3.294082228312843,114.3017578125))&lt;334446.5007421535" ; Times: 1
+	Query: "Tropidodipsas sartorii" ; Times: 1
+	Query: "Sumichrasti Guatemala" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis institutioncode:SMNS" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "lampropeltis holbrooki" ; Times: 1
+	Query: "polygrammicus" ; Times: 2
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "Bufonidae distance(location,geopoint(2.9430409100551826,111.97265625))&lt;334446.5007421535" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Napo&#34; country:&#34;Ecuador&#34; AND (NOT KU NOT USNM NOT LACM)" ; Times: 1
+	Query: "petropedetes" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 2
+	Query: "sceloporus spinosus" ; Times: 2
+	Query: "lepidophyma flavimaculatum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Napo&#34; country:&#34;Ecuador&#34; AND (NOT KU NOT USNM NOT LACM NOT MCZ)" ; Times: 1
+	Query: "bitis gabonica" ; Times: 1
+	Query: "sternotherus depressus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; AND (NOT USNM NOT KU NOT UMMZ NOT MVZ NOT AMNH NOT CAS NOT MCZ NOT MPM NOT TCWC NOT SDNHM)" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "pest" ; Times: 2
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Morelia Viridis" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis country:&#34;Brazil&#34; institutioncode:SMNS" ; Times: 1
+	Query: "Atractus crassicaudatus" ; Times: 1
+	Query: "tupinambis teguixin" ; Times: 2
+	Query: "Corallus caninus" ; Times: 2
+	Query: "sceloporus formosus" ; Times: 3
+	Query: "Homopus" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "specificepithet:platurus genus:Pelamis mappable:1" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Amphisbaena" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo country:MEXICO" ; Times: 1
+	Query: "Oxyrhopus petola" ; Times: 1
+	Query: "leptodeira septentrionalis" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 3
+	Query: "genus:Boa country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Candoia aspera" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 4
+	Query: "Bothrops jararaca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 823 download events in this period)
+Total number of records downloaded: 464
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Panama ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 41
+	Country: Chile ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 6
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 5
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-30 ; Times: 5
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus formosus" ; Times: 2
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Atractus crassicaudatus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "apalone ferox" ; Times: 2
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "SCELOPORUS FORMOSUS" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen mappable:1" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "ecpleopus" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "phyllodactylus reissii" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "(Rana pipiens) canada mappable:1" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Lipinia noctua noctua" ; Times: 1
+	Query: "Sphenomorphus New Guinea" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "Liolaemus archeforus" ; Times: 1
+	Query: "boiga irregularis mappable:1" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 1
+	Query: "elapidae mexico" ; Times: 1
+	Query: "dendroaspis angusticeps" ; Times: 2
+	Query: "Pelodiscus sinensis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "Malayemys smns" ; Times: 1
+	Query: "bitis gabonica" ; Times: 3
+	Query: "Cyclorana australis" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "phrynomantis bifasciatus" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "melanophryniscus stelzneri" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "phyllomedusa hypochondrialis" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+
+
+End of report.
