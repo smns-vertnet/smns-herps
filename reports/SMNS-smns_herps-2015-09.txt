@@ -1,0 +1,337 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 295
+Number of records retrieved in searches: 962
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 189
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 4
+	Country: South Africa ; Times: 18
+	Country: Mexico ; Times: 32
+	Country: Singapore ; Times: 4
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 3
+	Country: Germany ; Times: 13
+	Country: Colombia ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Bulgaria ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 9
+	Date: 2015-09-10 ; Times: 10
+	Date: 2015-09-11 ; Times: 8
+	Date: 2015-09-12 ; Times: 33
+	Date: 2015-09-13 ; Times: 15
+	Date: 2015-09-14 ; Times: 9
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 21
+	Date: 2015-09-18 ; Times: 21
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 7
+	Date: 2015-09-02 ; Times: 16
+	Date: 2015-09-06 ; Times: 9
+	Date: 2015-09-05 ; Times: 35
+	Date: 2015-09-04 ; Times: 8
+	Date: 2015-09-03 ; Times: 9
+	Date: 2015-09-28 ; Times: 4
+	Date: 2015-09-01 ; Times: 15
+	Date: 2015-09-25 ; Times: 10
+	Date: 2015-09-24 ; Times: 9
+	Date: 2015-09-27 ; Times: 4
+	Date: 2015-09-08 ; Times: 10
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-23 ; Times: 21
+	Date: 2015-09-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis lineaticollis" ; Times: 1
+	Query: "CROCODYLUS ACUTUS" ; Times: 1
+	Query: "specificepithet:dilepis" ; Times: 1
+	Query: "Podocnemis vogli" ; Times: 1
+	Query: "type:specimen genus:Echis family:Viperidae" ; Times: 1
+	Query: "specificepithet:melanotus genus:Liophis" ; Times: 2
+	Query: "Orlitia" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Heloderma mexico" ; Times: 1
+	Query: "dendrobates tinctorius" ; Times: 2
+	Query: "Podocnemis expansa" ; Times: 3
+	Query: "Morelia viridis" ; Times: 9
+	Query: "specificepithet:sartorii country:&#34;Guatemala&#34;" ; Times: 6
+	Query: "Geochelone nigra" ; Times: 3
+	Query: "tropidurus spinulosus" ; Times: 3
+	Query: "class:Reptilia catalognumber:5861" ; Times: 1
+	Query: "Rhynchocalamus" ; Times: 3
+	Query: "type:specimen genus:Cerastes family:Viperidae" ; Times: 3
+	Query: "Kachuga" ; Times: 2
+	Query: "Podocnemis sextuberculata" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "ichthyophis glutinosus" ; Times: 6
+	Query: "boiga trigonata" ; Times: 4
+	Query: "Trachemys country:&#34;Guatemala&#34;" ; Times: 3
+	Query: "oplurus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 4
+	Query: "type:specimen specificepithet:cerastes genus:Cerastes family:Viperidae" ; Times: 2
+	Query: "cercosaura" ; Times: 1
+	Query: "specificepithet:muelleri genus:lerista" ; Times: 2
+	Query: "country:&#34;Turkey&#34;" ; Times: 1
+	Query: "specificepithet:nasutum genus:Porthidium country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "ophiophagus hannah" ; Times: 1
+	Query: "Varanus bengalensis" ; Times: 1
+	Query: "Macrovipera" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 2
+	Query: "SHinisaurus" ; Times: 1
+	Query: "Sibynophis" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 3
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "Abronia" ; Times: 1
+	Query: "xylophis perroteti" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "Phrynops hilarii" ; Times: 1
+	Query: "chamaeleo zeylanicus" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 6
+	Query: "Tarentola annularis" ; Times: 2
+	Query: "Podarcis muralis (Italy)" ; Times: 2
+	Query: "lacerta agilis" ; Times: 3
+	Query: "vipera ammodytes" ; Times: 2
+	Query: "genus:blanus" ; Times: 1
+	Query: "Podocnemis erythrocephala" ; Times: 2
+	Query: "Phrynops tuberculatus" ; Times: 1
+	Query: "boiga forsteni" ; Times: 1
+	Query: "Crotalus adamanteus type:specimen" ; Times: 1
+	Query: "plectrurus perroteti" ; Times: 1
+	Query: "Xenopus laevis" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 3
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 2
+	Query: "litoria genimaculata" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Leptophis" ; Times: 1
+	Query: "geckolepis" ; Times: 2
+	Query: "rhinophis trevelyana" ; Times: 1
+	Query: "Geochelone sulcata" ; Times: 1
+	Query: "Elseya dentata" ; Times: 1
+	Query: "uropeltis maculatus" ; Times: 2
+	Query: "Acanthochelys" ; Times: 3
+	Query: "Dendrobates quinquevittatus" ; Times: 1
+	Query: "corytophanes cristatus" ; Times: 10
+	Query: "Python sebae" ; Times: 2
+	Query: "rhinoclemmys" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Dipsochelys" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 5
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "coluber viridiflavus" ; Times: 1
+	Query: "Cyclodomorphus casuarinae" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Pelusios bechuanicus" ; Times: 1
+	Query: "Syria mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "uropeltis smithi" ; Times: 3
+	Query: "hypsilurus modestus" ; Times: 1
+	Query: "rhinophrynus dorsalis" ; Times: 2
+	Query: "Chamaeleo jacksonii Kenya" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Psammobates geometricus" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 2
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "Callagur" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 2
+	Query: "lycodon aulicus" ; Times: 2
+	Query: "type:specimen (telmatobius) mappable:1" ; Times: 1
+	Query: "uropeltis ceylanicus" ; Times: 2
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Trachemys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Rhinoclemmys melanosterna" ; Times: 1
+	Query: "Geophis bicolor" ; Times: 1
+	Query: "type:specimen genus:Bitis family:Viperidae" ; Times: 2
+	Query: "corytophanes" ; Times: 1
+	Query: "Python Timoriensis" ; Times: 2
+	Query: "pseudocalotes" ; Times: 1
+	Query: "Lerista muelleri" ; Times: 1
+	Query: "cuora trifasciata" ; Times: 2
+	Query: "Sibynophis geminatus" ; Times: 1
+	Query: "kachuga" ; Times: 4
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "specificepithet:septentrionalis country:&#34;Guatemala&#34;" ; Times: 3
+	Query: "Pelusios niger" ; Times: 1
+	Query: "Melanochelys" ; Times: 1
+	Query: "heloderma horridum" ; Times: 3
+	Query: "Geckonia" ; Times: 1
+	Query: "Staurotypus salvinii" ; Times: 1
+	Query: "ablepharus kitaibelii" ; Times: 1
+	Query: "Trachemys country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Trachemys country:&#34;Colombia&#34;" ; Times: 2
+	Query: "country:&#34;sierra leone&#34;" ; Times: 1
+	Query: "ahaetulla nasuta" ; Times: 8
+	Query: "cricosaura" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "varanus niloticus" ; Times: 2
+	Query: "ablepharus" ; Times: 1
+	Query: "Aspidelaps lubricus" ; Times: 1
+	Query: "country:&#34;sierra leone&#34; year &lt;= 1945" ; Times: 1
+	Query: "Malayemys" ; Times: 2
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "Pipa pipa" ; Times: 1
+	Query: "Cuora" ; Times: 1
+	Query: "rhinoclemmys pulcherrima pulcherrima" ; Times: 1
+	Query: "pelochelys" ; Times: 1
+	Query: "specificepithet:cristatus genus:Corytophanes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:telmatobius country:&#34;argentina&#34;" ; Times: 1
+	Query: "draco volans" ; Times: 1
+	Query: "dendrelaphis pictus" ; Times: 4
+	Query: "Python reticulatus" ; Times: 3
+	Query: "geminatus" ; Times: 1
+	Query: "specificepithet:capito class:Reptilia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "boophis" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 1
+	Query: "Rhinoclemmys nasuta" ; Times: 1
+	Query: "lissemys punctata" ; Times: 3
+	Query: "Shinisaurus" ; Times: 9
+	Query: "Podocnemis AND (expansa)" ; Times: 1
+	Query: "Acontias" ; Times: 1
+	Query: "hydromedusa" ; Times: 1
+	Query: "specificepithet:reginae genus:Liophis" ; Times: 1
+	Query: "Agkistrodon mexico" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 3
+	Query: "distance(location,geopoint(22.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "sacalia bealei" ; Times: 1
+	Query: "melanophidium wynaudense" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "specificepithet:imperialis genus:Coniophanes" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Chelodina expansa" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(47.279229002570816,15.205078125))&lt;100000" ; Times: 1
+	Query: "Hyla vasta" ; Times: 1
+	Query: "uropeltis ocellatus" ; Times: 2
+	Query: "philautus aurifasciatus" ; Times: 3
+	Query: "Mauremys caspica" ; Times: 1
+	Query: "Erymnochelys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1045 download events in this period)
+Total number of records downloaded: 1695
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: France ; Times: 3
+	Country: United States ; Times: 38
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-03 ; Times: 6
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-06 ; Times: 3
+	Date: 2015-09-05 ; Times: 9
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-19 ; Times: 3
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-22 ; Times: 4
+	Date: 2015-09-21 ; Times: 3
+	Date: 2015-09-08 ; Times: 8
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-02 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis lineaticollis" ; Times: 1
+	Query: "basiliscus plumifrons" ; Times: 1
+	Query: "anolis capito" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "pYTHON RETICULATUS" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; class:Reptilia year &lt;= 2015" ; Times: 1
+	Query: "phrynomantis" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; class:Amphibia year &lt;= 2015" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Heloderma mexico" ; Times: 1
+	Query: "batrachoseps los angeles" ; Times: 1
+	Query: "Hyla crepitans" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "tropidurus spinulosus" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Trachemys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "alsophis" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Trachemys" ; Times: 1
+	Query: "Phrynops" ; Times: 1
+	Query: "dendrobates auratus" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Trachemys country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "laemanctus" ; Times: 1
+	Query: "corytophanes" ; Times: 1
+	Query: "Lepidodactylus" ; Times: 1
+	Query: "specificepithet:muelleri genus:lerista" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Chinemys" ; Times: 1
+	Query: "corytophanes cristatus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Micrurus mexico" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "country:&#34;micronesia&#34; class:reptilia" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "litoria eucnemis" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Agkistrodon mexico" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "Trachemys country:&#34;Colombia&#34;" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "Chelodina expansa" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "Mauremys caspica" ; Times: 2
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
