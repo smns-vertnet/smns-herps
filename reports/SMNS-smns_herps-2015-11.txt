@@ -1,0 +1,226 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 366
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 89
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-18 ; Times: 11
+	Date: 2015-11-30 ; Times: 5
+	Date: 2015-11-25 ; Times: 21
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-13 ; Times: 2
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-16 ; Times: 3
+	Date: 2015-11-27 ; Times: 5
+	Date: 2015-11-06 ; Times: 8
+	Date: 2015-11-21 ; Times: 11
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-24 ; Times: 14
+	Date: 2015-11-03 ; Times: 3
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-01 ; Times: 2
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-07 ; Times: 5
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "specificepithet:timoriensis class:Reptilia" ; Times: 2
+	Query: "Dispholidus typus" ; Times: 3
+	Query: "Dendrelaphis pictus" ; Times: 1
+	Query: "Kinixys erosa" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "panama viperidae" ; Times: 1
+	Query: "polemon" ; Times: 2
+	Query: "Basiliscus basiliscus specificepithet:basiliscus genus:Basiliscus" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "discoglossus type:specimen" ; Times: 1
+	Query: "Elaphe porphyracea" ; Times: 2
+	Query: "specificepithet:basiliscus genus:Basiliscus mappable:1" ; Times: 1
+	Query: "Aspidomorphus schlegeli" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 2
+	Query: "family:pelomedusidae AND (NOT subrufa)" ; Times: 1
+	Query: "specificepithet:cenchria genus:Epicrates stateprovince:&#34;Pastaza&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:ravergieri class:Reptilia (Coluber )" ; Times: 1
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "genus:Hypnale class:Reptilia" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 3
+	Query: "OPISTHOTROPIS" ; Times: 1
+	Query: "dermochelys coriacea -india" ; Times: 1
+	Query: "Draco maculatus" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "sistrurus catenatus catenatus" ; Times: 1
+	Query: "uropeltis melanogaster" ; Times: 1
+	Query: "geckolepis polylepis" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus stateprovince:&#34;Pastaza&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 3
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Corallus caninus" ; Times: 1
+	Query: "bufo viridis" ; Times: 1
+	Query: "Algyroides" ; Times: 1
+	Query: "Acanthodactylus" ; Times: 3
+	Query: "trimeresurus malabaricus" ; Times: 2
+	Query: "hippocrepis" ; Times: 2
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "Hapsidophrys smaragdina" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Morelia viridis" ; Times: 1
+	Query: "Alytes muletensis type:specimen" ; Times: 1
+	Query: "Malacochersus" ; Times: 4
+	Query: "Gastropyxis" ; Times: 1
+	Query: "uropeltis maculatus" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Anolis capito country:Guatemala" ; Times: 1
+	Query: "Crotalus adamanteus type:specimen mappable:1" ; Times: 1
+	Query: "Bufo surdus" ; Times: 1
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 2
+	Query: "Dromicodryas quadrilineatus" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 2
+	Query: "Sphenodon punctatus" ; Times: 2
+	Query: "Cophotis ceylanica" ; Times: 1
+	Query: "Amphibia egypt" ; Times: 1
+	Query: "specificepithet:nummifer class:Reptilia (Coluber )" ; Times: 1
+	Query: "Bufo Guerrero" ; Times: 1
+	Query: "genus:pelusios family:pelomedusidae AND (NOT subrufa)" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Daboia" ; Times: 2
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 3
+	Query: "vipera berus" ; Times: 1
+	Query: "Gallotia" ; Times: 1
+	Query: "trimeresurus purpureomaculatus" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 2
+	Query: "dendroaspis" ; Times: 3
+	Query: "echis carinatus india" ; Times: 1
+	Query: "specificepithet:hippocrepis class:Reptilia" ; Times: 1
+	Query: "genus:Cophotis class:Reptilia" ; Times: 1
+	Query: "reptilia stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "purpureomaculatus" ; Times: 3
+	Query: "Carettochelys" ; Times: 1
+	Query: "ahaetulla perroteti" ; Times: 1
+	Query: "bufo distance(location,geopoint(36.4566360115962,75.673828125))&lt;1641877" ; Times: 1
+	Query: "Pelobates fuscus type:specimen" ; Times: 2
+	Query: "specificepithet:melanogenys genus:Oxyrhopus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Santa Catarina&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Bombina variegata type:specimen" ; Times: 1
+	Query: "Bufo Guerrero Mexico" ; Times: 1
+	Query: "Hydromantes genei" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "cordylus cataphractus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 751 download events in this period)
+Total number of records downloaded: 2173
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 40
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 4
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-05 ; Times: 2
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-17 ; Times: 5
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-18 ; Times: 2
+	Date: 2015-11-08 ; Times: 2
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-11 ; Times: 5
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-25 ; Times: 12
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-20 ; Times: 4
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eulamprus tympanum" ; Times: 1
+	Query: "Teius teyou" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Peru&#34;" ; Times: 1
+	Query: "panama viperidae" ; Times: 1
+	Query: "Hemidactylus garnotii" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana class:Reptilia mappable:1" ; Times: 1
+	Query: "Basiliscus basiliscus specificepithet:basiliscus genus:Basiliscus" ; Times: 1
+	Query: "dendroaspis" ; Times: 1
+	Query: "kentropyx calcarata" ; Times: 1
+	Query: "specificepithet:basiliscus genus:Basiliscus mappable:1" ; Times: 2
+	Query: "Hemiphyllodactylus typus" ; Times: 1
+	Query: "Liasis mackloti" ; Times: 1
+	Query: "genus:Hyla country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Sistrurus miliarius type:specimen mappable:1" ; Times: 1
+	Query: "genus:Calamaria" ; Times: 1
+	Query: "specificepithet:nummifer class:Reptilia (Coluber )" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "elgaria" ; Times: 1
+	Query: "Cnemidophorus lemniscatus" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+	Query: "&#34;laticauda colubrina&#34; mappable:1" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "purpureomaculatus" ; Times: 3
+	Query: "specificepithet:ravergieri class:Reptilia (Coluber )" ; Times: 1
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "class:Amphibia country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "Hapsidophrys smaragdina" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+
+
+End of report.
