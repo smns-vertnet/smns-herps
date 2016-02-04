@@ -1,0 +1,179 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 296
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 34
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 17
+	Country: Namibia ; Times: 3
+	Country: Colombia ; Times: 7
+	Country: United Arab Emirates ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-23 ; Times: 6
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-07 ; Times: 8
+	Date: 2016-01-26 ; Times: 15
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-25 ; Times: 3
+	Date: 2016-01-28 ; Times: 8
+	Date: 2016-01-29 ; Times: 7
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 4
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-15 ; Times: 3
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tropidodipsas sartorii" ; Times: 1
+	Query: "Maximilian" ; Times: 1
+	Query: "bitis caudalis" ; Times: 3
+	Query: "Pristurus flavipunctatus" ; Times: 1
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "type:specimen specificepithet:longissima genus:elaphe" ; Times: 1
+	Query: "leioheterodon madagascariensis" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 2
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "aparallactus" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 2
+	Query: "specificepithet:longissima family:colubridae" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "specificepithet:lanceolatus genus:bothrops (Martinique)" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "Ophisops occidentalis" ; Times: 1
+	Query: "genus:Python locality:Sulawesi" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "elaphe quatuorlineata" ; Times: 1
+	Query: "specificepithet:lanceolatus genus:bothrops" ; Times: 1
+	Query: "&#34;naja kaouthia&#34;" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 2
+	Query: "Alsophis elegans" ; Times: 3
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Masticophis mentovarius" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 6
+	Query: "specificepithet:trigeminus genus:Oxyrhopus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 2
+	Query: "(coluber nummifer)" ; Times: 1
+	Query: "mesalina olivieri" ; Times: 1
+	Query: "type:specimen specificepithet:radiata genus:elaphe" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "specificepithet:assatus genus:Sphenomorphus" ; Times: 1
+	Query: "eryx" ; Times: 1
+	Query: "Hyperolius marmoratus" ; Times: 1
+	Query: "Polychrus marmoratus" ; Times: 1
+	Query: "genus:Leptophis country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "blandingii" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Pristurus" ; Times: 1
+	Query: "coluber nummifer" ; Times: 1
+	Query: "Mesalina rubropunctata" ; Times: 1
+	Query: "rhinoclemmys" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Rhombophryne" ; Times: 1
+	Query: "type:specimen specificepithet:conspicillata genus:Elaphe" ; Times: 1
+	Query: "Alsophis" ; Times: 1
+	Query: "vipera ursinii" ; Times: 1
+	Query: "Trapelus mutabilis" ; Times: 3
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "natrix maura" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "hoplodactylus duvaucelii" ; Times: 1
+	Query: "Boa nicaragua" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 2
+	Query: "cerrophidion" ; Times: 1
+	Query: "specificepithet:haje genus:naja" ; Times: 3
+	Query: "Uropeltis" ; Times: 1
+	Query: "Typhlops vermicularis" ; Times: 1
+	Query: "specificepithet:guttata stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+	Query: "Sistrurus miliarius miliarius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 507 download events in this period)
+Total number of records downloaded: 300
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "Teius" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Hyperolius marmoratus" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "leioheterodon madagascariensis" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+
+
+End of report.
