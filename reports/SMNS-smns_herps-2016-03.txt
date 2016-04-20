@@ -1,0 +1,96 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 110
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-08 ; Times: 6
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 7
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "Bolitoglossa adspersa mappable:1" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "genus:Schismaderma specificepithet:carens" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "anolis ortonii" ; Times: 1
+	Query: "class:Reptilia country:&#34;Greece&#34;" ; Times: 2
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "Calliophis" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "VIPERA" ; Times: 2
+	Query: "specificepithet:Gemonensis class:Reptilia country:&#34;Greece&#34;" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "Ptyodactylus guttatus" ; Times: 3
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "family:Rhacophoridae country:&#34;Malaysia&#34; distance(location,geopoint(4.851978796858244,102.8814697265625))&lt;100000" ; Times: 2
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Sira Amphibia" ; Times: 6
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "genus:conraua specificepithet:goliath" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 230 download events in this period)
+Total number of records downloaded: 57
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 7
+	Country: Russia ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-01 ; Times: 1
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bufo surdus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+
+
+End of report.
