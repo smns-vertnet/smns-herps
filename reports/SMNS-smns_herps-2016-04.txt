@@ -1,0 +1,257 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 172
+Number of records retrieved in searches: 687
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 79
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Czech Republic ; Times: 4
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 13
+	Country: Denmark ; Times: 1
+	Country: China ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Russia ; Times: 32
+	Country: Spain ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 17
+	Date: 2016-04-06 ; Times: 24
+	Date: 2016-04-05 ; Times: 14
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 7
+	Date: 2016-04-20 ; Times: 4
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 10
+	Date: 2016-04-26 ; Times: 8
+	Date: 2016-04-22 ; Times: 6
+	Date: 2016-04-18 ; Times: 4
+	Date: 2016-04-19 ; Times: 11
+	Date: 2016-04-14 ; Times: 4
+	Date: 2016-04-15 ; Times: 3
+	Date: 2016-04-16 ; Times: 9
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 8
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 11
+	Date: 2016-04-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "chioglossa" ; Times: 1
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "Hoplobatrachus tigerinus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "Bombina bombina" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "atractaspis" ; Times: 1
+	Query: "caudiverbera caudiverbera" ; Times: 1
+	Query: "hoplobatrachus tigerinus" ; Times: 2
+	Query: "Psammodromus hispanicus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 3
+	Query: "type:specimen specificepithet:jararaca" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 3
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 3
+	Query: "lacertidae country:&#34;hungary&#34;" ; Times: 1
+	Query: "caiman crocodilus crocodilus" ; Times: 1
+	Query: "Pipa" ; Times: 1
+	Query: "Tropidophiidae and cuba" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "type:specimen specificepithet:novaeguineae genus:crocodylus" ; Times: 1
+	Query: "natrix tessellata" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 8
+	Query: "Nactus (Papua New Guinea OR Indonesia)" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 2
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "Thamnophis sumichrasti" ; Times: 2
+	Query: "Oligodon taeniolatus" ; Times: 2
+	Query: "boiga Trigonata" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-109.957516))&lt;15000" ; Times: 1
+	Query: "kinixys" ; Times: 4
+	Query: "Ablepharus bivittatus" ; Times: 1
+	Query: "genus:pseudocerastes" ; Times: 1
+	Query: "specificepithet:novaeguineae genus:Crocodylus" ; Times: 3
+	Query: "eryx tataricus" ; Times: 2
+	Query: "dinodon rufozonatum" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "pituophis lineaticollis" ; Times: 2
+	Query: "Podarcis bocagei" ; Times: 1
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Chamaeleo senegalensis" ; Times: 1
+	Query: "Macrelaps" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 4
+	Query: "Varanus griseus" ; Times: 3
+	Query: "pyxis planicauda" ; Times: 1
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "tropidodipsas" ; Times: 1
+	Query: "Lycodon striatus" ; Times: 1
+	Query: "sceloperus" ; Times: 1
+	Query: "Lytorhynchus maynardi" ; Times: 3
+	Query: "Gonocephalus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Aparallactus capensis" ; Times: 1
+	Query: "Lepidophyma" ; Times: 1
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Pseudocalotes" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 2
+	Query: "micrurus elegans" ; Times: 1
+	Query: "boeleni" ; Times: 2
+	Query: "Stegonotus modestus" ; Times: 3
+	Query: "genus:Phyllomedusa specificepithet:tomopterna" ; Times: 1
+	Query: "Gerrhosaurus major" ; Times: 3
+	Query: "Claudius angustatus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "triturus carnifex" ; Times: 1
+	Query: "rafetus" ; Times: 1
+	Query: "kinixys homeana" ; Times: 3
+	Query: "Kinixys" ; Times: 2
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Spalerosophis diadema" ; Times: 2
+	Query: "Brachyorrhos" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Amphiglossus" ; Times: 2
+	Query: "crotalus adamanteus" ; Times: 2
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "Elaphe taeniura" ; Times: 2
+	Query: "Pipa pipa" ; Times: 1
+	Query: "Sphaerotheca breviceps" ; Times: 1
+	Query: "crocodylus porosus" ; Times: 2
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 4
+	Query: "Gerrhosaurus" ; Times: 4
+	Query: "mabuya megalura" ; Times: 1
+	Query: "pipa pipa" ; Times: 1
+	Query: "crocodylus novaeguineae" ; Times: 3
+	Query: "eryx miliaris" ; Times: 1
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "coronella austriaca" ; Times: 4
+	Query: "Hyla arborea" ; Times: 2
+	Query: "goudotii" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "rana perezi" ; Times: 1
+	Query: "spilotes" ; Times: 1
+	Query: "Kinixys smns" ; Times: 8
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "panaspis breviceps" ; Times: 1
+	Query: "Coniophanes imperialis" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.957516))&lt;15000" ; Times: 1
+	Query: "eublepharis" ; Times: 1
+	Query: "Eugongylus albofasciolatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1312 download events in this period)
+Total number of records downloaded: 385
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 21
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "Hoplobatrachus tigerinus" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "brachyorrhos" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "&#34;carlia rhomboidalis&#34; type:specimen mappable:1" ; Times: 1
+	Query: "Podarcis hispanica" ; Times: 1
+	Query: "hoplobatrachus tigerinus" ; Times: 3
+	Query: "Psammodromus hispanicus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 2
+	Query: "ctenotus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Plethodon metcalfi mappable:1" ; Times: 1
+	Query: "Brachyorrhos" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "Kinixys smns" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
