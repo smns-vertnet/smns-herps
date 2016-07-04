@@ -1,0 +1,337 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 240
+Number of records retrieved in searches: 1320
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 4
+	Country: Bangladesh ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 62
+	Country: India ; Times: 3
+	Country: Serbia ; Times: 6
+	Country: United States ; Times: 107
+	Country: Switzerland ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 9
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 1
+	Date: 2016-06-24 ; Times: 9
+	Date: 2016-06-23 ; Times: 11
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-21 ; Times: 7
+	Date: 2016-06-20 ; Times: 6
+	Date: 2016-06-05 ; Times: 15
+	Date: 2016-06-04 ; Times: 11
+	Date: 2016-06-07 ; Times: 10
+	Date: 2016-06-06 ; Times: 5
+	Date: 2016-06-01 ; Times: 13
+	Date: 2016-06-03 ; Times: 23
+	Date: 2016-06-02 ; Times: 54
+	Date: 2016-06-09 ; Times: 11
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-19 ; Times: 10
+	Date: 2016-06-16 ; Times: 13
+	Date: 2016-06-17 ; Times: 4
+	Date: 2016-06-14 ; Times: 12
+	Date: 2016-06-15 ; Times: 9
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Chelus fimbriatus" ; Times: 2
+	Query: "Callagur borneoensis" ; Times: 1
+	Query: "Elseya latisternum" ; Times: 1
+	Query: "litoria caerulea Papua New Guinea" ; Times: 1
+	Query: "dendroaspis jamesoni" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa)" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo)" ; Times: 1
+	Query: "Hydromedusa tectifera" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "ptychozoon lionotum" ; Times: 2
+	Query: "pareas" ; Times: 1
+	Query: "Podocnemis sextuberculata" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:tarsius" ; Times: 1
+	Query: "BARISIA IMBRICATA" ; Times: 1
+	Query: "vanderhaegei" ; Times: 1
+	Query: "hoplodactylus" ; Times: 1
+	Query: "porthidium" ; Times: 1
+	Query: "oreophrynella" ; Times: 1
+	Query: "morelia viridis" ; Times: 5
+	Query: "Uropeltis" ; Times: 1
+	Query: "Reptilia 3459" ; Times: 1
+	Query: "anura distance(location,geopoint(47.78363463526376,15.018310546875))&lt;367653" ; Times: 1
+	Query: "Reptilia 6124" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Cnemaspis" ; Times: 1
+	Query: "Aneides hardii" ; Times: 2
+	Query: "rana distance(location,geopoint(47.29413372501023,19.27001953125))&lt;228401.26093339798" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 4
+	Query: "type:specimen specificepithet:iguana genus:iguana country:&#34;brazil&#34; mappable:1" ; Times: 1
+	Query: "macrovipera lebetina type:specimen" ; Times: 1
+	Query: "Kachuga dhongoka" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "Indotestudo elongata" ; Times: 1
+	Query: "macrovipera" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "institutioncode:SMNS" ; Times: 1
+	Query: "Siebenrockiella" ; Times: 2
+	Query: "Carettochelys" ; Times: 1
+	Query: "porthidium nasutum type:specimen" ; Times: 1
+	Query: "Phrynops hilarii" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 2
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "Phrynops gibbus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande)" ; Times: 1
+	Query: "Reptilia 2490" ; Times: 1
+	Query: "Typhlops microcephalus" ; Times: 1
+	Query: "Phrynops tuberculatus" ; Times: 1
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia)" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "pituophis lineaticollis lineaticollis" ; Times: 2
+	Query: "flavescens iowa" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay)" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Thamnophis" ; Times: 1
+	Query: "Reptilia 4058" ; Times: 2
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe)" ; Times: 1
+	Query: "Elseya dentata" ; Times: 1
+	Query: "anura distance(location,geopoint(47.78363463526376,15.018310546875))&lt;100000" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "Chelodina novaeguineae" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Serpige)" ; Times: 1
+	Query: "type:specimen specificepithet:iguana genus:iguana mappable:1" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "hylidae institutioncode:SMNS" ; Times: 2
+	Query: "specificepithet:horridum genus:heloderma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "tropidodipsas" ; Times: 1
+	Query: "stuttgart" ; Times: 1
+	Query: "anolis nitens" ; Times: 2
+	Query: "specificepithet:Jamesoni genus:Dendroaspis" ; Times: 2
+	Query: "abronia deppii" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "Telescopus class:Reptilia" ; Times: 3
+	Query: "Reptilia 3447" ; Times: 1
+	Query: "Homopus areolatus" ; Times: 1
+	Query: "Ptychozoon lionotum" ; Times: 2
+	Query: "ctenosaura acanthura" ; Times: 35
+	Query: "Phrynops nasutus" ; Times: 1
+	Query: "polemon" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Micrurus collaris" ; Times: 1
+	Query: "specificepithet:viridis genus:morelia country:&#34;Australia&#34;" ; Times: 1
+	Query: "raddei" ; Times: 1
+	Query: "eryx jaculus" ; Times: 2
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 1
+	Query: "genus:celestus specificepithet:occiduus" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Ogmodon vitianus" ; Times: 4
+	Query: "Lepidophyma" ; Times: 2
+	Query: "Platemys platycephala" ; Times: 2
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "corallus" ; Times: 1
+	Query: "anura type:specimen institutioncode:SMNS" ; Times: 2
+	Query: "genus:moloch country:&#34;Australia&#34;" ; Times: 1
+	Query: "genus:kinixys" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "eryx jaculus jaculus" ; Times: 1
+	Query: "Geochelone radiata" ; Times: 2
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "Atretium schistosum" ; Times: 1
+	Query: "Kachuga kachuga" ; Times: 1
+	Query: "Psammophis angolensis" ; Times: 4
+	Query: "Staurotypus salvinii" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 1
+	Query: "Varanus indicus " ; Times: 1
+	Query: "Ptychozoon" ; Times: 1
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "Natator depressus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama)" ; Times: 1
+	Query: "Hydrophis atriceps" ; Times: 1
+	Query: "Reptilia 3460" ; Times: 1
+	Query: "cylindrophis" ; Times: 2
+	Query: "Reptilia 3462" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "boiga irregularis buru" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Testudo graeca 1" ; Times: 4
+	Query: "hypnale nepa type:specimen" ; Times: 1
+	Query: "Chelodina oblonga" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 4
+	Query: "Ogmodon" ; Times: 2
+	Query: "trimeresurus gramineus type:specimen" ; Times: 1
+	Query: "anura distance(location,geopoint(47.29413372501023,19.27001953125))&lt;228401.26093339798" ; Times: 1
+	Query: "Phrynops geoffroanus" ; Times: 1
+	Query: "causus rhombeatus" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "vipera raddei" ; Times: 1
+	Query: "Python molurus " ; Times: 2
+	Query: "eryx" ; Times: 1
+	Query: "rana distance(location,geopoint(46.392411189814645,20.21484375))&lt;228401.26093339798" ; Times: 1
+	Query: "Sacalia bealei" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Hydrophis caerulescens" ; Times: 1
+	Query: "pituophis deppei deppei" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina)" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "batrachoseps distance(location,geopoint(37.56780330105318,-118.41064453125))&lt;60085" ; Times: 1
+	Query: "specificepithet:occiduus" ; Times: 1
+	Query: "anura distance(location,geopoint(47.29413372501023,19.27001953125))&lt;101544" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "LEPIDOPHYMA" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Chelodina expansa" ; Times: 1
+	Query: "Atractus badius" ; Times: 1
+	Query: "Erymnochelys" ; Times: 3
+	Query: "Homopus" ; Times: 1
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 1052 download events in this period)
+Total number of records downloaded: 1082
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: India ; Times: 1
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 10
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-16 ; Times: 6
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-07 ; Times: 12
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 5
+	Date: 2016-06-03 ; Times: 9
+	Date: 2016-06-02 ; Times: 10
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-14 ; Times: 3
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "porthidium nasutum type:specimen" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Bothriechis" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "polychrus marmoratus" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 2
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "hypnale nepa type:specimen" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Emydura" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "trimeresurus gramineus type:specimen" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 2
+	Query: "chamaeleo jacksonii" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "pleurodema" ; Times: 1
+	Query: "specificepithet:insculpta family:emydidae" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia mappable:1" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "genus:celestus specificepithet:occiduus" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "genus:kinixys" ; Times: 1
+	Query: "moloch horridus" ; Times: 1
+	Query: "Hydrophis caerulescens" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Mauremys" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "bipes" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "Gopherus" ; Times: 1
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "macrovipera lebetina type:specimen" ; Times: 1
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "phrynosoma orbiculare" ; Times: 3
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "Tylototriton" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Chinemys" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Hydrophis atriceps" ; Times: 1
+	Query: "Dendrobates auratus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
