@@ -1,0 +1,224 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 177
+Number of records retrieved in searches: 476
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 10
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 46
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 4
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 85
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 4
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-13 ; Times: 6
+	Date: 2016-08-14 ; Times: 11
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-16 ; Times: 14
+	Date: 2016-08-17 ; Times: 6
+	Date: 2016-08-18 ; Times: 9
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-29 ; Times: 7
+	Date: 2016-08-25 ; Times: 8
+	Date: 2016-08-24 ; Times: 11
+	Date: 2016-08-27 ; Times: 6
+	Date: 2016-08-26 ; Times: 44
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 16
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 9
+	Date: 2016-08-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Oligosoma lineoocellatum" ; Times: 1
+	Query: "chamaeleonides" ; Times: 1
+	Query: "melanophidium" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 4
+	Query: "ameiva festiva" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa" ; Times: 2
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "uropeltidae" ; Times: 1
+	Query: "bungarus flaviceps" ; Times: 1
+	Query: "Necturus maculosus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "Pseudacris triseriata country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Uropeltis" ; Times: 2
+	Query: "Varanus bengalensis" ; Times: 1
+	Query: "Ahaetulla perroteti" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+	Query: "year &gt;= 1700 year &lt;= 1840" ; Times: 1
+	Query: "Varanus bengalensis type:specimen" ; Times: 1
+	Query: "SPhenomorphus indicus" ; Times: 1
+	Query: "ficimia" ; Times: 1
+	Query: "bothriechis guatemala" ; Times: 4
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "micrurus annellatus" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 2
+	Query: "genus:pseudopus" ; Times: 1
+	Query: "Pseudacris crucifer country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "pulchra type:specimen family:Microhylidae" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 3
+	Query: "Dicrodon" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Gloydius intermedius" ; Times: 3
+	Query: "podocnemis expansa" ; Times: 2
+	Query: "ambystoma mexicanum smns" ; Times: 1
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "xylophis" ; Times: 2
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 6
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 2
+	Query: "rana temporaria" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 2
+	Query: "geochelone" ; Times: 1
+	Query: "Trimeresurus erythrurus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 2
+	Query: "anolis fraseri" ; Times: 1
+	Query: "Uropeltidae" ; Times: 1
+	Query: "anolis punctatus" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa mappable:1" ; Times: 2
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "Ambystoma mexicanum smns" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Eurycea bislineata country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "conrauidae type:specimen order:Anura" ; Times: 1
+	Query: "genus:Noblella specificepithet:myrmecoides" ; Times: 1
+	Query: "genus:anilius" ; Times: 1
+	Query: "Panaspis breviceps" ; Times: 1
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 1
+	Query: "Conrauidae type:specimen order:Anura" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 2
+	Query: "boiga trigonata" ; Times: 1
+	Query: "anguis fragilis" ; Times: 3
+	Query: "Porthidium nasutum" ; Times: 2
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Egernia hosmeri" ; Times: 2
+	Query: "petropedetes type:specimen order:Anura" ; Times: 2
+	Query: "crotalus adamanteus" ; Times: 2
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "Micrurus dumerilii" ; Times: 41
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "Hyla versicolor country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 8
+	Query: "Sternotherus depressus" ; Times: 1
+	Query: "Dasia olivacea" ; Times: 1
+	Query: "Acontias" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "anolis squamulatus" ; Times: 1
+	Query: "Uropeltis ellioti" ; Times: 2
+	Query: "Plethodon shermani" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "ahaetulla perroteti" ; Times: 1
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 3
+	Query: "Voeltzkowia mira" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 924 download events in this period)
+Total number of records downloaded: 541
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 8
+	Date: 2016-08-15 ; Times: 4
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 5
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-30 ; Times: 7
+	Date: 2016-08-22 ; Times: 7
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudemys" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "anolis fraseri" ; Times: 1
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "chamaeleonides" ; Times: 1
+	Query: "anolis punctatus" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "Pseudacris crucifer country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "Ambystoma maculatum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Necturus maculosus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Dicrodon" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Sternotherus depressus" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Varanus bengalensis" ; Times: 4
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "family:Uropeltidae" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "ambystoma" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "anolis squamulatus" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "anolis pulchellus" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+
+
+End of report.
