@@ -1,0 +1,122 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 292
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 6
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-13 ; Times: 4
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-05 ; Times: 13
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-06 ; Times: 3
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "basiliscus plumifrons" ; Times: 1
+	Query: "Cnemaspis asia" ; Times: 1
+	Query: "Melanophidium" ; Times: 1
+	Query: "genus:pseudocerastes" ; Times: 2
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 3
+	Query: "Rhinophis" ; Times: 1
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "Salamandrina" ; Times: 1
+	Query: "Plectrurus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "salamandra" ; Times: 1
+	Query: "Meizodon" ; Times: 2
+	Query: "uropeltidae" ; Times: 1
+	Query: "sphenodon" ; Times: 2
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "year &gt;= 1838 year &lt;= 1845" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 2
+	Query: "Rhinophrynus" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "moloch horridus" ; Times: 2
+	Query: "BRACHYORRHOS ALBUS" ; Times: 1
+	Query: "varanus institutioncode:SMNS" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 1
+	Query: "hemidactylus continent:south america" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Testudo graeca 1" ; Times: 2
+	Query: "uropeltis" ; Times: 1
+	Query: "institutioncode:smns" ; Times: 1
+	Query: "specificepithet:geographica genus:Hyla" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 1
+	Query: "Salea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 811 download events in this period)
+Total number of records downloaded: 795
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 9
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-05 ; Times: 7
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Lepidophyma flavimaculatum&#34;" ; Times: 1
+	Query: "Plectrurus" ; Times: 1
+	Query: "anolis capito" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "uropeltidae" ; Times: 1
+	Query: "uropeltis" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Melanophidium" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rhinophis" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "clelia" ; Times: 2
+	Query: "Rhinophrynus" ; Times: 1
+
+
+End of report.
