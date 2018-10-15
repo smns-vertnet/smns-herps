@@ -1,0 +1,251 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 210
+Number of records retrieved in searches: 502
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United States ; Times: 65
+	Country: Saudi Arabia ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Iran ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 91
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: Lithuania ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 6
+	Country: Chile ; Times: 5
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 6
+	Date: 2018-01-18 ; Times: 6
+	Date: 2018-01-31 ; Times: 15
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-10 ; Times: 5
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-17 ; Times: 51
+	Date: 2018-01-16 ; Times: 8
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-24 ; Times: 53
+	Date: 2018-01-03 ; Times: 5
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-01 ; Times: 2
+	Date: 2018-01-20 ; Times: 4
+	Date: 2018-01-21 ; Times: 8
+	Date: 2018-01-22 ; Times: 9
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-23 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis lineaticollis" ; Times: 2
+	Query: "Clelia clelia" ; Times: 2
+	Query: "blombergi" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "genus:Bolitoglossa specificepithet:platydactyla" ; Times: 1
+	Query: "specificepithet:scabra" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 2
+	Query: "Coniophanes bipunctatus" ; Times: 2
+	Query: "boydii" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "Mantella cowanii" ; Times: 2
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Rana latastei" ; Times: 2
+	Query: "ebenavia" ; Times: 3
+	Query: "genus:boa year &lt;= 1950" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 3
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 2
+	Query: "Leptophis mexicanus" ; Times: 2
+	Query: "Microhyla rubra" ; Times: 2
+	Query: "Dermatemys mawii" ; Times: 2
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "Alytes muletensis" ; Times: 3
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 1
+	Query: "sphenodon punctatus" ; Times: 3
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "Porthidium nasutum" ; Times: 2
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "Corallus" ; Times: 4
+	Query: "gonocephalus liogaster" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 2
+	Query: "asthenodipsas laevis" ; Times: 1
+	Query: "Tropidophis melanurus" ; Times: 2
+	Query: "Lepidophyma flavimaculatum" ; Times: 2
+	Query: "hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 2
+	Query: "Phyllobates terribilis" ; Times: 2
+	Query: "Gymnopis syntrema" ; Times: 1
+	Query: "genus:Bombina specificepithet:orientalis" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "genus:Pelamis continent:Asia" ; Times: 1
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "Stenorrhina degenhardtii" ; Times: 2
+	Query: "gloydius halys" ; Times: 1
+	Query: "Dipsas" ; Times: 1
+	Query: "Limnophis" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "Notophthalmus viridescens and georgia" ; Times: 1
+	Query: "Scaphiodontophis annulatus" ; Times: 2
+	Query: "Tropidodipsas sartorii" ; Times: 2
+	Query: "pareas" ; Times: 5
+	Query: "Micrurus elegans" ; Times: 2
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "pelobates" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:henselii" ; Times: 3
+	Query: "Thecadactylus rapicauda" ; Times: 2
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "macrovipera lebetina" ; Times: 2
+	Query: "lindneri" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "genus:boa year &lt;= 1925" ; Times: 1
+	Query: "bufo lindneri" ; Times: 3
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 2
+	Query: "Anolis capito" ; Times: 2
+	Query: "heloderma horridum" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Staurotypus salvinii" ; Times: 2
+	Query: "Acanthochelys basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amietia fuscigula" ; Times: 3
+	Query: "microcephalum" ; Times: 2
+	Query: "specificepithet:bicolor genus:Dipsas" ; Times: 1
+	Query: "Natator depressus" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Rana luctuosa" ; Times: 2
+	Query: "Rhinoclemmys areolata" ; Times: 2
+	Query: "ptychozoon kuhli" ; Times: 1
+	Query: "Dendrobates variabilis" ; Times: 2
+	Query: "Alytes obstetricans" ; Times: 3
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "pituophis deppei" ; Times: 3
+	Query: "Sphaerotheca breviceps" ; Times: 2
+	Query: "Phrynomedusa marginata" ; Times: 2
+	Query: "genus:pituophis stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "bolitoglossa adspersa" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 2
+	Query: "Telmatobius verrucosus" ; Times: 2
+	Query: "Ninia diademata" ; Times: 2
+	Query: "cyrtodactylus peguensis" ; Times: 1
+	Query: "specificepithet:angustatus genus:Claudius stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 2
+	Query: "Hyla sarda" ; Times: 2
+	Query: "Physalaemus henselii" ; Times: 4
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Dendrobates speciosus" ; Times: 2
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 2
+	Query: "Uperodon systoma" ; Times: 8
+	Query: "Staurotypus triporcatus" ; Times: 2
+	Query: "Kinosternon leucostomum" ; Times: 2
+	Query: "Bolitoglossa mulleri" ; Times: 1
+	Query: "philodryas patagoniensis" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "SMNS" ; Times: 1
+	Query: "Coniophanes imperialis" ; Times: 2
+	Query: "dilophus" ; Times: 2
+	Query: "Micrurus diastema" ; Times: 2
+	Query: "vntype:specimen specificepithet:dilophus class:Reptilia basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "stateprovince:&#34;Punjab&#34; year &gt;= 1860 year &lt;= 1880" ; Times: 1
+	Query: "Emoia cyanogaster" ; Times: 1
+	Query: "bufo surdus" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Australia&#34;" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1398 download events in this period)
+Total number of records downloaded: 150
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: United States ; Times: 17
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-25 ; Times: 7
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pituophis deppei" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "pareas" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "genus:Tantilla year &lt;= 1920" ; Times: 1
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "macrovipera lebetina" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Hypsilurus dilophus" ; Times: 1
+	Query: "petropedetes" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "vntype:specimen specificepithet:dilophus class:Reptilia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Atelopus varius" ; Times: 2
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Limnophis" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "tropidurus torquatus" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
