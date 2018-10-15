@@ -1,0 +1,312 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 404
+Number of records retrieved in searches: 1500
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United Kingdom ; Times: 94
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 30
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 78
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 29
+	Country: India ; Times: 3
+	Country: United States ; Times: 102
+	Country: Canada ; Times: 3
+	Country: Germany ; Times: 9
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Slovakia ; Times: 3
+	Country: Argentina ; Times: 11
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 16
+	Date: 2018-02-08 ; Times: 8
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 84
+	Date: 2018-02-01 ; Times: 7
+	Date: 2018-02-07 ; Times: 12
+	Date: 2018-02-06 ; Times: 14
+	Date: 2018-02-05 ; Times: 8
+	Date: 2018-02-04 ; Times: 3
+	Date: 2018-02-21 ; Times: 16
+	Date: 2018-02-20 ; Times: 52
+	Date: 2018-02-23 ; Times: 4
+	Date: 2018-02-22 ; Times: 14
+	Date: 2018-02-25 ; Times: 8
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-27 ; Times: 58
+	Date: 2018-02-26 ; Times: 20
+	Date: 2018-02-28 ; Times: 32
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 9
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-13 ; Times: 6
+	Date: 2018-02-18 ; Times: 12
+	Date: 2018-02-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "eunectes notaeus" ; Times: 1
+	Query: "alytes" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "trapelus mutabilis" ; Times: 5
+	Query: "Tropidodipsas sartorii" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 3
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "(ott)" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 7
+	Query: "Pelomedusa subrufa mappable:1" ; Times: 9
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 4
+	Query: "pareas" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 8
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Testudo marginata mappable:1" ; Times: 4
+	Query: "Chamaeleo chamaeleon" ; Times: 2
+	Query: "amphisbaena alba" ; Times: 1
+	Query: "specificepithet:vipera genus:Cerastes" ; Times: 4
+	Query: "Elaphe guttata mappable:1" ; Times: 4
+	Query: "Pieter bleeker" ; Times: 1
+	Query: "ophiophagus hannah" ; Times: 1
+	Query: "genus:heloderma" ; Times: 2
+	Query: "Microhyla rubra" ; Times: 1
+	Query: "Mesalina rubropunctata" ; Times: 2
+	Query: "order:Squamata locality:Bangalore stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 2
+	Query: "Dendrelaphis punctulatus" ; Times: 1
+	Query: "PITUOPHIS DEPPEI" ; Times: 1
+	Query: "Xenochrophis maculatus" ; Times: 1
+	Query: "bolitoglossa mulleri" ; Times: 1
+	Query: "Tarentola delalandii mappable:1" ; Times: 5
+	Query: "liopeltis tricolor" ; Times: 5
+	Query: "Sibynomorphus ventrimaculatus" ; Times: 1
+	Query: "genus:Cerastes" ; Times: 1
+	Query: "Ptyodactylus hasselquistii" ; Times: 1
+	Query: "Discoglossus pictus mappable:1" ; Times: 7
+	Query: "Agama mwanzae mappable:1" ; Times: 4
+	Query: "Dipsas catesbyi" ; Times: 2
+	Query: "Chamaeleo chamaeleon mappable:1" ; Times: 5
+	Query: "hyla arborea" ; Times: 1
+	Query: "Pseudemys concinna mappable:1" ; Times: 7
+	Query: "naja haje" ; Times: 1
+	Query: "Rana esculenta mappable:1" ; Times: 5
+	Query: "Necturus mississippi" ; Times: 1
+	Query: "Dipsas albifrons" ; Times: 1
+	Query: "Mesalina olivieri" ; Times: 4
+	Query: "Sibon nebulatus" ; Times: 3
+	Query: "Toscana" ; Times: 1
+	Query: "Tomodon ocellatus" ; Times: 2
+	Query: "Thecadactylus Ecuador" ; Times: 3
+	Query: "Ptyodactylus guttatus" ; Times: 9
+	Query: "specificepithet:cerastes genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Ceratophrys" ; Times: 2
+	Query: "scientificname:&#34;caudiverbera	 caudiverbera&#34;" ; Times: 1
+	Query: "Rana ridibunda mappable:1" ; Times: 2
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "Sphenops sepsoides" ; Times: 2
+	Query: "toscana" ; Times: 1
+	Query: "genus:spalerosophis" ; Times: 1
+	Query: "Bufo mauritanicus mappable:1" ; Times: 5
+	Query: "Typhlops punctatus" ; Times: 1
+	Query: "Psammophis schokari" ; Times: 1
+	Query: "Acanthodactylus boskianus" ; Times: 2
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 2
+	Query: "Pseudotrapelus sinaitus" ; Times: 1
+	Query: "sphenops sepsoides" ; Times: 2
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Atractus badius" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 2
+	Query: "scientificname:&#34;varanus rudicollis&#34;" ; Times: 1
+	Query: "Podarcis sicula mappable:1" ; Times: 4
+	Query: "bolitoglossa salvinii" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Tomodon dorsatus" ; Times: 2
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 2
+	Query: "catalognumber:447" ; Times: 1
+	Query: "genus:pituophis &#34;florida&#34;" ; Times: 1
+	Query: "euphlyctis cyanophlyctis" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "Duberria lutrix" ; Times: 12
+	Query: "genus:Amietia specificepithet:fuscigula" ; Times: 1
+	Query: "Liotyphlops albirostris" ; Times: 2
+	Query: "Agalychnis moreletii" ; Times: 11
+	Query: "pelobates" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "genus:andrias" ; Times: 2
+	Query: "varanus island papua" ; Times: 2
+	Query: "eryx jaculus" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "noblella vntype:specimen" ; Times: 8
+	Query: "Crocodylus niloticus mappable:1" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 5
+	Query: "recordedby:sarg" ; Times: 2
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 1
+	Query: "Varanus niloticus mappable:1" ; Times: 5
+	Query: "vipera ursinii" ; Times: 29
+	Query: "Ceratobatrachus guentheri mappable:1" ; Times: 5
+	Query: "psammophis sibilans" ; Times: 3
+	Query: "noblella" ; Times: 1
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 5
+	Query: "Cerastes vipera" ; Times: 2
+	Query: "order:Squamata country:&#34;India&#34;" ; Times: 1
+	Query: "novoeumeces schneideri" ; Times: 1
+	Query: "Ptyodactylus h" ; Times: 1
+	Query: "Helminthophis flavoterminatus" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "phyllomedusa vaillantii" ; Times: 1
+	Query: "Crotalus cerastes Sonora" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 2
+	Query: "Poeppig" ; Times: 1
+	Query: "Trapelus mutabilis" ; Times: 5
+	Query: "Spalerosophis diadema" ; Times: 3
+	Query: "Dipsas indica" ; Times: 1
+	Query: "phyllomedusa hypochondrialis" ; Times: 1
+	Query: "varanus griseus" ; Times: 4
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "pituophis deppei" ; Times: 2
+	Query: "Pipa pipa" ; Times: 2
+	Query: "scientificname:&#34;uperodon systoma&#34;" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 5
+	Query: "Tropiocolotes steudneri" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "Acanthodactylus pardalis" ; Times: 1
+	Query: "genus:Pipa" ; Times: 1
+	Query: "scincus scincus vntype:specimen specificepithet:scincus genus:scincus" ; Times: 1
+	Query: "Mauremys japonica" ; Times: 6
+	Query: "Stenodactylus sthenodactylus" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "specificepithet:leopardinus genus:liolaemus year &gt;= 1970 year &lt;= 2017" ; Times: 1
+	Query: "Bufo blombergi mappable:1" ; Times: 5
+	Query: "eryx" ; Times: 1
+	Query: "genus:Abronia country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Caudiverbera" ; Times: 2
+	Query: "genus:Boophis specificepithet:tephraeomystax" ; Times: 1
+	Query: "genus:Triturus specificepithet:marmoratus" ; Times: 1
+	Query: "Gopherus agassizii Sonora" ; Times: 1
+	Query: "Testudo kleinmanni" ; Times: 1
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1855 year &lt;= 1866" ; Times: 1
+	Query: "specificepithet:longipes genus:Laemanctus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "recordedby:Pieter bleeker" ; Times: 1
+	Query: "Kinixys" ; Times: 1
+	Query: "Hyla granosa" ; Times: 3
+	Query: "trachycephalus resinifictrix" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Laudakia caucasica" ; Times: 2
+	Query: "sphenomorphus indicus" ; Times: 1
+	Query: "Caudiverbera vntype:specimen" ; Times: 8
+	Query: "osteocephalus leprieurii" ; Times: 2
+	Query: "python sebae" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 4
+	Query: "cerastes vipera" ; Times: 9
+	Query: "Pipa" ; Times: 1
+	Query: "specificepithet:jaculus genus:eryx" ; Times: 1
+	Query: "Sibynomorphus mikanii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1892 download events in this period)
+Total number of records downloaded: 166
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 27
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-27 ; Times: 4
+	Date: 2018-02-03 ; Times: 3
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "genus:andrias" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "specificepithet:major genus:Batrachoseps county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "Teratoscincus" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "Mesalina olivieri" ; Times: 2
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "Batrachoseps major stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "clemmys marmorata" ; Times: 1
+	Query: "noblella vntype:specimen" ; Times: 2
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "genus:Abronia country:&#34;Mexico&#34;" ; Times: 3
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "pseudacris ornata" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Hypnale" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "occidozyga" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "vipera ursinii" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+
+
+End of report.
