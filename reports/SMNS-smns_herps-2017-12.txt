@@ -1,0 +1,212 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 167
+Number of records retrieved in searches: 480
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 93
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 8
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 7
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: China ; Times: 32
+	Country: South Korea ; Times: 1
+	Country: French Guiana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 3
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-17 ; Times: 4
+	Date: 2017-12-14 ; Times: 9
+	Date: 2017-12-15 ; Times: 7
+	Date: 2017-12-12 ; Times: 26
+	Date: 2017-12-13 ; Times: 14
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-11 ; Times: 7
+	Date: 2017-12-18 ; Times: 15
+	Date: 2017-12-19 ; Times: 10
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-26 ; Times: 4
+	Date: 2017-12-24 ; Times: 4
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 7
+	Date: 2017-12-20 ; Times: 17
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 5
+	Date: 2017-12-07 ; Times: 3
+	Date: 2017-12-06 ; Times: 4
+	Date: 2017-12-01 ; Times: 6
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-09 ; Times: 6
+	Date: 2017-12-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sputatrix genus:naja" ; Times: 1
+	Query: "Liopeltis" ; Times: 1
+	Query: "Leptobrachium hasseltii mappable:1" ; Times: 2
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "tropidodipsas sartorii" ; Times: 3
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1979 year &lt;= 2018 mappable:1" ; Times: 2
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "Florida pituophis" ; Times: 2
+	Query: "Aspidelaps scutatus" ; Times: 3
+	Query: "catalognumber:642" ; Times: 1
+	Query: "class:reptilia locality:bougainville basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "fraasii" ; Times: 1
+	Query: "genus:Tylototriton institutioncode:SMNS" ; Times: 1
+	Query: "Anolis fraseri" ; Times: 1
+	Query: "liopeltis tricolor" ; Times: 19
+	Query: "vntype:specimen class:Amphibia country:&#34;Bolivia&#34; year &lt;= 2018 basisofrecord:PreservedSpecimen mappable:1" ; Times: 2
+	Query: "specificepithet:naja genus:naja" ; Times: 1
+	Query: "xenopeltis unicolor" ; Times: 1
+	Query: "lycodon aulicus" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "Melanochelys trijuga" ; Times: 1
+	Query: "leptodeira annulata" ; Times: 1
+	Query: "Proceratophrys boiei mappable:1" ; Times: 1
+	Query: "Osteocephalus taurinus mappable:1" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "Arthroleptis wahlbergii" ; Times: 1
+	Query: "Schismaderma carens mappable:1" ; Times: 1
+	Query: "Ebenavia" ; Times: 1
+	Query: "gloydius" ; Times: 1
+	Query: "Dendroaspis angusticeps" ; Times: 3
+	Query: "Rhombophryne testudo mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1978 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "Amietia angolensis mappable:1" ; Times: 3
+	Query: "Pyxicephalus adspersus mappable:1" ; Times: 1
+	Query: "Melanophryniscus stelzneri mappable:1" ; Times: 2
+	Query: "Elapsoidea nigra" ; Times: 8
+	Query: "Micrurus altirostris" ; Times: 3
+	Query: "boydii" ; Times: 1
+	Query: "genus:Kinixys mappable:1" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 4
+	Query: "Natriciteres olivacea" ; Times: 2
+	Query: "Bufonidae institutioncode:SMNS" ; Times: 1
+	Query: "Cerrophidion" ; Times: 1
+	Query: "specificepithet:nigricollis genus:naja" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 2
+	Query: "Tomopterna delalandii mappable:1" ; Times: 1
+	Query: "Geoclemys hamiltonii" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 1
+	Query: "vntype:specimen country:&#34;India&#34; (Philautus)" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1979 year &lt;= 2018 basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:4424" ; Times: 2
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+	Query: "class:reptilia locality:jaluit basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1977 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "Stenorrhina degenhardtii" ; Times: 1
+	Query: "liopeltis" ; Times: 3
+	Query: "country:&#34;Sierra Leone&#34; continent:Africa" ; Times: 1
+	Query: "lacerta graeca" ; Times: 1
+	Query: "Wolterstorffina parvipalmata mappable:1" ; Times: 1
+	Query: "Natalobatrachus bonebergi mappable:1" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 4
+	Query: "Naja kaouthia" ; Times: 1
+	Query: "Strongylopus grayii mappable:1" ; Times: 1
+	Query: "Pelobates fuscus mappable:1" ; Times: 1
+	Query: "pseudocalotes" ; Times: 1
+	Query: "Lampropeltis triangulum amaura" ; Times: 2
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 1
+	Query: "rana latastei" ; Times: 5
+	Query: "Pituophis stateprovince:&#34;Florida&#34;" ; Times: 5
+	Query: "Brachycephalus ephippium mappable:1" ; Times: 2
+	Query: "Kinixys" ; Times: 1
+	Query: "leiopython" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "Terrapene stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "Ceratobatrachus guentheri mappable:1" ; Times: 2
+	Query: "Colostethus littoralis" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus" ; Times: 1
+	Query: "Rhododendron mappable:1" ; Times: 1
+	Query: "Ceratophrys aurita mappable:1" ; Times: 2
+	Query: "genus:Hardella country:&#34;India&#34;" ; Times: 1
+	Query: "Odontophrynus americanus mappable:1" ; Times: 1
+	Query: "specificepithet:trijuga genus:Melanochelys" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "masticophis mentovarius" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 3
+	Query: "Makay" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 5
+	Query: "genus:Kachuga country:&#34;India&#34;" ; Times: 1
+	Query: "Aspideretes hurum" ; Times: 1
+	Query: "philautus aurifasciatus" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 674 download events in this period)
+Total number of records downloaded: 178
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 18
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: China ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 7
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 4
+	Date: 2017-12-03 ; Times: 3
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "anolis capito" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "lacerta graeca" ; Times: 1
+	Query: "Reptilia Campeche" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1979 year &lt;= 2018 mappable:1" ; Times: 3
+	Query: "specificepithet:melanogenys genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "Dilophus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "genus:Kinixys mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; year &gt;= 1979 year &lt;= 2018 basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:Clemmys" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "leiopython" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+
+
+End of report.
