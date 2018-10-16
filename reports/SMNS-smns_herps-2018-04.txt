@@ -1,0 +1,271 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 276
+Number of records retrieved in searches: 1104
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: United States ; Times: 126
+	Country: Israel ; Times: 10
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 32
+	Country: India ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Czechia ; Times: 3
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 14
+	Country: United Kingdom ; Times: 39
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 11
+	Country: Peru ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 7
+	Date: 2018-04-23 ; Times: 11
+	Date: 2018-04-22 ; Times: 8
+	Date: 2018-04-21 ; Times: 20
+	Date: 2018-04-20 ; Times: 6
+	Date: 2018-04-27 ; Times: 8
+	Date: 2018-04-26 ; Times: 12
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 4
+	Date: 2018-04-01 ; Times: 8
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-02 ; Times: 14
+	Date: 2018-04-05 ; Times: 6
+	Date: 2018-04-04 ; Times: 4
+	Date: 2018-04-07 ; Times: 6
+	Date: 2018-04-06 ; Times: 4
+	Date: 2018-04-09 ; Times: 7
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-16 ; Times: 11
+	Date: 2018-04-12 ; Times: 9
+	Date: 2018-04-13 ; Times: 17
+	Date: 2018-04-10 ; Times: 15
+	Date: 2018-04-11 ; Times: 12
+	Date: 2018-04-30 ; Times: 7
+	Date: 2018-04-17 ; Times: 3
+	Date: 2018-04-14 ; Times: 27
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-18 ; Times: 24
+	Date: 2018-04-19 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Phoxophrys" ; Times: 4
+	Query: "Podocnemis vogli" ; Times: 1
+	Query: "genus:Agkistrodon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "trapelus mutabilis" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "specificepithet:frontalis genus:micrurus" ; Times: 2
+	Query: "XENODON RABDOCEPHALUS" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Esmeraldas&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "Anomalepididae" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "ptychozoon lionotum" ; Times: 20
+	Query: "pseudobufo" ; Times: 1
+	Query: "specificepithet:annellatus genus:micrurus" ; Times: 2
+	Query: "pareas" ; Times: 1
+	Query: "hemidactylus flaviviridis" ; Times: 2
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "SMNS 5892" ; Times: 1
+	Query: "DR SH 1" ; Times: 1
+	Query: "specificepithet:scincus genus:scincus" ; Times: 2
+	Query: "atractus smns" ; Times: 5
+	Query: "genus:Herpele specificepithet:squalostoma" ; Times: 3
+	Query: "testudo graeca" ; Times: 1
+	Query: "Tachymenis peruviana" ; Times: 1
+	Query: "Tarentola mauritanica morocco" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "liolaemus signifer" ; Times: 1
+	Query: "gonydactylus" ; Times: 1
+	Query: "order:Anura institutioncode:SMNS" ; Times: 1
+	Query: "dendrelaphis myanmar" ; Times: 1
+	Query: "institutioncode:SMNS" ; Times: 3
+	Query: "family:typhlopidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "cnemaspis" ; Times: 1
+	Query: "lygosoma quadrupes" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "genus:Calumma nasuta" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 2
+	Query: "specificepithet:altirostris genus:micrurus" ; Times: 2
+	Query: "Mesalina olivieri" ; Times: 2
+	Query: "Tropidophis melanurus" ; Times: 1
+	Query: "specificepithet:caudalis genus:bitis" ; Times: 1
+	Query: "liotyphlops albirostris" ; Times: 2
+	Query: "specificepithet:depressus genus:sternotherus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 1
+	Query: "specificepithet:depressus genus:sternotherus year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "amethistina" ; Times: 6
+	Query: "genus:Bombina specificepithet:orientalis" ; Times: 1
+	Query: "Acanthodactylus boskianus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Manabi&#34; country:&#34;Ecuador&#34; institutioncode:SMNS" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 1
+	Query: "order:Testudines locality:Indonesia" ; Times: 1
+	Query: "anolis nitens" ; Times: 1
+	Query: "timon lepidus" ; Times: 1
+	Query: "Limnophis" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Esmeraldas&#34; country:&#34;Ecuador&#34; AND (NOT MCZ NOT USNM) institutioncode:SMNS" ; Times: 1
+	Query: "genus:Kaloula specificepithet:baleata" ; Times: 1
+	Query: "genus:Calumma" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "Ptychozoon lionotum" ; Times: 10
+	Query: "spalerosophis diadema" ; Times: 2
+	Query: "Mesalina guttulata" ; Times: 3
+	Query: "specificepithet:calyptratus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Harpesaurus" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "Phyllodactylus inaequalis" ; Times: 1
+	Query: "family:Ambystomatidae locality:Mexico" ; Times: 19
+	Query: "Stenorrhina degenhardtii" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "micrurus elegans" ; Times: 10
+	Query: "genus:Limnophis" ; Times: 1
+	Query: "specificepithet:caspius genus:coluber year &gt;= 1980" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 2
+	Query: "Tachymenis peruviana mappable:1" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "limnophis bicolor" ; Times: 1
+	Query: "class:Reptilia locality:Bangalore stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Cerastes vipera" ; Times: 1
+	Query: "genus:rana institutioncode:SMNS" ; Times: 1
+	Query: "Helminthophis flavoterminatus" ; Times: 8
+	Query: "Hardella" ; Times: 1
+	Query: "specificepithet:scincus genus:scincus country:&#34;Egypt&#34;" ; Times: 1
+	Query: "Staurotypus salvinii" ; Times: 2
+	Query: "bitis gabonica" ; Times: 1
+	Query: "sternotherus depressus" ; Times: 5
+	Query: "class:Reptilia stateprovince:&#34;Esmeraldas&#34; country:&#34;Ecuador&#34; AND (NOT ANOLIS) institutioncode:SMNS" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 4
+	Query: "podarcis bocagei" ; Times: 1
+	Query: "Cerastes vipera morocco" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 3
+	Query: "mesalina rubropunctata" ; Times: 4
+	Query: "specificepithet:corallinus genus:micrurus" ; Times: 5
+	Query: "order:anura locality:India" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Esmeraldas&#34; country:&#34;Ecuador&#34; AND (NOT MCZ NOT USNM)" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "Salea" ; Times: 1
+	Query: "Tantilla reticulata" ; Times: 1
+	Query: "Cuora" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "Cophotis" ; Times: 2
+	Query: "Tropiocolotes steudneri" ; Times: 6
+	Query: "Acanthodactylus pardalis" ; Times: 2
+	Query: "specificepithet:schlegelii genus:bothriechis country:&#34;guatemala&#34;" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "specificepithet:lanceolatus genus:bothrops" ; Times: 1
+	Query: "Japalura" ; Times: 1
+	Query: "Rhabdophis chrysargos Indonesia" ; Times: 1
+	Query: "Phrynocephalus helioscopus mappable:1" ; Times: 1
+	Query: "Sternotherus depressus" ; Times: 1
+	Query: "ptychozoon kuhli" ; Times: 12
+	Query: "class:Reptilia stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "cyrtodactylus peguensis" ; Times: 3
+	Query: "specificepithet:nummifer genus:coluber" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Esmeraldas&#34; country:&#34;Ecuador&#34; AND (NOT ANOLIS)" ; Times: 1
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 2
+	Query: "specificepithet:dromiciformis genus:Coniophanes" ; Times: 5
+	Query: "specificepithet:vipera genus:cerastes" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Manabi&#34; country:&#34;Ecuador&#34;" ; Times: 4
+	Query: "Ceratophora" ; Times: 1
+	Query: "specificepithet:calyptratus" ; Times: 3
+	Query: "lacerta fraasii" ; Times: 1
+	Query: "Staurotypus Salvinii" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1359 download events in this period)
+Total number of records downloaded: 159
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 21
+	Country: Israel ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-23 ; Times: 5
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "heloderma" ; Times: 2
+	Query: "specificepithet:melanogenys genus:Oxyrhopus mappable:1" ; Times: 1
+	Query: "liolaemus signifer" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "sceloporus malachiticus" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "family:Ambystomatidae locality:Mexico" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Tachymenis peruviana mappable:1" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "Phrynocephalus helioscopus mappable:1" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 2
+	Query: "stateprovince:&#34;Pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+
+
+End of report.
