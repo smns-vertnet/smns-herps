@@ -1,0 +1,417 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 475
+Number of records retrieved in searches: 2164
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United Kingdom ; Times: 18
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 34
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 298
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 11
+	Country: Chile ; Times: 4
+	Country: Switzerland ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: France ; Times: 68
+	Country: Spain ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 17
+	Date: 2018-05-29 ; Times: 14
+	Date: 2018-05-21 ; Times: 15
+	Date: 2018-05-22 ; Times: 14
+	Date: 2018-05-23 ; Times: 78
+	Date: 2018-05-24 ; Times: 66
+	Date: 2018-05-25 ; Times: 10
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-06 ; Times: 9
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-04 ; Times: 4
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 5
+	Date: 2018-05-03 ; Times: 8
+	Date: 2018-05-01 ; Times: 16
+	Date: 2018-05-08 ; Times: 7
+	Date: 2018-05-09 ; Times: 12
+	Date: 2018-05-31 ; Times: 9
+	Date: 2018-05-30 ; Times: 22
+	Date: 2018-05-15 ; Times: 12
+	Date: 2018-05-14 ; Times: 13
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 91
+	Date: 2018-05-11 ; Times: 17
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 7
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 2
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas institutioncode:SMNS" ; Times: 2
+	Query: "genus:podarcis" ; Times: 1
+	Query: "lycophidion semicinctum" ; Times: 3
+	Query: "Hoplobatrachus tigerinus" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:SMNS" ; Times: 3
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Afronatrix" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Aglyptodactylus institutioncode:SMNS" ; Times: 4
+	Query: "Afrixalus dorsalis" ; Times: 1
+	Query: "specificepithet:scincus genus:scincus country:&#34;Egypt&#34;" ; Times: 1
+	Query: "genus:dendroaspis country:&#34;tanzania&#34;" ; Times: 6
+	Query: "specificepithet:ephippium genus:Brachycephalus institutioncode:SMNS" ; Times: 3
+	Query: "Chiasmocleis ventrimaculata" ; Times: 2
+	Query: "vntype:specimen genus:Calumma family:Chamaeleonidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Micrurus collaris" ; Times: 1
+	Query: "specificepithet:robustus genus:Trichobatrachus institutioncode:SMNS" ; Times: 3
+	Query: "Euproctus platycephalus" ; Times: 1
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "Alsodes nodosus" ; Times: 1
+	Query: "genus:cylindrophis" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "Bombina variegata" ; Times: 2
+	Query: "genus:Harpesaurus" ; Times: 1
+	Query: "specificepithet:scincus genus:scincus" ; Times: 4
+	Query: "Heloderma horridum" ; Times: 6
+	Query: "Bolitoglossa mulleri" ; Times: 1
+	Query: "specificepithet:natalensis genus:Phrynobatrachus institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:ventrimaculata genus:Chiasmocleis institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:peruensis genus:Atelopus institutioncode:SMNS" ; Times: 3
+	Query: "testudo graeca" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 3
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "genus:Buhoma" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "calumma nasuta" ; Times: 2
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "Herpele squalostoma" ; Times: 1
+	Query: "institutioncode:SMNS" ; Times: 2
+	Query: "specificepithet:subsigillata genus:Aubria institutioncode:SMNS" ; Times: 3
+	Query: "Bolitoglossa platydactyla" ; Times: 2
+	Query: "Bufo japonicus" ; Times: 1
+	Query: "genus:podarcis coordinateuncertaintyinmeters&lt;10000" ; Times: 2
+	Query: "specificepithet:deppii" ; Times: 1
+	Query: "specificepithet:grayii genus:Strongylopus institutioncode:SMNS" ; Times: 3
+	Query: "heterixalus madagascariensis" ; Times: 2
+	Query: "pontianak" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana institutioncode:SMNS" ; Times: 3
+	Query: "genus:Euphlyctis specificepithet:cyanophlyctis" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "lacerta agilis" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "specificepithet:chinensis genus:Hyla institutioncode:SMNS" ; Times: 3
+	Query: "class:amphibia stateprovince:&#34;la libertad&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:SMNS" ; Times: 3
+	Query: "alsodes nodosus" ; Times: 3
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:SMNS" ; Times: 5
+	Query: "ophiophagus Hannah" ; Times: 2
+	Query: "specificepithet:carens genus:Schismaderma institutioncode:SMNS" ; Times: 3
+	Query: "Hyla chinensis" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 4
+	Query: "liotyphlops albirostris" ; Times: 1
+	Query: "Triturus carnifex" ; Times: 1
+	Query: "cyclanorbis" ; Times: 1
+	Query: "order:squamata country:&#34;nigeria&#34;" ; Times: 4
+	Query: "family:Ambystomatidae locality:Mexico" ; Times: 7
+	Query: "specificepithet:feae genus:Brachytarsophrys institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:systoma genus:Uperodon institutioncode:SMNS" ; Times: 3
+	Query: "Xenochrophis cerasogaster" ; Times: 3
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "specificepithet:leptopus genus:Batrachyla institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa institutioncode:SMNS" ; Times: 3
+	Query: "Micrurus altirostris" ; Times: 1
+	Query: "Tropidodipsas" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "Ceratophrys cornuta" ; Times: 3
+	Query: "eryx jaculus" ; Times: 2
+	Query: "Ebenavia inunguis" ; Times: 2
+	Query: "specificepithet:ovalis genus:Elachistocleis institutioncode:SMNS" ; Times: 3
+	Query: "genus:philothamnus country:&#34;tanzania&#34;" ; Times: 1
+	Query: "enhydris bocourti" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo institutioncode:SMNS" ; Times: 3
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "specificepithet:geayi genus:Ctenophryne institutioncode:SMNS" ; Times: 3
+	Query: "psammophis angolensis" ; Times: 17
+	Query: "specificepithet:pictus genus:Discoglossus institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:pipiens genus:Rana institutioncode:SMNS" ; Times: 3
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Hemisus institutioncode:SMNS" ; Times: 3
+	Query: "Tropidodipsas sartorii" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:diadematus genus:Astylosternus institutioncode:SMNS" ; Times: 3
+	Query: "Trichobatrachus robustus" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 2
+	Query: "Ichthyophis glutinosus" ; Times: 2
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "Harpesaurus" ; Times: 4
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:belliana genus:Kinixys" ; Times: 3
+	Query: "specificepithet:oxyrhynchus genus:Ptychadena institutioncode:SMNS" ; Times: 3
+	Query: "crocodylus niloticus" ; Times: 9
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:SMNS" ; Times: 3
+	Query: "genus:Kinixys" ; Times: 1
+	Query: "thrasops" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "Hapsidophrys" ; Times: 1
+	Query: "micrelaps" ; Times: 1
+	Query: "specificepithet:nasuta genus:Megophrys institutioncode:SMNS" ; Times: 3
+	Query: "bombina bombina" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:SMNS" ; Times: 3
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 1
+	Query: "Geophis bicolor" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:pelewensis genus:Platymantis institutioncode:SMNS" ; Times: 3
+	Query: "chamaelycus" ; Times: 2
+	Query: "vntype:specimen genus:Furcifer family:Chamaeleonidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:SMNS" ; Times: 3
+	Query: "hormonotus" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes institutioncode:SMNS" ; Times: 4
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:pipa genus:Pipa institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34; AND (NOT USNM NOT TCWC) institutioncode:SMNS" ; Times: 1
+	Query: "specificepithet:cornuta genus:Ceratophrys institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:dorsalis genus:Afrixalus institutioncode:SMNS" ; Times: 5
+	Query: "psammophis elegans" ; Times: 10
+	Query: "genus:cylindrophis country:&#34;india&#34;" ; Times: 3
+	Query: "heloderma horridum" ; Times: 3
+	Query: "genus:aparallactus country:&#34;ghana&#34;" ; Times: 5
+	Query: "rafetus" ; Times: 1
+	Query: "specificepithet:stelzneri genus:Melanophryniscus institutioncode:SMNS" ; Times: 3
+	Query: "Leptodactylus rhodonotus" ; Times: 1
+	Query: "Kinixys" ; Times: 1
+	Query: "specificepithet:cultripes genus:Pelobates institutioncode:SMNS" ; Times: 3
+	Query: "Kaloula pulchra" ; Times: 1
+	Query: "specificepithet:cyanophlyctis genus:Euphlyctis institutioncode:SMNS" ; Times: 3
+	Query: "Rhinophrynus dorsalis" ; Times: 3
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "abronia" ; Times: 5
+	Query: "mesalina rubropunctata" ; Times: 2
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 6
+	Query: "genus:Ceratophrys specificepithet:cornuta" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "alytes muletensis" ; Times: 1
+	Query: "Andrias japonicus" ; Times: 2
+	Query: "specificepithet:irregularis genus:philothamnus" ; Times: 2
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34; AND (NOT USNM NOT TCWC)" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "specificepithet:lima genus:Occidozyga institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:tigerinus genus:Hoplobatrachus institutioncode:SMNS" ; Times: 3
+	Query: "morelia amethistina" ; Times: 6
+	Query: "specificepithet:leopardinus genus:Liolaemus" ; Times: 1
+	Query: "Bombina orientalis" ; Times: 1
+	Query: "genus:Abronia class:Reptilia" ; Times: 7
+	Query: "specificepithet:pleurostigma genus:Kalophrynus institutioncode:SMNS" ; Times: 3
+	Query: "mabuya carinata" ; Times: 1
+	Query: "elapsoidea" ; Times: 1
+	Query: "specificepithet:lindneri family:Bufonidae" ; Times: 1
+	Query: "specificepithet:nasus genus:Hylodes institutioncode:SMNS" ; Times: 3
+	Query: "podarcis muralis" ; Times: 1
+	Query: "genus:philothamnus country:&#34;nigeria&#34;" ; Times: 2
+	Query: "specificepithet:tomopterna genus:Phyllomedusa institutioncode:SMNS" ; Times: 3
+	Query: "Uperodon systoma" ; Times: 3
+	Query: "Chioglossa lusitanica" ; Times: 1
+	Query: "Rhombophryne testudo" ; Times: 2
+	Query: "Abronia vntype:specimen (Reptilia)" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:SMNS" ; Times: 3
+	Query: "Hyla arborea" ; Times: 2
+	Query: "specificepithet:laevis genus:Occidozyga institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:blombergi" ; Times: 2
+	Query: "Pelobates cultripes" ; Times: 2
+	Query: "dendroaspis angusticeps" ; Times: 8
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:SMNS" ; Times: 3
+	Query: "pseudohaje goldii" ; Times: 6
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:limnocharis genus:Fejervarya institutioncode:SMNS" ; Times: 3
+	Query: "Phrynocephalus arabicus" ; Times: 1
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:SMNS" ; Times: 3
+	Query: "palliata" ; Times: 2
+	Query: "Micrurus annellatus" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:boiei genus:Proceratophrys institutioncode:SMNS" ; Times: 3
+	Query: "Liolaemus leopardinus" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:SMNS" ; Times: 3
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Euproctus montanus" ; Times: 1
+	Query: "Bolitoglossa adspersa" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:darwinii genus:Rhinoderma institutioncode:SMNS" ; Times: 3
+	Query: "Siphonops annulatus" ; Times: 1
+	Query: "dispholidus" ; Times: 1
+	Query: "Bothrophthalmus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 104 (out of 1178 download events in this period)
+Total number of records downloaded: 488
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 47
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 12
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 24
+	Date: 2018-05-30 ; Times: 7
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 6
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-13 ; Times: 4
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 4
+	Date: 2018-05-18 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "class:amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Euproctus platycephalus" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 1
+	Query: "agkistrodon" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 3
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "Leptodactylus rhodonotus" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 2
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 2
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Dicrodon guttulatum" ; Times: 2
+	Query: "abronia" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "ophiophagus Hannah" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 2
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Hynobius nebulosus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Euproctus montanus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "order:squamata country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "specificepithet:leopardinus genus:Liolaemus" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Chioglossa lusitanica" ; Times: 1
+	Query: "Abronia vntype:specimen (Reptilia)" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Bolitoglossa mulleri" ; Times: 2
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Plethodon shermani" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 2
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Bolitoglossa adspersa" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+
+
+End of report.
