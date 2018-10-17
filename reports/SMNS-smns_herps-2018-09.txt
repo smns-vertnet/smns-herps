@@ -1,0 +1,224 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 573
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Ukraine ; Times: 1
+	Country: Romania ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 2
+	Country: Poland ; Times: 1
+	Country: India ; Times: 4
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 43
+	Country: Belgium ; Times: 1
+	Country: Austria ; Times: 6
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Sweden ; Times: 17
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-19 ; Times: 8
+	Date: 2018-09-02 ; Times: 3
+	Date: 2018-09-04 ; Times: 10
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-30 ; Times: 7
+	Date: 2018-09-05 ; Times: 7
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 3
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-20 ; Times: 12
+	Date: 2018-09-21 ; Times: 5
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-23 ; Times: 5
+	Date: 2018-09-01 ; Times: 14
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-28 ; Times: 15
+	Date: 2018-09-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis lineaticollis" ; Times: 1
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "clemmys guttata New York" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 3
+	Query: "genus:Vipera country:&#34;Greece&#34;" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira mappable:1" ; Times: 1
+	Query: "Gloydius" ; Times: 1
+	Query: "genus:Ceratophora" ; Times: 1
+	Query: "Macrovipera lebetina" ; Times: 2
+	Query: "Barisia imbricata México" ; Times: 1
+	Query: "Micrelaps" ; Times: 3
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Pareas monticola" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+	Query: "Rana dalmatina" ; Times: 1
+	Query: "genus:Vipera country:&#34;Turkey&#34;" ; Times: 1
+	Query: "specificepithet:ortonii genus:Anolis mappable:1" ; Times: 3
+	Query: "genus:Caudiverbera specificepithet:caudiverbera" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (Macrochelys temminckii)" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "genus:Adenomera specificepithet:andreae" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "Constanta" ; Times: 1
+	Query: "Noblella" ; Times: 1
+	Query: "pareatidae" ; Times: 2
+	Query: "Physalaemus henselii" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;Thailand&#34;" ; Times: 1
+	Query: "specificepithet:oxylophus genus:Anolis mappable:1" ; Times: 3
+	Query: "Vipera vntype:specimen country:&#34;Bulgaria&#34;" ; Times: 2
+	Query: "Testudo graeca" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Leptodeira mappable:1" ; Times: 1
+	Query: "specificepithet:capito genus:Anolis mappable:1" ; Times: 3
+	Query: "Florida pituophis" ; Times: 3
+	Query: "Sternotherus depressus" ; Times: 1
+	Query: "Gloydius halys" ; Times: 4
+	Query: "Vipera berus" ; Times: 2
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 2
+	Query: "genus:Conraua" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:mulleri" ; Times: 1
+	Query: "genus:Kaloula specificepithet:pulchra" ; Times: 1
+	Query: "genus:Bombina specificepithet:orientalis" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 3
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 7
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "Macrovipera" ; Times: 1
+	Query: "triturus carnifex" ; Times: 2
+	Query: "sarg" ; Times: 3
+	Query: "Noblella myrmecoides" ; Times: 1
+	Query: "Vipera vntype:specimen country:&#34;Russia&#34;" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "terrapene carolina New York" ; Times: 1
+	Query: "amyda cartilaginea" ; Times: 1
+	Query: "specificepithet:fuscoauratus genus:Anolis mappable:1" ; Times: 5
+	Query: "Vipera vntype:specimen country:&#34;Armenia&#34;" ; Times: 1
+	Query: "Kaloula pulchra" ; Times: 1
+	Query: "Tropidodipsas sartorii sartorii" ; Times: 1
+	Query: "Coniophanes imperialis imperialis" ; Times: 2
+	Query: "specificepithet:maculatus genus:Draco country:&#34;malaysia&#34;" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cornuta" ; Times: 1
+	Query: "fruhstorfer" ; Times: 1
+	Query: "specificepithet:horridum genus:Heloderma" ; Times: 1
+	Query: "Aipysurus" ; Times: 2
+	Query: "ceratophora" ; Times: 1
+	Query: "institutioncode:SMNS" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "Mabuya frenata" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 2
+	Query: "agalychnis moreletii" ; Times: 2
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 846 download events in this period)
+Total number of records downloaded: 285
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 21
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Indonesia ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-20 ; Times: 3
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 13
+	Date: 2018-09-18 ; Times: 14
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "Drymobius chloroticus" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "bolitoglossa rufescens" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "Pareas monticola" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon" ; Times: 1
+	Query: "oedura lesueurii" ; Times: 1
+	Query: "Ninia diademata diademata" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Ninia sebae sebae" ; Times: 1
+	Query: "pareatidae" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "Micrurus diastema diastema" ; Times: 1
+	Query: "A. robert country:&#34;brazil&#34;" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Leptophis mexicanus mexicanus" ; Times: 1
+	Query: "Pituophis lineaticollis" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "genus:mabuya continent:South America" ; Times: 1
+	Query: "MONOPELTIS" ; Times: 1
+	Query: "Drymobius margaritiferus margaritiferus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Polychrus gutturosus" ; Times: 1
+	Query: "Mabuya mabouya" ; Times: 1
+	Query: "Dicrodon guttulatum" ; Times: 1
+	Query: "Coniophanes imperialis imperialis" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco country:&#34;malaysia&#34;" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+
+
+End of report.
