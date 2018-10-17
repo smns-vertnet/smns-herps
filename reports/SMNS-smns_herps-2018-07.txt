@@ -1,0 +1,236 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 372
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 13
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 10
+	Country: Iran ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Czechia ; Times: 7
+	Country: Germany ; Times: 15
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 41
+	Country: Switzerland ; Times: 4
+	Country: Russia ; Times: 2
+	Country: Bulgaria ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-03 ; Times: 6
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-08 ; Times: 5
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-04 ; Times: 3
+	Date: 2018-07-05 ; Times: 5
+	Date: 2018-07-06 ; Times: 7
+	Date: 2018-07-21 ; Times: 3
+	Date: 2018-07-26 ; Times: 5
+	Date: 2018-07-27 ; Times: 6
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-13 ; Times: 3
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 6
+	Date: 2018-07-10 ; Times: 6
+	Date: 2018-07-17 ; Times: 9
+	Date: 2018-07-16 ; Times: 6
+	Date: 2018-07-15 ; Times: 4
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-31 ; Times: 17
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-18 ; Times: 5
+	Date: 2018-07-22 ; Times: 7
+	Date: 2018-07-23 ; Times: 2
+	Date: 2018-07-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "elapoidis" ; Times: 1
+	Query: "kinixys" ; Times: 3
+	Query: "Eirenis modestus" ; Times: 1
+	Query: "Eunectes" ; Times: 1
+	Query: "specificepithet:versicolor genus:Calotes country:&#34;India&#34;" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "genus:Cricosaura family:Xantusiidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:versicolor genus:Calotes country:&#34;India&#34;" ; Times: 4
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "genus:Xenopus specificepithet:muelleri" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "dipsadoboa" ; Times: 1
+	Query: "rhinoderma" ; Times: 1
+	Query: "Gongylosoma" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "genus:Lophognathus locality:New Guinea" ; Times: 1
+	Query: "Phyllomedusa tomopterna" ; Times: 1
+	Query: "anolis oxylophus" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Geckolepis" ; Times: 2
+	Query: "Ceratophrys cornuta" ; Times: 2
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "acanthochelys" ; Times: 2
+	Query: "lycodon aulicus" ; Times: 1
+	Query: "cyrtopodion" ; Times: 2
+	Query: "gloydius" ; Times: 2
+	Query: "Podocnemis sextuberculata" ; Times: 1
+	Query: "macrovipera lebetina" ; Times: 2
+	Query: "genus:Gonocephalus country:&#34;Indonesia&#34;" ; Times: 2
+	Query: "Algyroides fitzingeri" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Bocas del Toro&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "aipysurus" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 1
+	Query: "acanthocercus phillipsii" ; Times: 4
+	Query: "liolaemus leopardinus" ; Times: 2
+	Query: "genus:Bronchocela country:&#34;Indonesia&#34;" ; Times: 2
+	Query: "Boiga multomaculata" ; Times: 2
+	Query: "oligodon annulifer" ; Times: 1
+	Query: "Batrachyla leptopus" ; Times: 1
+	Query: "kinixys belliana" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "elapotinus" ; Times: 1
+	Query: "atractaspis ghana" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 5
+	Query: "Sternotherus depressus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Megophrys nasuta" ; Times: 3
+	Query: "amphiglossus johannae" ; Times: 2
+	Query: "uperodon" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "order:Squamata country:&#34;India&#34;" ; Times: 2
+	Query: "genus:Leptobrachium specificepithet:hendricksoni" ; Times: 1
+	Query: "oligodon bitorquatus" ; Times: 1
+	Query: "ceratophrys" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 3
+	Query: "Ptychozoon kuhli" ; Times: 8
+	Query: "Scinax cruentommus" ; Times: 1
+	Query: "amphiglossus" ; Times: 1
+	Query: "specificepithet:pulcher genus:Phyllodactylus" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:moreletii" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Pseudemys concinna stateprovince:Alabama" ; Times: 1
+	Query: "teratoscincus pakistan" ; Times: 2
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "Hemidactylus triedrus" ; Times: 3
+	Query: "7373 F" ; Times: 1
+	Query: "elaphe situla" ; Times: 1
+	Query: "order:squamata country:&#34;portugal&#34;" ; Times: 1
+	Query: "proceratophrys" ; Times: 3
+	Query: "specificepithet:microcephalum genus:leposternon" ; Times: 2
+	Query: "vipera berus" ; Times: 1
+	Query: "uperodon systoma" ; Times: 3
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 2
+	Query: "Anguis" ; Times: 1
+	Query: "sacalia bealei" ; Times: 1
+	Query: "dipsas" ; Times: 1
+	Query: "Ichthyophis" ; Times: 2
+	Query: "specificepithet:mexicanum genus:ambystoma" ; Times: 2
+	Query: "agalychnis moreletii" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 977 download events in this period)
+Total number of records downloaded: 498
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 4
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-31 ; Times: 9
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "vntype:specimen specificepithet:versicolor genus:Calotes country:&#34;India&#34;" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Leptodactylus wagneri" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Leptodactylus pentadactylus" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "sacalia bealei" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "kinixys belliana" ; Times: 1
+	Query: "oxyrhopus" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Scinax cruentommus" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "dipsadoboa" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 2
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "Cosymbotus platyurus" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "specificepithet:cornuta genus:Ceratophrys" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+
+End of report.
