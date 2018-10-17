@@ -1,0 +1,272 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 295
+Number of records retrieved in searches: 2428
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 39
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 18
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Netherlands ; Times: 92
+	Country: United States ; Times: 59
+	Country: Sweden ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 19
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Austria ; Times: 7
+	Country: Antigua and Barbuda ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-05 ; Times: 42
+	Date: 2018-06-04 ; Times: 14
+	Date: 2018-06-03 ; Times: 9
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-24 ; Times: 11
+	Date: 2018-06-27 ; Times: 13
+	Date: 2018-06-26 ; Times: 11
+	Date: 2018-06-21 ; Times: 25
+	Date: 2018-06-20 ; Times: 6
+	Date: 2018-06-23 ; Times: 13
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-22 ; Times: 24
+	Date: 2018-06-10 ; Times: 3
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 6
+	Date: 2018-06-14 ; Times: 3
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-18 ; Times: 25
+	Date: 2018-06-19 ; Times: 33
+	Date: 2018-06-30 ; Times: 7
+	Date: 2018-06-29 ; Times: 8
+	Date: 2018-06-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 6
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 2
+	Query: "genus:Bolitoglossa specificepithet:platydactyla" ; Times: 1
+	Query: "genus:Triturus specificepithet:carnifex" ; Times: 1
+	Query: "Salamandra atra" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Greece&#34;" ; Times: 1
+	Query: "tropidodipsas sartorii" ; Times: 1
+	Query: "Andrias japonicus" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "genus:natriciteres country:&#34;ghana&#34;" ; Times: 5
+	Query: "genus:Osteocephalus specificepithet:leprieurii" ; Times: 2
+	Query: "Abronia aurita" ; Times: 1
+	Query: "caucasica" ; Times: 1
+	Query: "lacerta strigata" ; Times: 1
+	Query: "stateprovince:&#34;Adana&#34; country:&#34;Turkey&#34;" ; Times: 2
+	Query: "Leioheterodon" ; Times: 1
+	Query: "Leptodactylus rhodonotus" ; Times: 2
+	Query: "Dendroaspis jamesoni" ; Times: 2
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "institutioncode:SMNS" ; Times: 2
+	Query: "Megophrys institutioncode:SMNS" ; Times: 1
+	Query: "Chioglossa lusitanica" ; Times: 1
+	Query: "luperosaurus" ; Times: 1
+	Query: "lacerta agilis" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "proteus" ; Times: 3
+	Query: "micrurus frontalis" ; Times: 1
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "andrias davidianus" ; Times: 2
+	Query: "amphiglossus johannae" ; Times: 2
+	Query: "Chamaeleo dilepis" ; Times: 1
+	Query: "dasypeltis fasciata" ; Times: 5
+	Query: "afronatrix" ; Times: 1
+	Query: "genus:Thecadactylus" ; Times: 2
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "Trachemys dorbigni" ; Times: 17
+	Query: "order:squamata country:&#34;greece&#34;" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "platemys platycephala" ; Times: 1
+	Query: "Vipera" ; Times: 3
+	Query: "Salamandrina terdigitata" ; Times: 2
+	Query: "aparallactus jacksonii" ; Times: 11
+	Query: "smns" ; Times: 2
+	Query: "natriciteres variegata" ; Times: 1
+	Query: "timon pater" ; Times: 1
+	Query: "Rana institutioncode:SMNS" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Pipidae institutioncode:SMNS" ; Times: 1
+	Query: "garnotii indonesia" ; Times: 1
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+	Query: "Alytes obstetricans" ; Times: 1
+	Query: "Amphiglossus johannae" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Chiasmocleis ventrimaculata" ; Times: 2
+	Query: "Ptychozoon lionotum" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "cricosaura typica" ; Times: 1
+	Query: "genus:Lophognathus locality:New Guinea" ; Times: 1
+	Query: "Hydraethiops" ; Times: 1
+	Query: "ichthyophis" ; Times: 3
+	Query: "class:reptilia country:&#34;greece&#34;" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "reptilia smns" ; Times: 2
+	Query: "Euproctus platycephalus" ; Times: 1
+	Query: "Rhinoclemmys melanosterna" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "genus:grayia country:&#34;nigeria&#34;" ; Times: 3
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 2
+	Query: "Xenodon rabdocephalus" ; Times: 1
+	Query: "family:Agamidae locality:New Guinea" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 5
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 1
+	Query: "proteus anguinus" ; Times: 2
+	Query: "Megophryidae institutioncode:SMNS" ; Times: 1
+	Query: "genus:Rana specificepithet:dalmatina" ; Times: 1
+	Query: "Kinixys belliana belliana" ; Times: 1
+	Query: "abronia" ; Times: 2
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "pituophis deppei" ; Times: 5
+	Query: "Pleurodeles waltl" ; Times: 2
+	Query: "epicrates" ; Times: 1
+	Query: "genus:psammophylax country:&#34;namibia&#34;" ; Times: 4
+	Query: "situla" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 2
+	Query: "Kinosternon scorpioides" ; Times: 1
+	Query: "Euproctus montanus" ; Times: 2
+	Query: "aspidelaps" ; Times: 1
+	Query: "specificepithet:cataphractus genus:crocodylus" ; Times: 9
+	Query: "class:Reptilia institutioncode:SMNS" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "family:viperidae country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "genus:Triturus specificepithet:marmoratus" ; Times: 1
+	Query: "Megophrys nasuta" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "micrurus decoratus" ; Times: 1
+	Query: "meizodon coronatus" ; Times: 5
+	Query: "podarcis sicula" ; Times: 4
+	Query: "class:amphibia institutioncode:SMNS" ; Times: 1
+	Query: "SMNS" ; Times: 5
+	Query: "genus:Bronchocela locality:New Guinea" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Adana&#34; country:&#34;Turkey&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "micrurus altirostris" ; Times: 1
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 82
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 1169 download events in this period)
+Total number of records downloaded: 304
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 15
+	Country: Peru ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 9
+	Date: 2018-06-03 ; Times: 6
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 4
+	Date: 2018-06-18 ; Times: 13
+	Date: 2018-06-23 ; Times: 4
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 3
+	Query: "pituophis deppei" ; Times: 5
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "cricosaura typica" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "andrias davidianus" ; Times: 2
+	Query: "Andrias japonicus" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "Abronia aurita" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:leprieurii" ; Times: 1
+	Query: "genus:Odontophrynus specificepithet:americanus" ; Times: 3
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Trachemys dorbigni" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Litoria phyllochroa" ; Times: 2
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "proteus anguinus" ; Times: 1
+	Query: "varanus prasinus" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Salamandrina terdigitata" ; Times: 1
+	Query: "Kinosternon leucostomum" ; Times: 1
+	Query: "Salamandrella keyserlingii" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "valliceps" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Leptodactylus rhodonotus" ; Times: 3
+	Query: "situla" ; Times: 1
+	Query: "Aspidomorphus" ; Times: 1
+	Query: "pseudemys texana" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+
+
+End of report.
