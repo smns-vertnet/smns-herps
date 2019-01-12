@@ -1,0 +1,264 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 528
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Uzbekistan ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 5
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 11
+	Country: United Kingdom ; Times: 37
+	Country: Malaysia ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: China ; Times: 15
+	Country: Ireland ; Times: 2
+	Country: Belgium ; Times: 13
+	Country: Japan ; Times: 1
+	Country: Germany ; Times: 10
+	Country: United States ; Times: 70
+	Country: Spain ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-19 ; Times: 18
+	Date: 2018-12-18 ; Times: 3
+	Date: 2018-12-31 ; Times: 4
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-15 ; Times: 2
+	Date: 2018-12-14 ; Times: 4
+	Date: 2018-12-17 ; Times: 10
+	Date: 2018-12-16 ; Times: 4
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-13 ; Times: 11
+	Date: 2018-12-12 ; Times: 5
+	Date: 2018-12-20 ; Times: 8
+	Date: 2018-12-21 ; Times: 4
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 2
+	Date: 2018-12-25 ; Times: 4
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-09 ; Times: 29
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-04 ; Times: 30
+	Date: 2018-12-05 ; Times: 36
+	Date: 2018-12-02 ; Times: 3
+	Date: 2018-12-03 ; Times: 8
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Macrovipera schweizeri" ; Times: 2
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "gloydius blomhoffii" ; Times: 2
+	Query: "Sphaerodactylus guatemala" ; Times: 1
+	Query: "Trimeresurus kanburiensis" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "Trimeresurus sumatranus" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "typhlops muelleri" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 1
+	Query: "salamandrina" ; Times: 1
+	Query: "Phrynomedusa year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Micrurus corallinus mappable:1" ; Times: 1
+	Query: "Mastigodryas boddaerti mappable:1" ; Times: 1
+	Query: "Trimeresurus purpureomaculatus" ; Times: 3
+	Query: "Sphenomorphus indicus" ; Times: 1
+	Query: "Japalura swinhonis" ; Times: 2
+	Query: "Varanus bengalensis" ; Times: 1
+	Query: "genus:Andrias specificepithet:japonicus" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Abronia institutioncode:SMNS" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "Bothrops jararacussu mappable:1" ; Times: 2
+	Query: "genus:Arthroleptis specificepithet:wahlbergii" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "genus:Occidozyga specificepithet:lima" ; Times: 2
+	Query: "echis" ; Times: 1
+	Query: "Podarcis lilfordi" ; Times: 6
+	Query: "daboia" ; Times: 2
+	Query: "Bothrops itapetiningae" ; Times: 1
+	Query: "Proceratophrys boiei mappable:1" ; Times: 1
+	Query: "abronia" ; Times: 2
+	Query: "Calotes versicolor country:&#34;china&#34;" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "bothrops itapetiningae" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 1
+	Query: "amethistina" ; Times: 2
+	Query: "gloydius" ; Times: 1
+	Query: "bothrops lanceolatus" ; Times: 2
+	Query: "Abronia" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Lytorhynchus" ; Times: 1
+	Query: "panaspis" ; Times: 1
+	Query: "Leiolepis reevesii country:&#34;china&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:oxylophus genus:anolis" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 2
+	Query: "Podarcis pityusensis" ; Times: 2
+	Query: "ceratophrys" ; Times: 1
+	Query: "Leptodeira annulata mappable:1" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 2
+	Query: "Abronia deppii" ; Times: 1
+	Query: "Leiolepis reevesii" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Hypnale nepa" ; Times: 3
+	Query: "bothrops jararacussu mappable:1" ; Times: 1
+	Query: "Chironius carinatus mappable:1" ; Times: 1
+	Query: "polychrus gutturosus" ; Times: 1
+	Query: "naja naja india" ; Times: 1
+	Query: "boiga trigonata india" ; Times: 1
+	Query: "genus:Hyla specificepithet:sarda" ; Times: 2
+	Query: "Varanus giganteus" ; Times: 1
+	Query: "Phrynocephalus helioscopus" ; Times: 1
+	Query: "Scincella reevesii" ; Times: 1
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:lemur" ; Times: 1
+	Query: "geochelone carbonaria" ; Times: 2
+	Query: "Draco blanfordii" ; Times: 1
+	Query: "Clemmys muhlenbergii" ; Times: 3
+	Query: "Pseudocerastes fieldi" ; Times: 2
+	Query: "Japalura swinhonis country:&#34;taiwan&#34;" ; Times: 1
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "Gallotia galloti" ; Times: 23
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 2
+	Query: "Oxybelis aeneus mappable:1" ; Times: 1
+	Query: "boiga ceylonensis india" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "siebenrockiella crassicollis" ; Times: 1
+	Query: "tropidolaemus" ; Times: 3
+	Query: "Mastigodryas bifossatus mappable:1" ; Times: 1
+	Query: "Kaloula pulchra" ; Times: 5
+	Query: "echis carinatus india" ; Times: 1
+	Query: "ahaetulla perroteti india" ; Times: 1
+	Query: "cerrophidion" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 3
+	Query: "Eunectes murinus mappable:1" ; Times: 1
+	Query: "genus:Rana specificepithet:dalmatina" ; Times: 2
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "bitis caudalis" ; Times: 2
+	Query: "vipera latifii" ; Times: 2
+	Query: "Emys orbicularis" ; Times: 2
+	Query: "Bothrops lanceolatus" ; Times: 1
+	Query: "Sphenomorphus indicus country:&#34;china&#34;" ; Times: 1
+	Query: "Tantilla melanocephala mappable:1" ; Times: 1
+	Query: "tupinambis teguixin" ; Times: 1
+	Query: "Trimeresurus malabaricus" ; Times: 1
+	Query: "Hypsilurus godeffroyi" ; Times: 3
+	Query: "melanochelys trijuga" ; Times: 1
+	Query: "Sphenomorphus muelleri" ; Times: 1
+	Query: "causus rhombeatus" ; Times: 1
+	Query: "Ceratophrys institutioncode:SMNS" ; Times: 6
+	Query: "Gallotia atlantica" ; Times: 1
+	Query: "Bothrops neuwiedi mappable:1" ; Times: 1
+	Query: "tropidolaemus wagleri" ; Times: 2
+	Query: "genus:Boophis specificepithet:tephraeomystax" ; Times: 1
+	Query: "trachemys decorata" ; Times: 1
+	Query: "sphenomorphus muelleri" ; Times: 1
+	Query: "specificepithet:plumifrons genus:basiliscus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 2
+	Query: "Philodryas olfersii mappable:1" ; Times: 1
+	Query: "Lytorhynchus maynardi" ; Times: 2
+	Query: "Daboia" ; Times: 4
+	Query: "vipera palaestinae" ; Times: 1
+	Query: "ophiophagus" ; Times: 3
+	Query: "vipera berus" ; Times: 2
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "Conraua goliath" ; Times: 1
+	Query: "country:Ecuador scientificname:Scinax ruber " ; Times: 1
+	Query: "lytorhynchus maynardi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 809 download events in this period)
+Total number of records downloaded: 1378
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Taiwan ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-22 ; Times: 5
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 7
+	Date: 2018-12-04 ; Times: 6
+	Date: 2018-12-05 ; Times: 5
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-12 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "papua new guinea" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Sphenomorphus indicus country:&#34;china&#34;" ; Times: 1
+	Query: "helicops" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "Calotes versicolor country:&#34;china&#34;" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 3
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "amphibia vietnam" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Japalura swinhonis country:&#34;taiwan&#34;" ; Times: 1
+	Query: "genus:Colostethus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "order:Testudines" ; Times: 1
+	Query: "Leiolepis reevesii country:&#34;china&#34;" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "ophiophagus" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "vietnam" ; Times: 1
+
+
+End of report.
