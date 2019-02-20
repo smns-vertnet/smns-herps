@@ -1,0 +1,263 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 198
+Number of records retrieved in searches: 1179
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Ireland ; Times: 5
+	Country: France ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Saint Kitts and Nevis ; Times: 1
+	Country: Germany ; Times: 13
+	Country: Belgium ; Times: 38
+	Country: China ; Times: 3
+	Country: Netherlands ; Times: 2
+	Country: Turkey ; Times: 5
+	Country: United States ; Times: 74
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 14
+	Country: Bonaire ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-22 ; Times: 14
+	Date: 2019-01-23 ; Times: 5
+	Date: 2019-01-18 ; Times: 4
+	Date: 2019-01-14 ; Times: 14
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-30 ; Times: 8
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 11
+	Date: 2019-01-11 ; Times: 7
+	Date: 2019-01-13 ; Times: 16
+	Date: 2019-01-31 ; Times: 5
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 5
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-28 ; Times: 14
+	Date: 2019-01-07 ; Times: 10
+	Date: 2019-01-05 ; Times: 12
+	Date: 2019-01-04 ; Times: 8
+	Date: 2019-01-21 ; Times: 5
+	Date: 2019-01-20 ; Times: 7
+	Date: 2019-01-09 ; Times: 15
+	Date: 2019-01-08 ; Times: 10
+	Date: 2019-01-25 ; Times: 6
+	Date: 2019-01-27 ; Times: 3
+	Date: 2019-01-16 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "epipedobates huanuco" ; Times: 2
+	Query: "recordedby:forrer" ; Times: 1
+	Query: "specificepithet:superciliaris family:Bufonidae" ; Times: 2
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 2
+	Query: "rhamphiophis" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "genus:Macrochelys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ceratophrys cornuta" ; Times: 5
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "class:Reptilia country:&#34;Spain&#34;" ; Times: 1
+	Query: "Rosana" ; Times: 1
+	Query: "institutioncode:smns" ; Times: 1
+	Query: "Rafetus" ; Times: 6
+	Query: "(noblella myrmecoides)" ; Times: 2
+	Query: "Ceratophrys" ; Times: 4
+	Query: "Graptemys flavimaculata" ; Times: 2
+	Query: "clemmys guttata stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Pipa specificepithet:pipa" ; Times: 1
+	Query: "genus:Liopeltis" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 2
+	Query: "dasypeltis" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "pachitea" ; Times: 1
+	Query: "Abronia" ; Times: 2
+	Query: "liopeltis tricolor" ; Times: 4
+	Query: "Brachytarsophrys" ; Times: 1
+	Query: "Herpele squalostoma" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "Eryx jaculus" ; Times: 1
+	Query: "varanus caudolineatus" ; Times: 1
+	Query: "Ablepharus bivittatus" ; Times: 1
+	Query: "genus:ptychozoon country:&#34;thailand&#34;" ; Times: 1
+	Query: "occiduus" ; Times: 1
+	Query: "tarsius" ; Times: 1
+	Query: "abronia" ; Times: 2
+	Query: "Siphonops" ; Times: 2
+	Query: "specificepithet:jaculus genus:Eryx country:&#34;Egypt&#34;" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Suriname&#34;" ; Times: 1
+	Query: "Atractaspis irregularis" ; Times: 2
+	Query: "specificepithet:gabonica genus:Bitis" ; Times: 1
+	Query: "Varanus institutioncode:SMNS" ; Times: 3
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "genus:Gymnopis specificepithet:syntrema" ; Times: 1
+	Query: "amethistina" ; Times: 3
+	Query: "Hoplocercus spinosus" ; Times: 1
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "Bitis nasicornis" ; Times: 4
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "Ebenavia inunguis" ; Times: 1
+	Query: "ceratophrys" ; Times: 1
+	Query: "Gekko smithii" ; Times: 2
+	Query: "class:Reptilia county:&#34;Galveston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 5
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH) institutioncode:SMNS" ; Times: 1
+	Query: "platysaurus" ; Times: 1
+	Query: "Liopholidophis" ; Times: 1
+	Query: "ceratophrys ornata" ; Times: 5
+	Query: "mabuya frenata" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "genus:Salamandrella" ; Times: 2
+	Query: "Bungarus candidus" ; Times: 2
+	Query: "Ablepharus" ; Times: 2
+	Query: "liopeltis" ; Times: 2
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "genus:thecadactylus continent:North America" ; Times: 1
+	Query: "Anolis chamaeleonides" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis AND (NOT MEXICO)" ; Times: 1
+	Query: "macrovipera lebetina" ; Times: 1
+	Query: "yurimaguas" ; Times: 1
+	Query: "order:anura (myrmecoides)" ; Times: 1
+	Query: "lycodonomorphus" ; Times: 1
+	Query: "specificepithet:muralis genus:Podarcis" ; Times: 1
+	Query: "ceratophrys cornuta" ; Times: 3
+	Query: "Phelsuma dubia" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "emys" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "Deirochelys" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH)" ; Times: 2
+	Query: "heloderma horridum" ; Times: 1
+	Query: "boiga trigonata" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "sternotherus depressus" ; Times: 2
+	Query: "family:anguidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "specificepithet:syntrema genus:gymnopis" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "Ebenavia" ; Times: 2
+	Query: "boeleni" ; Times: 2
+	Query: "teratoscincus pakistan" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 3
+	Query: "rafetus euphraticus" ; Times: 1
+	Query: "epipedobates panguana" ; Times: 1
+	Query: "Atractaspis bibronii" ; Times: 2
+	Query: "Helodermatidae" ; Times: 1
+	Query: "Liophidium" ; Times: 1
+	Query: "varanus giganteus" ; Times: 3
+	Query: "Pseudemys rubriventris" ; Times: 1
+	Query: "Testudo graeca" ; Times: 4
+	Query: "Leioheterodon madagascariensis" ; Times: 2
+	Query: "Calloselasma" ; Times: 1
+	Query: "Sternotherus depressus" ; Times: 1
+	Query: "Macrochelys texas" ; Times: 2
+	Query: "ceratophrys aurita" ; Times: 2
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:SMNS" ; Times: 1
+	Query: "trapelus agilis" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 2
+	Query: "vntype:specimen specificepithet:naja genus:Naja basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "SMNS" ; Times: 2
+	Query: "Varanus caudolineatus" ; Times: 2
+	Query: "Tropiocolotes" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "specificepithet:cuvieri genus:Oplurus" ; Times: 1
+	Query: "specificepithet:guianensis genus:PHimophis AND (NOT MEXICO)" ; Times: 1
+	Query: "teratoscincus scincus pakistan" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 962 download events in this period)
+Total number of records downloaded: 369
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Israel ; Times: 1
+	Country: Iran ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Kenya ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-22 ; Times: 5
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 5
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-08 ; Times: 6
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "Gymnophiona" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "herpele squalostoma" ; Times: 1
+	Query: "vntype:specimen carettochelys" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "Varanus institutioncode:SMNS" ; Times: 1
+	Query: "yurimaguas" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "Leioheterodon madagascariensis" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+	Query: "Phelsuma dubia" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "vntype:specimen family:Carettochelyidae" ; Times: 1
+	Query: "Celestus" ; Times: 1
+	Query: "Hemiphractidae" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Ebenavia inunguis" ; Times: 1
+	Query: "Ablepharus" ; Times: 1
+	Query: "Tropiocolotes" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "specificepithet:bislineata genus:Eurycea" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "Herpele squalostoma" ; Times: 1
+	Query: "Carettochelys" ; Times: 1
+
+
+End of report.
