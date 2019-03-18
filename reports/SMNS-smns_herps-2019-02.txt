@@ -1,0 +1,307 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 298
+Number of records retrieved in searches: 804
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Turkey ; Times: 7
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 25
+	Country: Ireland ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 11
+	Country: Iran ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Belgium ; Times: 17
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Netherlands ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 75
+	Country: Morocco ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: Mexico ; Times: 38
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 69
+	Country: Colombia ; Times: 3
+	Country: Hungary ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 6
+	Date: 2019-02-23 ; Times: 8
+	Date: 2019-02-11 ; Times: 5
+	Date: 2019-02-10 ; Times: 14
+	Date: 2019-02-13 ; Times: 20
+	Date: 2019-02-12 ; Times: 18
+	Date: 2019-02-15 ; Times: 6
+	Date: 2019-02-14 ; Times: 21
+	Date: 2019-02-17 ; Times: 7
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-19 ; Times: 7
+	Date: 2019-02-18 ; Times: 11
+	Date: 2019-02-02 ; Times: 4
+	Date: 2019-02-03 ; Times: 3
+	Date: 2019-02-26 ; Times: 5
+	Date: 2019-02-01 ; Times: 58
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-07 ; Times: 12
+	Date: 2019-02-04 ; Times: 13
+	Date: 2019-02-05 ; Times: 16
+	Date: 2019-02-08 ; Times: 14
+	Date: 2019-02-09 ; Times: 2
+	Date: 2019-02-28 ; Times: 6
+	Date: 2019-02-24 ; Times: 10
+	Date: 2019-02-25 ; Times: 8
+	Date: 2019-02-27 ; Times: 5
+	Date: 2019-02-06 ; Times: 11
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudohaje" ; Times: 1
+	Query: "Liopeltis" ; Times: 2
+	Query: "genus:ptyodactylus" ; Times: 1
+	Query: "Xenochrophis mappable:1" ; Times: 1
+	Query: "Trapelus mutabilis" ; Times: 3
+	Query: "specificepithet:martii genus:Hydrops" ; Times: 1
+	Query: "pseudocordylus microlepidotus" ; Times: 1
+	Query: "Epicrates mappable:1" ; Times: 1
+	Query: "Eryx" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "genus:cerastes" ; Times: 1
+	Query: "sthenodactylus" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "U.D.S.S.R" ; Times: 1
+	Query: "rhinophrynidae" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "Ceratophrys country:&#34;Brazil&#34;" ; Times: 5
+	Query: "phyllomedusa bicolor" ; Times: 2
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Eunectes mappable:1" ; Times: 1
+	Query: "specificepithet:cerastes genus:cerastes" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 1
+	Query: "specificepithet:rhombeatus genus:causus country:&#34;tanzania&#34;" ; Times: 3
+	Query: "Atelopus peruensis" ; Times: 2
+	Query: "Brachyorrhos albus" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:Pristurus country:&#34;egypt&#34;" ; Times: 1
+	Query: "Opisthotropis mappable:1" ; Times: 1
+	Query: "rhinophrynus dorsalis" ; Times: 3
+	Query: "Macropisthodon mappable:1" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Stenodactylus petrii" ; Times: 2
+	Query: "calumma" ; Times: 1
+	Query: "pseudobufo subasper" ; Times: 2
+	Query: "Eirenis coronella" ; Times: 3
+	Query: "Corallus mappable:1" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "Abronia" ; Times: 3
+	Query: "macrovipera" ; Times: 1
+	Query: "Ptyodactylus hasselquistii" ; Times: 4
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "genus:causus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Sphenops sepsoides" ; Times: 1
+	Query: "bolitoglossa mulleri" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 2
+	Query: "naja haje" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "specificepithet:taeniura family:Colubridae" ; Times: 1
+	Query: "Tadschikistan" ; Times: 2
+	Query: "Cerastes cerastes country:&#34;Egypt&#34;" ; Times: 3
+	Query: "Hyla meridionalis" ; Times: 2
+	Query: "Mesalina olivieri" ; Times: 1
+	Query: "specificepithet:atropos genus:bitis" ; Times: 4
+	Query: "podocnemis vogli" ; Times: 2
+	Query: "Pseudocordylus" ; Times: 2
+	Query: "specificepithet:caudalis genus:bitis" ; Times: 1
+	Query: "emys orbicularis" ; Times: 2
+	Query: "Cerastes vipera" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:sauvagii" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "siphonops" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "U.D.S.S.R." ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "scincopus" ; Times: 2
+	Query: "amethistina" ; Times: 1
+	Query: "Ptyodactylus guttatus" ; Times: 5
+	Query: "UDSSR" ; Times: 2
+	Query: "Natrix maura" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Psammophis schokari" ; Times: 4
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "Varanus griseus" ; Times: 6
+	Query: "Pseudotrapelus sinaitus" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "UdSSR" ; Times: 1
+	Query: "Cerastes country:&#34;Egypt&#34;" ; Times: 3
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 1
+	Query: "specificepithet:scincus genus:Scincus" ; Times: 2
+	Query: "barisia" ; Times: 1
+	Query: "Dendrobates tinctorius" ; Times: 3
+	Query: "specificepithet:rufozonatum family:Colubridae" ; Times: 1
+	Query: "genus:haemodracon" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 3
+	Query: "genus:Megophrys specificepithet:nasuta" ; Times: 1
+	Query: "specificepithet:aegyptia genus:Uromastyx" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "Aspidura mappable:1" ; Times: 1
+	Query: "genus:Phrynomantis specificepithet:bifasciatus" ; Times: 1
+	Query: "genus:Mantella specificepithet:cowanii" ; Times: 1
+	Query: "Ptyodactylus hasselquistii country:&#34;egypt&#34;" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "order:Squamata stateprovince:&#34;Santa Catarina&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 3
+	Query: "genus:Mabuya country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "rubropunctata" ; Times: 1
+	Query: "vipera ursinii" ; Times: 2
+	Query: "Russland" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "Vipera palaestinae" ; Times: 7
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Pseudocordylus microlepidotus microlepidotus" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "stenodactylus sthenodactylus" ; Times: 1
+	Query: "Megophrys nasuta" ; Times: 2
+	Query: "anolis chamaeleonides" ; Times: 2
+	Query: "Afronatrix mappable:1" ; Times: 1
+	Query: "ceratophrys aurita" ; Times: 1
+	Query: "Chamaeleo africanus" ; Times: 3
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA) NOT (United States)" ; Times: 1
+	Query: "genus:Acanthophis stateprovince:&#34;New South Wales&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oplurus cuvieri" ; Times: 2
+	Query: "specificepithet:nasicornis genus:bitis country:&#34;cameroon&#34;" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Trachemys dorbigni mappable:1" ; Times: 1
+	Query: "specificepithet:cerastes genus:cerastes country:&#34;Egypt&#34;" ; Times: 1
+	Query: "country:(Tajikistan)" ; Times: 1
+	Query: "Wynad" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Spalerosophis diadema" ; Times: 2
+	Query: "genus:Spilotes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 2
+	Query: "trogonophis" ; Times: 1
+	Query: "genus:Asaccus" ; Times: 1
+	Query: "varanus griseus" ; Times: 1
+	Query: "Hemisus guttatus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "genus:rhinophrynus" ; Times: 1
+	Query: "Calamaria borneensis" ; Times: 1
+	Query: "bitis caudalis" ; Times: 2
+	Query: "specificepithet:aestivus genus:philodryas" ; Times: 1
+	Query: "specificepithet:chamaeleon genus:Chamaeleo" ; Times: 4
+	Query: "Varanus rudicollis" ; Times: 2
+	Query: "Echis mappable:1" ; Times: 1
+	Query: "Tropiocolotes steudneri" ; Times: 5
+	Query: "morelia amethistina" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 32
+	Query: "GEochelone carbonaria" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "mimophis" ; Times: 1
+	Query: "specificepithet:diadema genus:Spalerosophis country:&#34;Egypt&#34;" ; Times: 1
+	Query: "Eryx mappable:1" ; Times: 1
+	Query: "varanus giganteus" ; Times: 1
+	Query: "furcifer pardalis" ; Times: 4
+	Query: "specificepithet:narducci genus:Micrurus" ; Times: 1
+	Query: "ursinii" ; Times: 1
+	Query: "Macrochelys texas" ; Times: 4
+	Query: "Chamaeleon" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Brachytarsophrys" ; Times: 1
+	Query: "Testudo kleinmanni" ; Times: 2
+	Query: "ceratophrys ar" ; Times: 1
+	Query: "genus:Ichthyophis specificepithet:glutinosus" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen" ; Times: 1
+	Query: "Daboia" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 1
+	Query: "tarentola mauritanica" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Calabaria mappable:1" ; Times: 1
+	Query: "eirenis" ; Times: 1
+	Query: "specificepithet:deppii genus:abronia" ; Times: 2
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "specificepithet:zebrata genus:Corucia" ; Times: 2
+	Query: "bitis nasicornis" ; Times: 6
+	Query: "Spalerosophis" ; Times: 1
+	Query: "vntype:specimen specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "genus:Scaphiodontophis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1227 download events in this period)
+Total number of records downloaded: 243
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-11 ; Times: 9
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-17 ; Times: 5
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 5
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "phelsuma" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 7
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "abronia" ; Times: 1
+	Query: "Hypnale hypnale" ; Times: 1
+	Query: "Mesalina olivieri" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "podocnemis vogli" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "siphonops" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "genus:Chironius" ; Times: 1
+	Query: "ursinii" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Brachyorrhos albus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "bolitoglossa mulleri" ; Times: 2
+	Query: "deirochelys" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+
+
+End of report.
