@@ -1,0 +1,624 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 553
+Number of records retrieved in searches: 2071
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 30
+	Country: Israel ; Times: 1
+	Country: Slovenia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Belgium ; Times: 19
+	Country: Spain ; Times: 6
+	Country: Oman ; Times: 1
+	Country: Poland ; Times: 1
+	Country: United States ; Times: 46
+	Country: Sweden ; Times: 1
+	Country: Latvia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 396
+	Country: Vietnam ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 4
+	Date: 2019-03-27 ; Times: 7
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 13
+	Date: 2019-03-24 ; Times: 7
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 14
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 12
+	Date: 2019-03-04 ; Times: 6
+	Date: 2019-03-07 ; Times: 6
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-29 ; Times: 33
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-15 ; Times: 251
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 3
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-18 ; Times: 6
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-16 ; Times: 9
+	Date: 2019-03-17 ; Times: 9
+	Date: 2019-03-14 ; Times: 123
+	Date: 2019-03-28 ; Times: 19
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-10 ; Times: 5
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis lineaticollis" ; Times: 1
+	Query: "Oligodon arnensis" ; Times: 1
+	Query: "Sibon anthracops" ; Times: 1
+	Query: "Clelia clelia" ; Times: 1
+	Query: "Madagascarophis colubrinus" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "Acanthophis antarcticus" ; Times: 1
+	Query: "Cacophis krefftii" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "Leptodactylus pentadactylus mappable:1" ; Times: 1
+	Query: "Dendrelaphis caudolineatus" ; Times: 1
+	Query: "Macropisthodon flaviceps" ; Times: 1
+	Query: "Morelia viridis" ; Times: 1
+	Query: "Uromacer frenatus" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Micrurus collaris" ; Times: 1
+	Query: "Calamaria melanota" ; Times: 1
+	Query: "Boiga cynodon" ; Times: 1
+	Query: "specificepithet:femoralis institutioncode:SMNS" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:salvinii" ; Times: 1
+	Query: "Gloydius himalayanus" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Xenodon neuwiedii" ; Times: 1
+	Query: "Liopeltis tricolor" ; Times: 1
+	Query: "Siphonops annulatus mappable:1" ; Times: 2
+	Query: "Dendroaspis jamesoni" ; Times: 1
+	Query: "Philothamnus hoplogaster" ; Times: 1
+	Query: "Hemachatus haemachatus" ; Times: 1
+	Query: "Aparallactus jacksonii" ; Times: 1
+	Query: "Pareas margaritophorus" ; Times: 1
+	Query: "Elaphe quadrivirgata" ; Times: 1
+	Query: "Sibynomorphus ventrimaculatus" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "Bothrops itapetiningae" ; Times: 1
+	Query: "Asthenodipsas laevis" ; Times: 1
+	Query: "Eryx jaculus" ; Times: 1
+	Query: "specificepithet:namaquensis genus:Chamaeleo" ; Times: 1
+	Query: "Cerrophidion mappable:1" ; Times: 1
+	Query: "Boiga ceylonensis" ; Times: 1
+	Query: "Dipsas bicolor" ; Times: 1
+	Query: "Lycodon laoensis" ; Times: 1
+	Query: "Phrynops gibbus" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "Gloydius blomhoffii" ; Times: 1
+	Query: "Chironius scurrulus" ; Times: 1
+	Query: "Chrysopelea ornata" ; Times: 1
+	Query: "Corallus cookii" ; Times: 1
+	Query: "Amphibia ventrimaculatus" ; Times: 1
+	Query: "Tropidolaemus wagleri" ; Times: 1
+	Query: "Xenodon merremi" ; Times: 1
+	Query: "Pseudohaje goldii" ; Times: 1
+	Query: "Trachycephalus resinifictrix mappable:1" ; Times: 1
+	Query: "Thelotornis kirtlandii" ; Times: 1
+	Query: "Oligodon sublineatus" ; Times: 1
+	Query: "Xenochrophis cerasogaster" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "specificepithet:cerastes genus:cerastes country:&#34;egypt&#34;" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Hapsidophrys lineatus" ; Times: 1
+	Query: "Leptotyphlops scutifrons" ; Times: 1
+	Query: "Balanophis ceylonensis" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Lycophidion capense" ; Times: 1
+	Query: "Aspidelaps lubricus" ; Times: 1
+	Query: "Atractus badius" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Hypnale hypnale" ; Times: 1
+	Query: "Telescopus semiannulatus" ; Times: 1
+	Query: "Boiga forsteni" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "Macropisthodon rhodomelas" ; Times: 1
+	Query: "Naja sputatrix" ; Times: 1
+	Query: "Liotyphlops albirostris" ; Times: 1
+	Query: "Buhoma depressiceps" ; Times: 1
+	Query: "Elapognathus minor" ; Times: 1
+	Query: "ahaetulla nasuta thailand" ; Times: 1
+	Query: "Tropidodryas serra" ; Times: 1
+	Query: "Rhabdophis chrysargos" ; Times: 1
+	Query: "Dipsas oreas" ; Times: 1
+	Query: "Calabaria reinhardtii" ; Times: 1
+	Query: "Stegonotus modestus" ; Times: 1
+	Query: "Tropidophis maculatus" ; Times: 1
+	Query: "Denisonia maculata" ; Times: 1
+	Query: "Cyclophiops major" ; Times: 1
+	Query: "Oxyrhopus melanogenys" ; Times: 1
+	Query: "Atretium schistosum" ; Times: 1
+	Query: "abronia aurita" ; Times: 2
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "Drymobius chloroticus" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Calamaria borneensis" ; Times: 1
+	Query: "Melanophidium wynaudense" ; Times: 1
+	Query: "Tantilla reticulata" ; Times: 3
+	Query: "ophiodes" ; Times: 3
+	Query: "Helicops carinicaudus" ; Times: 1
+	Query: "Leptodactylus labrosus mappable:1" ; Times: 1
+	Query: "Coniophanes dromiciformis" ; Times: 1
+	Query: "Thrasops flavigularis" ; Times: 1
+	Query: "Micrurus dumerilii" ; Times: 1
+	Query: "Psammophylax tritaeniatus" ; Times: 1
+	Query: "Leptotyphlops nigricans" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Calamaria linnaei" ; Times: 1
+	Query: "Elaphe schrenckii" ; Times: 1
+	Query: "Psammophis elegans" ; Times: 1
+	Query: "Uropeltis melanogaster" ; Times: 1
+	Query: "Porthidium mappable:1" ; Times: 1
+	Query: "Oxyuranus scutellatus" ; Times: 1
+	Query: "Afronatrix anoscopus" ; Times: 1
+	Query: "Phimophis guianensis" ; Times: 1
+	Query: "Tropidolaemus mappable:1" ; Times: 1
+	Query: "Uropeltis ellioti" ; Times: 1
+	Query: "Sibynophis geminatus" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "Dendrelaphis burma" ; Times: 1
+	Query: "Macrovipera schweizeri" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Dendrelaphis pictus" ; Times: 1
+	Query: "Uropeltis ceylanicus" ; Times: 1
+	Query: "Psammophis biseriatus" ; Times: 1
+	Query: "Coniophanes bipunctatus" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Gloydius mappable:1" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "dendrelaphis caudolineatus thailand" ; Times: 1
+	Query: "Oligodon bitorquatus" ; Times: 1
+	Query: "specificepithet:badius genus:Atractus" ; Times: 1
+	Query: "genus:Abronia" ; Times: 1
+	Query: "genus:Chioglossa" ; Times: 1
+	Query: "Pseudaspis cana" ; Times: 1
+	Query: "Liophidium torquatum" ; Times: 1
+	Query: "Drysdalia mastersii" ; Times: 1
+	Query: "genus:Salamandrina" ; Times: 1
+	Query: "Brachyorrhos albus" ; Times: 1
+	Query: "Ahaetulla perroteti" ; Times: 1
+	Query: "Tachymenis peruviana" ; Times: 1
+	Query: "Duberria lutrix" ; Times: 1
+	Query: "Oligodon brevicauda" ; Times: 1
+	Query: "Physalaemus nattereri mappable:1" ; Times: 1
+	Query: "Mastigodryas boddaerti" ; Times: 1
+	Query: "Xenochrophis maculatus" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "Bitis caudalis" ; Times: 1
+	Query: "Agalychnis callidryas mappable:1" ; Times: 1
+	Query: "Lytorhynchus diadema" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "Bungarus flaviceps" ; Times: 1
+	Query: "Boiga dendrophila" ; Times: 2
+	Query: "Dipsas albifrons" ; Times: 1
+	Query: "gloydius" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 2
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Chalcides bedriagai" ; Times: 4
+	Query: "specificepithet:albirostris genus:Liotyphlops" ; Times: 1
+	Query: "Gloydius intermedius" ; Times: 1
+	Query: "Phrynobatrachus plicatus mappable:1" ; Times: 1
+	Query: "Dipsas catesbyi" ; Times: 1
+	Query: "vntype:specimen genus:Erythrolamprus" ; Times: 1
+	Query: "Macrelaps microlepidotus" ; Times: 1
+	Query: "Elapsoidea nigra" ; Times: 1
+	Query: "Drysdalia coronoides" ; Times: 1
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "Xylophis perroteti" ; Times: 1
+	Query: "Leptodactylus chaquensis mappable:1" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 3
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "Oxyrhopus rhombifer" ; Times: 1
+	Query: "Lygosoma punctata" ; Times: 1
+	Query: "Sibynomorphus vagus" ; Times: 1
+	Query: "Calamaria modesta" ; Times: 1
+	Query: "Dipsas incerta" ; Times: 1
+	Query: "abronia deppii" ; Times: 1
+	Query: "Lytorhynchus maynardi" ; Times: 1
+	Query: "Tropidodipsas sartorii" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Aparallactus capensis" ; Times: 1
+	Query: "Philothamnus heterodermus" ; Times: 1
+	Query: "Atractaspis irregularis" ; Times: 1
+	Query: "Chironius flavopictus" ; Times: 2
+	Query: "podarcis sicula" ; Times: 1
+	Query: "Vipera ammodytes" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "sibynomorphus turgidus" ; Times: 8
+	Query: "Elapoidis fusca" ; Times: 1
+	Query: "Geophis bicolor" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 1
+	Query: "Psammophis crucifer" ; Times: 1
+	Query: "Boiga trigonata" ; Times: 1
+	Query: "Psammodynastes pictus" ; Times: 1
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "Causus rhombeatus" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "Cophotis ceylanica" ; Times: 1
+	Query: "Gekko monarchus" ; Times: 1
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "Psammophis angolensis" ; Times: 1
+	Query: "Psammophis notostictus" ; Times: 1
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "Naja nivea" ; Times: 1
+	Query: "Litoria ewingii mappable:1" ; Times: 1
+	Query: "Simoselaps bimaculatus" ; Times: 1
+	Query: "Atheris squamigera" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Austrelaps superbus" ; Times: 1
+	Query: "Chironius carinatus" ; Times: 1
+	Query: "Ramphotyphlops lineatus" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Hydrops martii" ; Times: 1
+	Query: "Spalerosophis arenarius" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Dendrelaphis thailand" ; Times: 1
+	Query: "Atractus crassicaudatus" ; Times: 1
+	Query: "Rhinotyphlops lalandei" ; Times: 1
+	Query: "pleurodeles waltl" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "Lycodon subcinctus" ; Times: 1
+	Query: "Sibynophis collaris" ; Times: 1
+	Query: "Homalopsis buccata" ; Times: 1
+	Query: "Bothrophthalmus lineatus" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "Hydraethiops melanogaster" ; Times: 1
+	Query: "Odontophrynus americanus mappable:1" ; Times: 1
+	Query: "Hapsidophrys smaragdina" ; Times: 1
+	Query: "Calamaria bicolor" ; Times: 1
+	Query: "Daboia russelii" ; Times: 1
+	Query: "ophiodes striatus" ; Times: 4
+	Query: "Ctenophryne geayi mappable:1" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "Lycodon striatus" ; Times: 1
+	Query: "Xenochrophis trianguligerus" ; Times: 1
+	Query: "Scincopus fasciatus" ; Times: 2
+	Query: "genus:Ophiophagus" ; Times: 2
+	Query: "Polemon neuwiedi" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "SMNS" ; Times: 1
+	Query: "Pseudoboa coronata" ; Times: 1
+	Query: "Dipsadoboa werneri" ; Times: 1
+	Query: "Rana temporaria mappable:1" ; Times: 1
+	Query: "genus:Dendrophidion country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Micrurus annellatus" ; Times: 1
+	Query: "Micrelaps vaillanti" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Trimeresurus gramineus" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 3
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "genus:Erythrolamprus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "Telescopus variegatus" ; Times: 1
+	Query: "cuora galbinifrons" ; Times: 5
+	Query: "Cylindrophis ruffus" ; Times: 1
+	Query: "Limnophis bicolor" ; Times: 1
+	Query: "macropisthodon rhodomelas" ; Times: 1
+	Query: "Rhamphiophis oxyrhynchus" ; Times: 1
+	Query: "Psammodynastes pulverulentus" ; Times: 1
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "Aspidelaps scutatus" ; Times: 1
+	Query: "Lycodonomorphus rufulus" ; Times: 1
+	Query: "genus:Rana specificepithet:arvalis" ; Times: 2
+	Query: "Polemon barthii" ; Times: 1
+	Query: "Eunectes notaeus" ; Times: 1
+	Query: "Rhynchocalamus melanocephalus" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Dendrelaphis punctulatus" ; Times: 1
+	Query: "Bungarus multicinctus" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Rhinotyphlops schinzi" ; Times: 1
+	Query: "Gonyosoma oxycephalum" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "Aglyptodactylus madagascariensis mappable:1" ; Times: 1
+	Query: "f. sarg" ; Times: 1
+	Query: "specificepithet:boulengeri institutioncode:SMNS" ; Times: 1
+	Query: "Acrantophis madagascariensis" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 1
+	Query: "Hyperolius concolor mappable:1" ; Times: 1
+	Query: "Psammophis condanarus" ; Times: 1
+	Query: "Tomodon ocellatus" ; Times: 1
+	Query: "Polemon acanthias" ; Times: 1
+	Query: "Amphiesma stolatum" ; Times: 1
+	Query: "Aspidura trachyprocta" ; Times: 1
+	Query: "Psammophis punctulatus" ; Times: 1
+	Query: "Eirenis collaris" ; Times: 1
+	Query: "Micrurus frontalis" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "Thamnodynastes pallidus" ; Times: 1
+	Query: "amethistina" ; Times: 11
+	Query: "clemmys guttata stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Spalerosophis dolichospilus" ; Times: 1
+	Query: "Micrurus altirostris" ; Times: 1
+	Query: "Macropisthodon plumbicolor" ; Times: 1
+	Query: "Hoplodactylus duvaucelii" ; Times: 5
+	Query: "Boiga dendrophila Thailand" ; Times: 1
+	Query: "Hypsirhynchus ferox" ; Times: 1
+	Query: "Chironius bicarinatus" ; Times: 1
+	Query: "Triturus cristatus mappable:1" ; Times: 1
+	Query: "Naja haje" ; Times: 1
+	Query: "Hypnale nepa" ; Times: 1
+	Query: "Dipsadoboa flavida" ; Times: 1
+	Query: "Eryx tataricus" ; Times: 1
+	Query: "Pseudacris ornata mappable:1" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "Oligodon taeniatus" ; Times: 1
+	Query: "Natriciteres fuliginoides" ; Times: 1
+	Query: "Varanus giganteus" ; Times: 7
+	Query: "Rana arvalis mappable:1" ; Times: 1
+	Query: "Pareas monticola" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "Stenorrhina degenhardtii" ; Times: 1
+	Query: "Ogmodon vitianus" ; Times: 1
+	Query: "sarg" ; Times: 2
+	Query: "dendrelaphis thailand" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 1
+	Query: "Elapomorphus quinquelineatus" ; Times: 1
+	Query: "Ptyas dhumnades" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "Dasypeltis medici" ; Times: 1
+	Query: "Oxybelis brevirostris" ; Times: 1
+	Query: "Gallotia galloti" ; Times: 3
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Boiga cyanea" ; Times: 1
+	Query: "pseudocerastes" ; Times: 1
+	Query: "Atractus torquatus" ; Times: 1
+	Query: "Helminthophis flavoterminatus" ; Times: 1
+	Query: "Physalaemus biligonigerus mappable:1" ; Times: 1
+	Query: "Pseudoxenodon macrops" ; Times: 1
+	Query: "Spalerosophis diadema" ; Times: 1
+	Query: "Dipsas indica" ; Times: 1
+	Query: "Lycophidion meleagris" ; Times: 1
+	Query: "Aparallactus modestus" ; Times: 1
+	Query: "Vipera berus" ; Times: 3
+	Query: "Python regius" ; Times: 1
+	Query: "Leptodactylus rhodomystax mappable:1" ; Times: 1
+	Query: "Mastigodryas bifossatus" ; Times: 1
+	Query: "Scinax fuscovarius mappable:1" ; Times: 1
+	Query: "Philothamnus semivariegatus" ; Times: 1
+	Query: "Leptodactylus bolivianus mappable:1" ; Times: 1
+	Query: "Micrurus spixii" ; Times: 1
+	Query: "Calamaria lumbricoidea" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "Pseudoxenodon inornatus" ; Times: 1
+	Query: "Hemidactylus fasciatus" ; Times: 2
+	Query: "Lithodytes lineatus mappable:1" ; Times: 1
+	Query: "Lycophidion irroratum" ; Times: 1
+	Query: "Uropeltis smithi" ; Times: 1
+	Query: "Enhydris jagorii" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "Dendrelaphis formosus" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "Sibynomorphus mikanii" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 2
+	Query: "Lycodon aulicus" ; Times: 1
+	Query: "Trimeresurus erythrurus" ; Times: 1
+	Query: "vntype:specimen genus:Epipedobates institutioncode:SMNS" ; Times: 2
+	Query: "Trimeresurus kanburiensis" ; Times: 1
+	Query: "Ahaetulla pulverulenta" ; Times: 1
+	Query: "Ichnotropis" ; Times: 1
+	Query: "Demansia olivacea" ; Times: 1
+	Query: "Prosymna meleagris" ; Times: 1
+	Query: "Crinia parinsignifera mappable:1" ; Times: 1
+	Query: "Trimeresurus sumatranus" ; Times: 1
+	Query: "Eryx miliaris" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "Philodryas olfersii" ; Times: 1
+	Query: "Bitis gabonica" ; Times: 1
+	Query: "Dipsas gracilis" ; Times: 1
+	Query: "Calloselasma rhodostoma" ; Times: 1
+	Query: "Trimeresurus purpureomaculatus" ; Times: 1
+	Query: "Natriciteres variegata" ; Times: 1
+	Query: "Xenodon severus" ; Times: 1
+	Query: "Leioheterodon madagascariensis" ; Times: 1
+	Query: "sapper" ; Times: 1
+	Query: "Ptyodactylus guttatus" ; Times: 1
+	Query: "Lycophidion semicinctum" ; Times: 1
+	Query: "Eirenis coronella" ; Times: 1
+	Query: "Calamaria bitorques" ; Times: 1
+	Query: "Eirenis modestus" ; Times: 1
+	Query: "Calliophis intestinalis" ; Times: 1
+	Query: "Alsophis antillensis" ; Times: 1
+	Query: "Pseudocordylus microlepidotus microlepidotus" ; Times: 1
+	Query: "Boophis goudotii mappable:1" ; Times: 1
+	Query: "Pareas carinatus" ; Times: 1
+	Query: "Trimeresurus puniceus" ; Times: 1
+	Query: "Chelus" ; Times: 2
+	Query: "Trimeresurus malabaricus" ; Times: 1
+	Query: "Adenomera andreae mappable:1" ; Times: 2
+	Query: "Plectrurus perroteti" ; Times: 1
+	Query: "Xenodon mappable:1" ; Times: 1
+	Query: "Tropidophis melanurus" ; Times: 1
+	Query: "Gloydius halys" ; Times: 1
+	Query: "Corallus annulatus" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Elapotinus picteti" ; Times: 1
+	Query: "Dendroaspis angusticeps" ; Times: 1
+	Query: "Oligodon octolineatus" ; Times: 1
+	Query: "Hormonotus modestus" ; Times: 1
+	Query: "Gonyosoma" ; Times: 1
+	Query: "Liopholidophis sexlineatus" ; Times: 1
+	Query: "bassleri" ; Times: 1
+	Query: "Gongylosoma baliodeirus" ; Times: 1
+	Query: "Rhabdophis subminiatus" ; Times: 1
+	Query: "Psammophis schokari" ; Times: 1
+	Query: "Natriciteres olivacea" ; Times: 1
+	Query: "Calamaria leucogaster" ; Times: 1
+	Query: "Xenelaphis hexagonotus" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "Psammophis subtaeniatus" ; Times: 1
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "genus:Chamaesaura" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Lytorhynchus paradoxus" ; Times: 1
+	Query: "Tantilla semicincta" ; Times: 1
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+	Query: "Philothamnus irregularis" ; Times: 1
+	Query: "Dasypeltis fasciata" ; Times: 1
+	Query: "Macrovipera lebetina" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "Oligodon annulifer" ; Times: 1
+	Query: "Pseudoeryx plicatilis" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Xenochrophis flavipunctatus" ; Times: 1
+	Query: "Leptodactylus mystaceus mappable:1" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Pseudocerastes fieldi" ; Times: 1
+	Query: "Philodryas chamissonis" ; Times: 1
+	Query: "Naja kaouthia" ; Times: 1
+	Query: "dendrelaphis caudolineatus" ; Times: 1
+	Query: "Dasypeltis scabra" ; Times: 1
+	Query: "Pelobates fuscus mappable:1" ; Times: 1
+	Query: "Candoia aspera" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "Coniophanes imperialis" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Typhlops lumbricalis" ; Times: 1
+	Query: "abronia" ; Times: 2
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "Cyclocorus lineatus" ; Times: 1
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "Philothamnus battersbyi" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 2
+	Query: "Bothrops lanceolatus" ; Times: 1
+	Query: "Erpeton tentaculatum" ; Times: 1
+	Query: "Amietia angolensis mappable:1" ; Times: 1
+	Query: "Corallus caninus" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "Oxyrhabdium modestum" ; Times: 1
+	Query: "Chrysopelea rhodopleuron" ; Times: 1
+	Query: "Atractaspis bibronii" ; Times: 1
+	Query: "Mastigodryas pleei" ; Times: 1
+	Query: "Fordonia leucobalia" ; Times: 1
+	Query: "Meizodon coronatus" ; Times: 1
+	Query: "Dromicodryas quadrilineatus" ; Times: 1
+	Query: "Adelotus brevis mappable:1" ; Times: 1
+	Query: "Bolitoglossa platydactyla mappable:1" ; Times: 1
+	Query: "Rhamphiophis rubropunctatus" ; Times: 1
+	Query: "Bungarus fasciatus" ; Times: 1
+	Query: "Eirenis rothii" ; Times: 1
+	Query: "Oligodon purpurascens" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 3
+	Query: "Cerastes vipera" ; Times: 3
+	Query: "genus:Phyllomedusa specificepithet:vaillantii" ; Times: 2
+	Query: "Ptyas korros" ; Times: 1
+	Query: "Pararhadinaea melanogaster" ; Times: 1
+	Query: "Ophiodes" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Boiga drapiezii" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1281 download events in this period)
+Total number of records downloaded: 97
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 24
+	Country: Vietnam ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 4
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-28 ; Times: 3
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 2
+	Date: 2019-03-08 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "candoia aspera" ; Times: 1
+	Query: "Teius teyou" ; Times: 1
+	Query: "porthidium" ; Times: 1
+	Query: "specificepithet:marmorata family:emydidae" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Ichnotropis" ; Times: 2
+	Query: "jaculus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "drymobius chloroticus" ; Times: 1
+	Query: "sibynomorphus turgidus" ; Times: 2
+	Query: "specificepithet:coronatum genus:Phrynosoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "cuora galbinifrons" ; Times: 1
+	Query: "elapidae Mexico" ; Times: 1
+	Query: "lycophidion" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:Chioglossa" ; Times: 1
+	Query: "Hemidactylus bowringii" ; Times: 1
+	Query: "vntype:specimen genus:Erythrolamprus" ; Times: 1
+	Query: "ophiodes striatus" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "Cophotis ceylanica" ; Times: 1
+	Query: "Teius" ; Times: 2
+	Query: "specificepithet:suspectum genus:heloderma stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Ophiophagus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "vntype:specimen genus:Dendrophidion" ; Times: 1
+	Query: "Pedioplanis" ; Times: 1
+
+
+End of report.
