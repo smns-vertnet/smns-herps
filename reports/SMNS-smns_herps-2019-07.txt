@@ -1,0 +1,267 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 1812
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Italy ; Times: 3
+	Country: Unknown ; Times: 19
+	Country: Panama ; Times: 1
+	Country: France ; Times: 15
+	Country: Netherlands ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Iran ; Times: 2
+	Country: Singapore ; Times: 6
+	Country: Hong Kong ; Times: 4
+	Country: Georgia ; Times: 1
+	Country: Libya ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 81
+	Country: Sweden ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Mexico ; Times: 8
+	Country: Colombia ; Times: 8
+	Country: Macao ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 20
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-08 ; Times: 43
+	Date: 2019-07-12 ; Times: 8
+	Date: 2019-07-13 ; Times: 9
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 8
+	Date: 2019-07-16 ; Times: 7
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-14 ; Times: 7
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-29 ; Times: 6
+	Date: 2019-07-23 ; Times: 4
+	Date: 2019-07-22 ; Times: 12
+	Date: 2019-07-02 ; Times: 5
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 6
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-01 ; Times: 4
+	Date: 2019-07-30 ; Times: 6
+	Date: 2019-07-03 ; Times: 5
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 12
+	Date: 2019-07-04 ; Times: 6
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Xenopus specificepithet:muelleri" ; Times: 1
+	Query: "Hyla minuta mappable:1" ; Times: 2
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 1
+	Query: "gbifdatasetid:9cd0014c-b7b1-4ed1-bef7-0225acfa4ef2" ; Times: 9
+	Query: "specificepithet:superciliaris family:Bufonidae" ; Times: 2
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "genus:Abronia specificepithet:deppii" ; Times: 1
+	Query: "Sistrurus catenatus catenatus mappable:1" ; Times: 3
+	Query: "genus:Rhombophryne specificepithet:testudo" ; Times: 1
+	Query: "genus:Menetia specificepithet:greyii" ; Times: 1
+	Query: "Sistrurus catenatus mappable:1" ; Times: 3
+	Query: "genus:Lytorhynchus specificepithet:maynardi" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "Bothrops jararacussu mappable:1" ; Times: 1
+	Query: "genus:Bradypodion specificepithet:pumilum" ; Times: 1
+	Query: "Amphibia ancash" ; Times: 1
+	Query: "genus:Anguis" ; Times: 1
+	Query: "genus:elaphe country:&#34;iran&#34;" ; Times: 1
+	Query: "liopeltis tricolor" ; Times: 1
+	Query: "institutioncode:smns" ; Times: 4
+	Query: "xenelaphis" ; Times: 1
+	Query: "Bachia flavescens" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:stelzneri" ; Times: 1
+	Query: "specificepithet:superciliaris family:Bufonidae AND (NOT Cameroon)" ; Times: 1
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 1
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis AND (NOT Tanzania NOT Uganda NOT Ghana NOT Cameroon NOT Nigeria)" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "genus:Malpolon" ; Times: 1
+	Query: "Furcifer pardalis" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "genus:Cerastes specificepithet:vipera" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 2
+	Query: "genus:Naultinus" ; Times: 1
+	Query: "Podocnemis erythrocephala" ; Times: 3
+	Query: "genus:Crocodylus mappable:1" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 3
+	Query: "genus:Natriciteres" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis" ; Times: 1
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "genus:Micrurus specificepithet:nigrocinctus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 2
+	Query: "Eirenis collaris" ; Times: 1
+	Query: "Coluber constrictor arizona" ; Times: 2
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "Trachemys dorbigni" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "Amphisbaena alba mappable:1" ; Times: 1
+	Query: "calamaria linnaei" ; Times: 1
+	Query: "genus:Hylodes specificepithet:nasus" ; Times: 1
+	Query: "genus:Lacerta specificepithet:viridis" ; Times: 1
+	Query: "oligodon bitorquatus" ; Times: 1
+	Query: "Leptodactylus chaquensis mappable:1" ; Times: 1
+	Query: "boiga multomaculata" ; Times: 4
+	Query: "Boa constrictor mappable:1" ; Times: 2
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "genus:Ameiva specificepithet:ameiva" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis AND (NOT Tanzania NOT Uganda NOT Ghana NOT Cameroon NOT Nigeria NOT Zambia NOT Togo NOT Gabon)" ; Times: 1
+	Query: "platymantis boulengeri" ; Times: 2
+	Query: "timon pater" ; Times: 1
+	Query: "genus:Pseudemys specificepithet:concinna" ; Times: 1
+	Query: "gekko smithii" ; Times: 3
+	Query: "genus:Hydrops" ; Times: 1
+	Query: "tropiocolotes" ; Times: 7
+	Query: "(crocodylus porosus OR crocodylus acutus)" ; Times: 1
+	Query: "Macrovipera lebetina" ; Times: 2
+	Query: "genus:Boa" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Buhoma depressiceps" ; Times: 2
+	Query: "ITS 383" ; Times: 2
+	Query: "genus:Caudiverbera specificepithet:caudiverbera" ; Times: 1
+	Query: "eirenis modestus" ; Times: 1
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 1
+	Query: "liopeltis" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "genus:Chelus" ; Times: 1
+	Query: "Leiolepis reevesii" ; Times: 2
+	Query: "genus:pelamis country:&#34;indonesia&#34;" ; Times: 5
+	Query: "Podocnemis unifilis country:&#34;Colombia&#34;" ; Times: 3
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Boiga cyanea" ; Times: 1
+	Query: "Platymantis boulengeri" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "genus:Boophis specificepithet:rhodoscelis" ; Times: 1
+	Query: "genus:Crocodylus  specificepithet:porosus" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "specificepithet:pentadactylus genus:Leptodactylus mappable:1" ; Times: 1
+	Query: "Helminthophis flavoterminatus" ; Times: 2
+	Query: "eirenis collaris" ; Times: 1
+	Query: "genus:Hypsirhynchus" ; Times: 1
+	Query: "Bothrops jararaca mappable:1" ; Times: 4
+	Query: "libya" ; Times: 1
+	Query: "genus:Ahaetulla specificepithet:nasuta" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "Crocodylus acutus mappable:1" ; Times: 1
+	Query: "scincopus fasciatus" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis AND (NOT Tanzania NOT Uganda NOT Ghana NOT Cameroon NOT Nigeria NOT Zambia NOT Togo NOT Gabon NOT Liberia NOT Angola NOT Sudan)" ; Times: 2
+	Query: "genus:Crocodylus specificepithet:siamensis" ; Times: 1
+	Query: "specificepithet:parviceps " ; Times: 2
+	Query: "specificepithet:superciliaris family:Bufonidae AND (NOT Cameroon Ghana)" ; Times: 1
+	Query: "genus:pelamis country:&#34;samoa&#34;" ; Times: 2
+	Query: "specificepithet:blandingii genus:boiga country:&#34;cameroon&#34;" ; Times: 1
+	Query: "Zonosaurus ornatus" ; Times: 1
+	Query: "genus:Pseudemys specificepithet:texana" ; Times: 1
+	Query: "Pelomedusa" ; Times: 2
+	Query: "Scinax fuscovarius mappable:1" ; Times: 2
+	Query: "catalognumber:5011 institutioncode:SMNS" ; Times: 1
+	Query: "mimophis" ; Times: 1
+	Query: "genus:Brachyorrhos" ; Times: 1
+	Query: "Phrynops geoffroanus" ; Times: 1
+	Query: "genus:Phrynomantis" ; Times: 1
+	Query: "Hydrosaurus amboinensis" ; Times: 1
+	Query: "(melanosuchus niger)" ; Times: 1
+	Query: "genus:Boophis specificepithet:tephraeomystax" ; Times: 1
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 1
+	Query: "genus:Lytorhynchus specificepithet:paradoxus" ; Times: 1
+	Query: "micrurus corallinus" ; Times: 1
+	Query: "Blanus strauchi" ; Times: 1
+	Query: "Hyla geographica mappable:1" ; Times: 3
+	Query: "genus:Heleioporus specificepithet:eyrei" ; Times: 1
+	Query: "genus:Pachydactylus specificepithet:geitje" ; Times: 1
+	Query: "genus:Heterixalus" ; Times: 1
+	Query: "genus:Pseustes specificepithet:poecilonotus" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "micrurus narducci" ; Times: 3
+	Query: "Cricosaura typica" ; Times: 1
+	Query: "genus:Dermatemys specificepithet:mawii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 985 download events in this period)
+Total number of records downloaded: 286
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Uganda ; Times: 1
+	Country: Bhutan ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 13
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 4
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 5
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 6
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "Pelomedusa" ; Times: 1
+	Query: "Phyllurus platurus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:reptilia country:&#34;Singapore&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Namibia&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Malayemys subtrijuga" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Elseya dentata" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "tropiocolotes" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "Diplodactylus vittatus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "Cricosaura typica" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "lygodactylus" ; Times: 1
+
+
+End of report.
