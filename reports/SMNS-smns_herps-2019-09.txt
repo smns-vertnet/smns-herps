@@ -1,0 +1,261 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 241
+Number of records retrieved in searches: 614
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 60
+	Country: India ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Slovakia ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 21
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 128
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 3
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 10
+	Date: 2019-09-10 ; Times: 13
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-12 ; Times: 6
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-19 ; Times: 12
+	Date: 2019-09-30 ; Times: 8
+	Date: 2019-09-09 ; Times: 39
+	Date: 2019-09-08 ; Times: 4
+	Date: 2019-09-03 ; Times: 17
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 29
+	Date: 2019-09-04 ; Times: 13
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-20 ; Times: 13
+	Date: 2019-09-23 ; Times: 5
+	Date: 2019-09-25 ; Times: 8
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 7
+	Date: 2019-09-26 ; Times: 9
+	Date: 2019-09-29 ; Times: 8
+	Date: 2019-09-28 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis lineaticollis" ; Times: 1
+	Query: "Hyla minuta mappable:1" ; Times: 2
+	Query: "arvalis Rana" ; Times: 1
+	Query: "Physalaemus  henselii mappable:1" ; Times: 1
+	Query: "genus:Ahaetulla country:&#34;India&#34;" ; Times: 1
+	Query: "Pipa pipa mappable:1" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 4
+	Query: "country:Ecuador scientificname:Chironius flavopictus " ; Times: 1
+	Query: "Rhinoderma darwinii" ; Times: 3
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 1
+	Query: "Micrurus collaris" ; Times: 2
+	Query: "heterixalus betsileo" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 3
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "family:Viperidae country:&#34;Iran&#34;" ; Times: 1
+	Query: "Mastigodryas bifossatus mappable:1" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:SMNS" ; Times: 3
+	Query: "genus:Philoria specificepithet:frosti" ; Times: 1
+	Query: "class:amphibia country:&#34;liberia&#34;" ; Times: 2
+	Query: "Philodryas patagoniensis mappable:1" ; Times: 1
+	Query: "myrmecoides order:anura" ; Times: 1
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:SMNS" ; Times: 5
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 2
+	Query: "specificepithet:dorsalis genus:Rhinophrynus" ; Times: 1
+	Query: "bradypodion" ; Times: 3
+	Query: "Anilius scytale" ; Times: 1
+	Query: "Xenodon rabdocephalus mappable:1" ; Times: 1
+	Query: "specificepithet:feae genus:Brachytarsophrys" ; Times: 1
+	Query: "Micrurus frontalis frontalis mappable:1" ; Times: 1
+	Query: "Tantilla melanocephala mappable:1" ; Times: 1
+	Query: "specificepithet:fuscigula genus:Amietia" ; Times: 2
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "Erythrolamprus aesculapii mappable:1" ; Times: 1
+	Query: "specificepithet:nasuta genus:Ahaetulla country:&#34;India&#34;" ; Times: 1
+	Query: "mastigodryas bifossatus" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "indotestudo elongata" ; Times: 2
+	Query: "specificepithet:viridis genus:Bufo" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "Thamnodynastes strigilis mappable:1" ; Times: 1
+	Query: "Spilotes pullatus pullatus mappable:1" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Mastigodryas boddaerti mappable:1" ; Times: 1
+	Query: "specificepithet:pulcher genus:Phyllodactylus institutioncode:SMNS" ; Times: 5
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Pseustes poecilonotus mappable:1" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "genus:Gloydius" ; Times: 1
+	Query: "Liophis poecilogyrus mappable:1" ; Times: 1
+	Query: "Micrurus altirostris" ; Times: 2
+	Query: "rana arvalis" ; Times: 1
+	Query: "Leptodeira annulata mappable:1" ; Times: 1
+	Query: "Micrurus frontalis mappable:1" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "genus:Rhinophrynus" ; Times: 1
+	Query: "Eunectes murinus murinus mappable:1" ; Times: 1
+	Query: "Tantilla melanocephala melanocephala mappable:1" ; Times: 1
+	Query: "Chironius carinatus mappable:1" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+	Query: "country:Ecuador scientificname:Drymarchon corais " ; Times: 3
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "Oxyrhopus petola mappable:1" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Liophis miliaris mappable:1" ; Times: 1
+	Query: "Imantodes cenchoa cenchoa mappable:1" ; Times: 1
+	Query: "genus:Hyla specificepithet:sarda" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 2
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:amphisbaena country:&#34;suriname&#34;" ; Times: 1
+	Query: "Bothrops atrox mappable:1" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 6
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 1
+	Query: "Thalassophina viperina" ; Times: 2
+	Query: "Epicrates cenchria cenchria mappable:1" ; Times: 1
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "specificepithet:intermedius genus:Gloydius" ; Times: 1
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "Sphaerotheca" ; Times: 3
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 2
+	Query: "Oxybelis aeneus mappable:1" ; Times: 1
+	Query: "SMNS 2728" ; Times: 2
+	Query: "Oxyrhopus melanogenys mappable:1" ; Times: 1
+	Query: "specificepithet:kofordi genus:Phyllodactylus institutioncode:SMNS" ; Times: 5
+	Query: "Bothrops jararaca mappable:1" ; Times: 2
+	Query: "noblella myrmecoides order:anura" ; Times: 2
+	Query: "specificepithet:reissii genus:Phyllodactylus institutioncode:SMNS" ; Times: 5
+	Query: "Chironius quadricarinatus mappable:1" ; Times: 1
+	Query: "Liophis reginae mappable:1" ; Times: 1
+	Query: "ahaetulla nasuta" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:SMNS" ; Times: 3
+	Query: "Physalaemus  biligonigerus mappable:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:SMNS" ; Times: 8
+	Query: "Gloydius" ; Times: 1
+	Query: "specificepithet:resinifictrix genus:Trachycephalus" ; Times: 1
+	Query: "Bothrops itapetiningae mappable:1" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Kinosternon scorpioides scorpioides" ; Times: 2
+	Query: "Dipsas indica mappable:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Siphonops annulatus mappable:1" ; Times: 1
+	Query: "Eunectes murinus mappable:1" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 1
+	Query: "Calamaria institutioncode:SMNS" ; Times: 1
+	Query: "muelleri smns" ; Times: 1
+	Query: "Bothrops neuwiedi neuwiedi mappable:1" ; Times: 1
+	Query: "Sphenomorphus muelleri" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:SMNS" ; Times: 5
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "varanus giganteus" ; Times: 2
+	Query: "Bothrops neuwiedi mappable:1" ; Times: 1
+	Query: "furcifer pardalis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 16
+	Query: "Drymarchon corais" ; Times: 10
+	Query: "Epicrates cenchria mappable:1" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "Pseudobufo subasper" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:SMNS" ; Times: 5
+	Query: "Dipsas incerta" ; Times: 1
+	Query: "Philodryas olfersii mappable:1" ; Times: 1
+	Query: "SMNS 5767" ; Times: 1
+	Query: "Hydromedusa mappable:1" ; Times: 1
+	Query: "Callopistes" ; Times: 1
+	Query: "specificepithet:marginata genus:Phrynomedusa" ; Times: 1
+	Query: "python sebae" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Micrurus annellatus" ; Times: 1
+	Query: "Bothrophthalmus" ; Times: 17
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1073 download events in this period)
+Total number of records downloaded: 141
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Brunei ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 16
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-07 ; Times: 4
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "Thalassophina viperina" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "Dipsas incerta" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "Amphibia Colorado" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+
+
+End of report.
