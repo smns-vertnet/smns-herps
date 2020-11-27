@@ -1,0 +1,273 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 551
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Italy ; Times: 9
+	Country: Unknown ; Times: 7
+	Country: Hungary ; Times: 3
+	Country: France ; Times: 2
+	Country: Argentina ; Times: 21
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 4
+	Country: China ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Hong Kong ; Times: 2
+	Country: Philippines ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Poland ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 63
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: South Africa ; Times: 4
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 6
+	Date: 2019-10-22 ; Times: 13
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-20 ; Times: 8
+	Date: 2019-10-25 ; Times: 7
+	Date: 2019-10-24 ; Times: 5
+	Date: 2019-10-01 ; Times: 7
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 5
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-23 ; Times: 11
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 9
+	Date: 2019-10-19 ; Times: 3
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 4
+	Date: 2019-10-11 ; Times: 13
+	Date: 2019-10-16 ; Times: 13
+	Date: 2019-10-31 ; Times: 4
+	Date: 2019-10-14 ; Times: 3
+	Date: 2019-10-17 ; Times: 6
+	Date: 2019-10-15 ; Times: 7
+	Date: 2019-10-28 ; Times: 11
+	Date: 2019-10-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynobatrachus plicatus" ; Times: 1
+	Query: "boa constrictor mappable:1" ; Times: 1
+	Query: "Oligodon arnensis" ; Times: 1
+	Query: "Hoplobatrachus tigerinus" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "specificepithet:sinuatus genus:pelusios" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis fraseri " ; Times: 1
+	Query: "Werneria preussi" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 1
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "lycodon thailand" ; Times: 2
+	Query: "specificepithet:sicula genus:podarcis continent:europe" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Wolterstorffina parvipalmata" ; Times: 1
+	Query: "ophiophagus hannah" ; Times: 1
+	Query: "genus:Herpele specificepithet:squalostoma" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "Mastigodryas boddaerti" ; Times: 1
+	Query: "specificepithet:berus genus:Vipera country:&#34;Germany&#34;" ; Times: 1
+	Query: "Alytes muletensis" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Kaloula pulchra" ; Times: 3
+	Query: "genus:Ceratophrys" ; Times: 5
+	Query: "Abronia" ; Times: 4
+	Query: "specificepithet:sicula genus:podarcis country:&#34;italy&#34; institutioncode:SMNS" ; Times: 2
+	Query: "Gopherus agassizii 2016" ; Times: 1
+	Query: "Gopherus agassizii 2015" ; Times: 1
+	Query: "Rana japonica" ; Times: 1
+	Query: "Boiga ceylonensis" ; Times: 1
+	Query: "genus:Rana specificepithet:latastei" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 1
+	Query: "Furcifer pardalis" ; Times: 2
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Salamandrina" ; Times: 3
+	Query: "genus:pogona stateprovince:&#34;queensland&#34;" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 4
+	Query: "Tomodon ocellatus" ; Times: 4
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "genus:Pleurodema class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "Chironius foveatus" ; Times: 1
+	Query: "Crocodylus acutus 2015" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "psammobates" ; Times: 1
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 1
+	Query: "Pseudocordylus" ; Times: 1
+	Query: "Gopherus agassizii 1978" ; Times: 1
+	Query: "specificepithet:Burtonis genus:Lialis stateprovince:&#34;Queensland&#34;" ; Times: 2
+	Query: "specificepithet:sicula genus:podarcis country:&#34;italy&#34;" ; Times: 2
+	Query: "Chiasmocleis" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Corytophanes cristatus mappable:1" ; Times: 1
+	Query: "genus:Hylodes specificepithet:nasus" ; Times: 1
+	Query: "Pleurodema bibroni" ; Times: 1
+	Query: "Abronia deppii" ; Times: 3
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "genus:Rhinophrynus" ; Times: 1
+	Query: "specificepithet:chamaeleonides genus:Anolis" ; Times: 1
+	Query: "Sistrurus catenatus 1976" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "platymantis boulengeri" ; Times: 2
+	Query: "Mastigodryas bifossatus" ; Times: 1
+	Query: "Bombina" ; Times: 3
+	Query: "arborea Hyla" ; Times: 2
+	Query: "Draco volans" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "family:helodermatidae" ; Times: 1
+	Query: "Eupsophus roseus" ; Times: 2
+	Query: "limnophis" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "Ptychozoon kuhli" ; Times: 1
+	Query: "Astylosternus diadematus" ; Times: 1
+	Query: "Chironius flavolineatus" ; Times: 1
+	Query: "Philodryas patagoniensis" ; Times: 4
+	Query: "psammobates geometricus" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "Tropidophis maculatus" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "specificepithet:sartorii genus:tropidodipsas" ; Times: 1
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "pseudocordylus" ; Times: 3
+	Query: "Ptychozoon" ; Times: 3
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "Hamptophryne boliviana Peru" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Gopherus agassizii 1981" ; Times: 1
+	Query: "genus:Chiasmocleis" ; Times: 4
+	Query: "Hamptophryne boliviana" ; Times: 1
+	Query: "Rhinophis" ; Times: 2
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "Ceratophrys aurita" ; Times: 1
+	Query: "specificepithet:sartorii genus:tropidodipsas country:&#34;mexico&#34;" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 2
+	Query: "ursinii" ; Times: 2
+	Query: "genus:Triturus specificepithet:marmoratus" ; Times: 1
+	Query: "trimeresurus albolabris" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:aspis genus:Vipera country:&#34;Italy&#34;" ; Times: 1
+	Query: "specificepithet:griseus genus:varanus" ; Times: 2
+	Query: "Drymobius margaritiferus mappable:1" ; Times: 1
+	Query: "Conraua goliath" ; Times: 3
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "genus:oxyuranus stateprovince:&#34;queensland&#34;" ; Times: 1
+	Query: "Chironius quadricarinatus" ; Times: 1
+	Query: "genus:Scaphiodontophis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1308 download events in this period)
+Total number of records downloaded: 514
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 22
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 19
+	Country: Philippines ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: China ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-20 ; Times: 3
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 17
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-19 ; Times: 4
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-15 ; Times: 8
+	Date: 2019-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynobatrachus plicatus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "(Rana pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Chiasmocleis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Furcifer pardalis" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "(Rana pipiens) Canada" ; Times: 9
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "Rana pipiens country:&#34;Canada&#34;" ; Times: 2
+	Query: "Werneria preussi" ; Times: 1
+	Query: "Hyperolius guttulatus" ; Times: 1
+	Query: "gonatodes albogularis" ; Times: 1
+	Query: "genus:aprasia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Podarcis sicula" ; Times: 1
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "specificepithet:sicula genus:podarcis continent:europe" ; Times: 1
+	Query: "Wolterstorffina parvipalmata" ; Times: 1
+	Query: "silurana tropicalis" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "psammobates geometricus" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "Astylosternus diadematus" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "rana pipiens country:&#34;CANADA&#34;" ; Times: 1
+	Query: "Abronia" ; Times: 2
+	Query: "gonatodes humeralis" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "astylosternus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "rana pipiens Canada" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+
+
+End of report.
