@@ -1,0 +1,285 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 898
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Turkey ; Times: 3
+	Country: France ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Montenegro ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Chile ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 7
+	Country: Finland ; Times: 3
+	Country: Indonesia ; Times: 4
+	Country: United States ; Times: 50
+	Country: Mexico ; Times: 13
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 72
+	Country: Austria ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 33
+	Date: 2020-04-05 ; Times: 3
+	Date: 2020-04-06 ; Times: 3
+	Date: 2020-04-22 ; Times: 18
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 7
+	Date: 2020-04-07 ; Times: 35
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 6
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-28 ; Times: 4
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 14
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-03 ; Times: 7
+	Date: 2020-04-19 ; Times: 6
+	Date: 2020-04-18 ; Times: 5
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 7
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 5
+	Date: 2020-04-16 ; Times: 7
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 6
+	Date: 2020-04-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "SMNS Proteus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Trimeresurus" ; Times: 1
+	Query: "THAMNODYNASTES" ; Times: 1
+	Query: "genus:Dromicodryas" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "genus:leptopelis country:&#34;sierra leone&#34;" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 4
+	Query: "leiolepis belliana" ; Times: 1
+	Query: "Anomalepididae" ; Times: 1
+	Query: "Opisthotropis" ; Times: 1
+	Query: "Limnophis bicolor" ; Times: 1
+	Query: "rhinoclemmys rubida" ; Times: 1
+	Query: "Pelusios castaneus" ; Times: 5
+	Query: "Xenopus muelleri" ; Times: 6
+	Query: "Hoplobatrachus occipitalis" ; Times: 4
+	Query: "Fruhstorfer" ; Times: 1
+	Query: "Rana temporaria" ; Times: 8
+	Query: "staurotypus triporcatus" ; Times: 1
+	Query: "genus:enhydris country:&#34;indonesia&#34;" ; Times: 1
+	Query: "genus:Buhoma" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "country:Ecuador scientificname:Pseudoboa coronata " ; Times: 1
+	Query: "Bufo japonicus" ; Times: 10
+	Query: "scientificname:Dicrodon guttulatum " ; Times: 1
+	Query: "lacerta agilis" ; Times: 1
+	Query: "rhinoclemmys areolata" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 2
+	Query: "Chersina angulata" ; Times: 1
+	Query: "SMNS atra" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 6
+	Query: "specificepithet:ruber genus:Pseudotriton stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Chauvin" ; Times: 1
+	Query: "python reticulatus" ; Times: 3
+	Query: "Osteocephalus leprieurii" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "specificepithet:nigrocinctus genus:Micrurus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Liolaemus signifer" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "specificepithet:vernalis genus:Opheodrys stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Pelusios gabonensis" ; Times: 4
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "A. cristatella" ; Times: 6
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 3
+	Query: "specificepithet:himalayanus genus:Gloydius" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "dermatemys" ; Times: 2
+	Query: "genus:Dermatemys institutioncode:SMNS" ; Times: 6
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 3
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 1
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "opisthotropis" ; Times: 1
+	Query: "genimaculata" ; Times: 1
+	Query: "Tropidophis maculatus" ; Times: 7
+	Query: "Megophrys nasuta" ; Times: 3
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "Pelomedusa subrufa" ; Times: 4
+	Query: "Lacerta agilis germany" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 2
+	Query: "staurotypus salvinii" ; Times: 1
+	Query: "country:Ecuador scientificname:Erythrolamprus aesculapii " ; Times: 2
+	Query: "Pleurodeles waltl" ; Times: 2
+	Query: "genus:Pseustes country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Psammobates" ; Times: 1
+	Query: "Osteocephalus taurinus" ; Times: 7
+	Query: "pelusios gabonensis" ; Times: 2
+	Query: "pleurodeles waltl" ; Times: 2
+	Query: "proceratophrys" ; Times: 1
+	Query: "Silurana tropicalis" ; Times: 4
+	Query: "kinosternon subrubrum mississippi" ; Times: 1
+	Query: "Manouria impressa" ; Times: 1
+	Query: "genus:Boophis specificepithet:tephraeomystax" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 2
+	Query: "Caiman crocodilus" ; Times: 4
+	Query: "catalognumber:5290 institutioncode:SMNS" ; Times: 1
+	Query: "Barisia" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 4
+	Query: "genus:enhydris stateprovince:&#34;sulawesi&#34; country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 9
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Litoria genimaculata" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 90 (out of 1171 download events in this period)
+Total number of records downloaded: 484
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: Australia ; Times: 13
+	Country: Mexico ; Times: 3
+	Country: Panama ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 53
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-06 ; Times: 7
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-05 ; Times: 3
+	Date: 2020-04-20 ; Times: 6
+	Date: 2020-04-07 ; Times: 3
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-29 ; Times: 16
+	Date: 2020-04-08 ; Times: 3
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 5
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-19 ; Times: 5
+	Date: 2020-04-18 ; Times: 5
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-10 ; Times: 6
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:skiltonianus genus:Eumeces" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "specificepithet:metcalfi genus:Plethodon" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "rhinoclemmys areolata" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "genimaculata" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Desmognathus" ; Times: 1
+	Query: "emoia atrocostata" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "pleurodeles waltl" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "Limnophis bicolor" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "specificepithet:diademata genus:Ninia" ; Times: 1
+	Query: "Eugongylus albofasciolatus" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "elaphe dione" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "rhinoclemmys rubida" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "Melanosuchus niger" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:cerastes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "crotalus atrox" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+	Query: "staurotypus triporcatus" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "Litoria genimaculata" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "specificepithet:shermani genus:Plethodon" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Liolaemus signifer" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Lacerta agilis germany" ; Times: 2
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "dermatemys mawii" ; Times: 2
+	Query: "Rhabdophis tigrinus" ; Times: 1
+	Query: "Pseudemys peninsularis" ; Times: 1
+	Query: "hynobius" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 2
+	Query: "staurotypus salvinii" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Batrachoseps" ; Times: 1
+
+
+End of report.
