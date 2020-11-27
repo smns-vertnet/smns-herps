@@ -1,0 +1,231 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 317
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 2
+	Country: Algeria ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Spain ; Times: 3
+	Country: Ukraine ; Times: 4
+	Country: Poland ; Times: 1
+	Country: Finland ; Times: 3
+	Country: United States ; Times: 28
+	Country: Sweden ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-30 ; Times: 3
+	Date: 2020-03-31 ; Times: 5
+	Date: 2020-03-02 ; Times: 9
+	Date: 2020-03-18 ; Times: 3
+	Date: 2020-03-19 ; Times: 7
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-14 ; Times: 4
+	Date: 2020-03-15 ; Times: 5
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-27 ; Times: 7
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 6
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-04 ; Times: 8
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla punctata" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "genus:Vipera country:&#34;Armenia&#34;" ; Times: 1
+	Query: "genus:Vipera country:&#34;Greece&#34;" ; Times: 2
+	Query: "Phyllomedusa sauvagii" ; Times: 1
+	Query: "genus:Macrovipera country:&#34;Turkey&#34;" ; Times: 2
+	Query: "Colostethus littoralis" ; Times: 1
+	Query: "genus:Wolterstorffina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 1
+	Query: "specificepithet:bottae genus:charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scincopus" ; Times: 1
+	Query: "&#34;Colostethus littoralis&#34;" ; Times: 1
+	Query: "limnophis" ; Times: 1
+	Query: "Chamaelycus" ; Times: 1
+	Query: "polygrammicus" ; Times: 1
+	Query: "country:Ecuador scientificname:Epicrates cenchria " ; Times: 2
+	Query: "genus:Vipera country:&#34;Turkey&#34;" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Echis" ; Times: 1
+	Query: "genus:Scinax specificepithet:fuscovarius" ; Times: 2
+	Query: "Cricosaura typica" ; Times: 1
+	Query: "Scinax funereus" ; Times: 1
+	Query: "crocodylus siamensis" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 2
+	Query: "order:anura specificepithet:parviceps " ; Times: 1
+	Query: "country:Ecuador scientificname:Dendrophidion dendrophis " ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "Pseudohaje goldii" ; Times: 1
+	Query: "clemmys guttata stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "neusticurus ecpleopus" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "Lygodactylus conraui" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 4
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 2
+	Query: "genus:Carphophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "ophiophagus hannah" ; Times: 1
+	Query: "Testudo kleinmanni" ; Times: 1
+	Query: "Anolis fuscoauratus" ; Times: 1
+	Query: "specificepithet:blanfordi genus:trapelus" ; Times: 1
+	Query: "catalognumber:344 institutioncode:SMNS" ; Times: 1
+	Query: "masticophis mentovarius" ; Times: 2
+	Query: "oligosoma" ; Times: 1
+	Query: "genus:Emoia specificepithet:atrocostata" ; Times: 1
+	Query: "genus:Salamandrella specificepithet:keyserlingii" ; Times: 1
+	Query: "shinisaurus" ; Times: 1
+	Query: "genus:Stenocercus institutioncode:SMNS" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:moreletii" ; Times: 1
+	Query: "genus:Rhinophrynus" ; Times: 1
+	Query: "Anolis fraseri" ; Times: 1
+	Query: "genus:Buhoma" ; Times: 2
+	Query: "Hardella thurjii" ; Times: 1
+	Query: "Naja haje" ; Times: 1
+	Query: "Hemachatus haemachatus" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:SMNS" ; Times: 1
+	Query: "specificepithet:esculenta genus:rana" ; Times: 1
+	Query: "necturus maculosus AND (canada)" ; Times: 1
+	Query: "Anolis chamaeleonides" ; Times: 1
+	Query: "macrovipera" ; Times: 1
+	Query: "rhinoderma" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "Aspidelaps lubricus" ; Times: 1
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+	Query: "uracentron" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 853 download events in this period)
+Total number of records downloaded: 232
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Cuba ; Times: 2
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Belgium ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 3
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-16 ; Times: 3
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 2
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 4
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "pseudotriton" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "scincus scincus" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "&#34;atelopus peruensis&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "Colostethus littoralis" ; Times: 1
+	Query: "genus:Agkistrodon" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "shinisaurus" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "Ahaetulla nasuta" ; Times: 1
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "masticophis mentovarius" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "Hyla punctata" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "&#34;Colostethus littoralis&#34;" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
