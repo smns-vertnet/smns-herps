@@ -1,0 +1,271 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 380
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 2
+	Country: France ; Times: 6
+	Country: Bolivia ; Times: 4
+	Country: Ecuador ; Times: 13
+	Country: Australia ; Times: 10
+	Country: Iran ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 12
+	Country: Belgium ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 47
+	Country: Vietnam ; Times: 9
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 6
+	Date: 2020-05-24 ; Times: 21
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-21 ; Times: 4
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 16
+	Date: 2020-05-29 ; Times: 18
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-12 ; Times: 7
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-14 ; Times: 3
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 7
+	Date: 2020-05-17 ; Times: 3
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-07 ; Times: 22
+	Date: 2020-05-06 ; Times: 7
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-03 ; Times: 4
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Zootoca vivipara" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "specificepithet:melanotus genus:Liophis" ; Times: 1
+	Query: "Prosymna meleagris" ; Times: 1
+	Query: "Anomalepididae" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis fraseri " ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 4
+	Query: "Limnophis bicolor" ; Times: 1
+	Query: "pseudobufo" ; Times: 1
+	Query: "ACRANTOPHIS" ; Times: 1
+	Query: "genus:Bothrops specificepithet:jararaca" ; Times: 6
+	Query: "class:Amphibia country:&#34;Algeria&#34;" ; Times: 6
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "iguaçu" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "genus:Pseudobufo specificepithet:subasper" ; Times: 1
+	Query: "specificepithet:reticulata genus:Tantilla" ; Times: 4
+	Query: "specificepithet:pulverulenta genus:Boiga" ; Times: 2
+	Query: "genus:Phrynomantis specificepithet:bifasciatus" ; Times: 1
+	Query: "specificepithet:semicincta genus:Tantilla" ; Times: 2
+	Query: "10041" ; Times: 1
+	Query: "Dipsas bicolor" ; Times: 2
+	Query: "locality:Iguaçu" ; Times: 1
+	Query: "abronia" ; Times: 3
+	Query: "Acanthochelys macrocephala" ; Times: 2
+	Query: "Scinax fuscovarius" ; Times: 1
+	Query: "Gloydius halys" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:sauvagii" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "Chauvin" ; Times: 1
+	Query: "genus:Bombina specificepithet:orientalis" ; Times: 1
+	Query: "Chironius bicarinatus" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "Cerrophidion" ; Times: 1
+	Query: "Buhoma depressiceps" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Santa Catarina&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "specificepithet:aeneus genus:Oxybelis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Kaloula specificepithet:pulchra" ; Times: 1
+	Query: "Sphenodon" ; Times: 8
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "specificepithet:lima genus:Occidozyga" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Pareas monticola" ; Times: 5
+	Query: "country:Ecuador scientificname:Plica plica " ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 2
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 3
+	Query: "genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Salamandra specificepithet:salamandra" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Kaloula pulchra" ; Times: 1
+	Query: "ahaetulla nasuta" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 2
+	Query: "Gloydius blomhoffii" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Lacerta agilis germany" ; Times: 1
+	Query: "country:Ecuador scientificname:Drymarchon corais " ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "erosa erosa" ; Times: 1
+	Query: "Pareas" ; Times: 2
+	Query: "specificepithet:lepidopodus genus:pygopus" ; Times: 6
+	Query: "specificepithet:luctuosa family:Ranidae" ; Times: 1
+	Query: "IF 10041" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "genus:Scinax specificepithet:fuscovarius" ; Times: 1
+	Query: "Bothrophthalmus lineatus" ; Times: 1
+	Query: "acanthosaura armata" ; Times: 2
+	Query: "Pelobates cultripes" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 11
+	Query: "iguazu" ; Times: 2
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 2
+	Query: "Lycophidion irroratum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Manabi&#34; country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "oxyrhopus melanogenys" ; Times: 13
+	Query: "Acanthophis" ; Times: 2
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "genus:Caiman family:Alligatoridae" ; Times: 1
+	Query: "erythrolamprus" ; Times: 1
+	Query: "Litoria genimaculata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 1106 download events in this period)
+Total number of records downloaded: 866
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 39
+	Country: Australia ; Times: 13
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 6
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 6
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-18 ; Times: 5
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-12 ; Times: 3
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 7
+	Date: 2020-05-05 ; Times: 7
+	Date: 2020-05-04 ; Times: 4
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 3
+	Query: "Dipsas bicolor" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Tylototriton" ; Times: 1
+	Query: "order:Squamata country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leptotyphlops conjunctus" ; Times: 1
+	Query: "Lycophidion irroratum" ; Times: 1
+	Query: "specificepithet:texana genus:pseudemys" ; Times: 1
+	Query: "Prosymna meleagris" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "Emoia nigra" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Trimeresurus albolabris" ; Times: 3
+	Query: "vntype:specimen order:Squamata stateprovince:&#34;São Paulo&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "specificepithet:latirostris genus:Caiman family:Alligatoridae" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "Hydraethiops melanogaster" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "Bothrophthalmus lineatus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "ctenosaura similis" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "Natriciteres olivacea" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Buhoma depressiceps" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Santa Catarina&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Santa Catarina&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Gloydius blomhoffii" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Mabuya rudis" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;São Paulo&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Stegonotus" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+	Query: "necturus maculosus" ; Times: 1
+
+
+End of report.
