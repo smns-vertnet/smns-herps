@@ -1,0 +1,204 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 884
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Australia ; Times: 5
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 61
+	Country: Belgium ; Times: 14
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Slovakia ; Times: 3
+	Country: Vietnam ; Times: 18
+	Country: Switzerland ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 14
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 33
+	Date: 2019-12-27 ; Times: 8
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-23 ; Times: 3
+	Date: 2019-12-22 ; Times: 9
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 5
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 15
+	Date: 2019-12-11 ; Times: 5
+	Date: 2019-12-12 ; Times: 6
+	Date: 2019-12-13 ; Times: 11
+	Date: 2019-12-16 ; Times: 7
+	Date: 2019-12-17 ; Times: 4
+	Date: 2019-12-30 ; Times: 5
+	Date: 2019-12-09 ; Times: 5
+	Date: 2019-12-08 ; Times: 11
+	Date: 2019-12-05 ; Times: 5
+	Date: 2019-12-03 ; Times: 8
+	Date: 2019-12-02 ; Times: 16
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "vntype:specimen (Gonocephalus) NOT (grandis) NOT (New Guinea) NOT (Australia)" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "chamaeleo zeylanicus" ; Times: 1
+	Query: "specificepithet:carens genus:Schismaderma" ; Times: 2
+	Query: "specificepithet:grandis genus:heosemys" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "furcifer verrucosus" ; Times: 3
+	Query: "platymantis pelewensis" ; Times: 2
+	Query: "specificepithet:cruciger genus:Atelopus" ; Times: 2
+	Query: "242523" ; Times: 1
+	Query: "genus:phyllomedusa country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Stenocercus iridescens " ; Times: 1
+	Query: "genus:Amietia specificepithet:fuscigula" ; Times: 1
+	Query: "specificepithet:parvipalmata genus:Wolterstorffina" ; Times: 2
+	Query: "morelia amethistina" ; Times: 2
+	Query: "family:Hylidae institutioncode:SMNS" ; Times: 1
+	Query: "leptopus" ; Times: 1
+	Query: "chamaeleo namaquensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Dipsas gracilis " ; Times: 1
+	Query: "genus:Ichthyophis" ; Times: 1
+	Query: "boydii" ; Times: 2
+	Query: "Ceratophrys cornuta" ; Times: 2
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 3
+	Query: "Proceratophrys boiei" ; Times: 1
+	Query: "Bufo lindneri" ; Times: 2
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 2
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Mauremys leprosa and Morocco" ; Times: 1
+	Query: "Abronia deppii" ; Times: 1
+	Query: "specificepithet:chamaeleontinus genus:Gonocephalus NOT (FMNH)" ; Times: 1
+	Query: "vipera kaznakovi" ; Times: 10
+	Query: "shinisaurus crocodilurus" ; Times: 2
+	Query: "Varanus timorensis" ; Times: 6
+	Query: "kaznakovi" ; Times: 1
+	Query: "harpesaurus" ; Times: 1
+	Query: "bombina variegata" ; Times: 1
+	Query: "Ptyas dhumnades" ; Times: 2
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "aneides north carolina" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "Wolterstorffina parvipalmata" ; Times: 11
+	Query: "amethistina" ; Times: 10
+	Query: "specificepithet:peruensis genus:Atelopus" ; Times: 2
+	Query: "Platymantis boulengeri" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:terribilis" ; Times: 2
+	Query: "crocodylus Borneo" ; Times: 3
+	Query: "chamaeleo cristatus" ; Times: 4
+	Query: "Elapsoidea" ; Times: 1
+	Query: "pelobates fuscus" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Fruhstorfer" ; Times: 1
+	Query: "specificepithet:horridum genus:heloderma" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "genus:testudo" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "specificepithet:preussi genus:Werneria" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 18
+	Query: "specificepithet:stelzneri genus:Melanophryniscus" ; Times: 2
+	Query: "genus:Buhoma" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 2
+	Query: "specificepithet:subasper genus:Pseudobufo" ; Times: 2
+	Query: "vntype:specimen genus:Boiga country:&#34;India&#34;" ; Times: 1
+	Query: "Trichobatrachus robustus mappable:1" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "chamaeleo gracilis" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Morelia amethistina" ; Times: 2
+	Query: "specificepithet:curtus genus:Python" ; Times: 3
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 596 download events in this period)
+Total number of records downloaded: 213
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Belgium ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 21
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Varanus tristis" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "Mauremys leprosa and Morocco" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "Abronia deppii" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
