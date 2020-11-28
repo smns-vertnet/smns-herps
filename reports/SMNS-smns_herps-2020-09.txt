@@ -1,0 +1,233 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 944
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Turkey ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 12
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 16
+	Country: Czechia ; Times: 2
+	Country: Finland ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 22
+	Country: Australia ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: China ; Times: 1
+	Country: Argentina ; Times: 8
+	Country: United States ; Times: 68
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-08 ; Times: 11
+	Date: 2020-09-03 ; Times: 8
+	Date: 2020-09-02 ; Times: 5
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-07 ; Times: 5
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 8
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-23 ; Times: 8
+	Date: 2020-09-22 ; Times: 6
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-27 ; Times: 12
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 18
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 12
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-11 ; Times: 10
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-18 ; Times: 25
+	Date: 2020-09-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "chioglossa" ; Times: 1
+	Query: "mappable:1 scientificname:Proceratophrys boiei" ; Times: 19
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "plica umbra" ; Times: 6
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "Ahaetulla pulverulenta" ; Times: 1
+	Query: "Lacerta agilis germany" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus chaquensis" ; Times: 3
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "tropidodipsas sartorii" ; Times: 1
+	Query: "zonosaurus" ; Times: 2
+	Query: "Polychrus" ; Times: 1
+	Query: "ABRONIA" ; Times: 1
+	Query: "pareas monticola" ; Times: 1
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:SMNS" ; Times: 2
+	Query: "lechler" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:delalandii genus:Tarentola institutioncode:SMNS" ; Times: 2
+	Query: "acrochordus granulatus" ; Times: 1
+	Query: "specificepithet:kuhli family:gekkonidae" ; Times: 1
+	Query: "Plica umbra" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:SMNS" ; Times: 2
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "xylophis perroteti" ; Times: 1
+	Query: "institutioncode:SMNS" ; Times: 2
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "catalognumber:2045 institutioncode:SMNS" ; Times: 2
+	Query: "thamnophis sumichrasti" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "SMNS 2045" ; Times: 1
+	Query: "mappable:1 scientificname:Phyllomedusa sauvagii" ; Times: 2
+	Query: "specificepithet:pulcher genus:Phyllodactylus institutioncode:SMNS" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:inaequalis genus:Phyllodactylus institutioncode:SMNS" ; Times: 2
+	Query: "genus:Bitis country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "specificepithet:guttatus genus:Ptyodactylus institutioncode:SMNS" ; Times: 2
+	Query: "genus:pelochelys" ; Times: 1
+	Query: "genus:Bombina specificepithet:orientalis" ; Times: 1
+	Query: "xenodon rabdocephalus" ; Times: 1
+	Query: "Tarentola delalandii" ; Times: 2
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 12
+	Query: "genus:Scinax institutioncode:SMNS" ; Times: 2
+	Query: "Sphenodon" ; Times: 1
+	Query: "ichthyophis" ; Times: 1
+	Query: "specificepithet:riebeckii genus:Haemodracon institutioncode:SMNS" ; Times: 2
+	Query: "micrurus elegans" ; Times: 1
+	Query: "Janos" ; Times: 2
+	Query: "condanarus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "genus:Bufo specificepithet:japonicus" ; Times: 2
+	Query: "genus:cerberus order:Squamata" ; Times: 2
+	Query: "mappable:1 scientificname:Ophiodes striatus" ; Times: 4
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Atretium schistosum" ; Times: 4
+	Query: "Antillophis andreai" ; Times: 1
+	Query: "specificepithet:kofordi genus:Phyllodactylus institutioncode:SMNS" ; Times: 2
+	Query: "Atretium" ; Times: 1
+	Query: "specificepithet:reissii genus:Phyllodactylus institutioncode:SMNS" ; Times: 2
+	Query: "specificepithet:oudrii genus:Ptyodactylus institutioncode:SMNS" ; Times: 2
+	Query: "Trichobatrachus" ; Times: 2
+	Query: "Phyllobates terribilis" ; Times: 2
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:SMNS" ; Times: 2
+	Query: "Xenopeltidae" ; Times: 1
+	Query: "country:Ecuador scientificname:Erythrolamprus aesculapii " ; Times: 1
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:SMNS" ; Times: 2
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 2
+	Query: "hydrophis atriceps" ; Times: 5
+	Query: "scaphiodontophis annulatus" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "genus:Aspideretes" ; Times: 1
+	Query: "specificepithet:deserti genus:Tarentola institutioncode:SMNS" ; Times: 2
+	Query: "specificepithet:elisae genus:Asaccus institutioncode:SMNS" ; Times: 2
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:SMNS" ; Times: 2
+	Query: "Tropidophis genus:Tropidophis country:&#34;Cuba&#34;" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "SMNS" ; Times: 2
+	Query: "mappable:1 scientificname:Physalaemus biligonigerus" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "janos" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "specificepithet:pulcher family:gekkonidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 976 download events in this period)
+Total number of records downloaded: 243
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 23
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Fiji ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "emydoidea" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "plica umbra" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "thamnophis sumichrasti" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "scaphiodontophis annulatus" ; Times: 1
+	Query: "tropidodipsas sartorii" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 2
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "tympanocryptis cephalus" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "xenodon rabdocephalus" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 2
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "micrurus nigrocinctus" ; Times: 1
+
+
+End of report.
