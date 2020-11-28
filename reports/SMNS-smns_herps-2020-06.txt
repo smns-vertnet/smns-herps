@@ -1,0 +1,150 @@
+Report for Institution Code SMNS, Resource smns_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 838
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 21
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 79
+	Country: Germany ; Times: 10
+	Country: Peru ; Times: 3
+	Country: Switzerland ; Times: 3
+	Country: Slovakia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 3
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-25 ; Times: 2
+	Date: 2020-06-08 ; Times: 14
+	Date: 2020-06-09 ; Times: 8
+	Date: 2020-06-06 ; Times: 8
+	Date: 2020-06-07 ; Times: 5
+	Date: 2020-06-04 ; Times: 25
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-02 ; Times: 8
+	Date: 2020-06-03 ; Times: 10
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-10 ; Times: 6
+	Date: 2020-06-11 ; Times: 1
+	Date: 2020-06-12 ; Times: 7
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:semicincta genus:Tantilla" ; Times: 3
+	Query: "Calliophis intestinalis" ; Times: 1
+	Query: "genus:Philautus specificepithet:aurifasciatus" ; Times: 1
+	Query: "brava" ; Times: 1
+	Query: "gloydius" ; Times: 3
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "boiga trigonata india" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 18
+	Query: "genus:Triturus specificepithet:carnifex" ; Times: 1
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "Siphonops" ; Times: 1
+	Query: "Lacerta agilis germany" ; Times: 1
+	Query: "genus:Oxybelis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "oligodon arnensis india" ; Times: 2
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "specificepithet:semicincta genus:Tantilla class:Reptilia" ; Times: 2
+	Query: "Cercosaura bassleri" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "trimeresurus" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Sceloporus spinosus" ; Times: 2
+	Query: "genus:Drymarchon country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "Afrixalus dorsalis mappable:1" ; Times: 2
+	Query: "boiga ceylonensis" ; Times: 1
+	Query: "genus:Philodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Erythrolamprus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "trimeresurus malabaricus india" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 4
+	Query: "genus:chironius country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34; institutioncode:SMNS" ; Times: 1
+	Query: "Fischer Tanzania" ; Times: 2
+	Query: "genus:Tropidophis" ; Times: 2
+	Query: "ahaetulla nasuta india" ; Times: 2
+	Query: "Natrix tessellata" ; Times: 3
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 1
+	Query: "genus:Leptophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "xenochrophis maculatus" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "boiga ceylonensis india" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "rana temporaria" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 4
+	Query: "gloydius intermedius" ; Times: 7
+	Query: "boiga trigonata" ; Times: 1
+	Query: "amphiesma stolatum" ; Times: 3
+	Query: "Cercosaura ocellata bassleri" ; Times: 1
+	Query: "specificepithet:subcinctus country:&#34;indonesia&#34;" ; Times: 1
+	Query: "SMNS" ; Times: 6
+	Query: "genus:Pseudoboa country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "genus:dendrophidion country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "ahaetulla perroteti" ; Times: 1
+	Query: "Trimeresurus puniceus" ; Times: 4
+	Query: "genus:Chamaesaura" ; Times: 1
+	Query: "genus:trimeresurus" ; Times: 1
+	Query: "specificepithet:atrox country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Liophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "lycodon aulicus india" ; Times: 4
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 474 download events in this period)
+Total number of records downloaded: 7110
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-25 ; Times: 2
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "SMNS" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cercosaura ocellata bassleri" ; Times: 1
+	Query: "Cercosaura bassleri" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Dipsas country:&#34;Peru&#34;" ; Times: 1
+	Query: "Emoia mivarti" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "specificepithet:atrox country:&#34;Peru&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "gloydius intermedius" ; Times: 1
+	Query: "Neusticurus ecpleopus" ; Times: 1
+
+
+End of report.
